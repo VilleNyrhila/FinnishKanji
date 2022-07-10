@@ -1,0 +1,112 @@
+# Manually added in homophonous characters.
+# Source for homophony added in a comment on the same line, when avaiable
+# For example: kSemanticVariant, which means the information was given in the characters entry in the Unihan database.
+姫: 姬
+竜: 龍
+亀: 龜
+汽: 气
+姉: 姊
+週: 周
+歩: 步
+毎: 每
+畑: 田
+氷: 冰
+働: 動
+歴: 歷
+雑: 雜
+絶: 絕
+増: 增
+徳: 德
+巻: 卷
+胸: 匈
+厳: 嚴
+冊: 册
+磁: 兹
+値: 值
+賃: 任
+拝: 拜
+幻: 眩
+込: 入
+呉: 吳
+抜: 拔
+岬: 甲
+枠: 樺
+咲: 笑
+峠: 咭
+拷: 考
+砕: 碎
+娯: 娛
+挿: 插
+桟: 棧
+涙: 淚
+砲: 包
+耗: 秏
+陥: 陷
+掲: 揭
+殻: 殼
+渇: 渴
+渓: 溪
+渉: 涉
+蛍: 螢
+斎: 齋
+圏: 圈
+塀: 垣
+婿: 壻
+痘: 豆
+硬: 更
+粧: 妝
+寛: 寬
+搾: 榨
+靴: 化
+暦: 曆
+徴: 徵
+銃: 充
+駄: 太
+髪: 髮
+錬: 鍊
+撃: 擊
+墾: 艮
+懇: 艮
+擦: 察
+礁: 焦
+壌: 壤
+騒: 騷
+聴: 聽
+縄: 繩
+覇: 霸
+賠: 咅
+弊: 敝
+舗: 甫
+穂: 穗
+癒: 愈
+頼: 賴
+隣: 粦
+脇: 脅
+頬: 頰
+匂: 勻
+湧: 勇
+叱: 七
+痩: 瘦
+埼: 奇
+芯: 心
+侶: 呂
+栃: 勵
+喩: 喻
+腺: 線
+麺: 麵
+彙: 胃
+捗: 陟
+
+薩: 薛
+蘊: 藴
+涅: 湼
+峨: 我
+咒: 呪
+螂: 蜋
+
+橇: 脆
+讐: 讎  # kSemanticVariant
+嵗: 歲  # kSemanticVariant
+廻: 回  # kSemanticVariant
+蛋: 蜑  # kSemanticVariant
+糕: 餻  # kSemanticVariant

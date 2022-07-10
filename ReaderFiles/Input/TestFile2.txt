@@ -1,0 +1,36 @@
+; Pekan sanat ja lauseet
+駝鹿  # hirvi
+矢   # nuoli
+馬克  # rajamaa
+領土  # Myös rajamaa
+橇   # reki, ehkä kävisi myös ahkiosta
+膿瘍  # paise, jnp. "nouyou", mandarin "Nóngyáng"
+病気  # sairaus
+医者  # lääkäri
+水   # vesi
+湖   # järvi
+皇帝  # keisari
+雪   # lumi
+冬   # talvi
+礼拝所 # palvontapaikka
+供犠林 # uhrilehto
+康特勒琴    # Kantele
+歌   # laulu
+詩   # runo
+營火  # nuotio
+煙   # savu
+肉   # liha, Mandarin "ròu"
+熊   # karhu
+包   # jurtta, "kota"
+香水  # kousui
+瑛人  # eijin
+; Korea
+三國史記    # Samguk Sagi, "History of the Three Kingdoms"
+; Japan
+倭国大乱    # wakoku tairan, "Civil War of Wa" or "Great Rebellion of Wa"
+; Choice dynasties
+魏   # Wei (386–535)
+隋   # Sui (581–618)
+唐   # Tang (618–690, 705–907)
+魏音  # Wei sound
+唐音  # Tang sound

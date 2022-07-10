@@ -1,0 +1,107 @@
+; Style Names
+北斗神拳
+南斗聖拳
+元斗皇拳
+; Nanto Seiken Schools, etc.
+南斗白鷺拳   # Nanto Hakurō Ken, Shu
+仁星
+南斗鳳凰拳   # Nanto Hōō Ken, Souther
+将星
+南斗紅鶴拳   # Nanto Kōkaku Ken, Yuda
+妖星
+南斗孤鷲拳   # Nanto Koshū Ken, Shin
+殉星
+南斗六聖拳最後将    # Nanto Saigo (no) Shō
+慈母星
+南斗水鳥拳   # Nanto Suichō Ken, Rei
+義星
+南斗五車星   # Nanto Goshasei, Five Chariot Stars of South Dipper
+我流拳 # Self-Taught Fist
+五車炎情拳
+五車風裂拳
+五車波砕拳
+五車山峨斬
+; Gento Kouken
+天帝
+天帝星
+大極星
+; Hokuto Shinken Moves
+# Source: https://www.liquisearch.com/hokuto_shinken/techniques
+五指烈弾
+北斗双龍波
+流星破顔脚
+北斗絞首逆折
+北斗百裂弾
+北斗百裂拳   # Hokuto Hyakuretsu Ken
+二指真空把   # Nishi Shinkuu Ha, Two Finger Air Snatch
+岩山両斬波   # Ganzan Ryōzan Ha, Boulder Splitting Wave
+北斗残悔拳   # Hokuto Zankai Ken, North Star Remorse Fist
+交首破顔拳
+北斗柔破斬
+北斗飛衛拳
+北斗十字斬
+北斗鋼筋分断脚
+北斗繰筋自在脚
+北斗連環組手  # Hokuto Renkan Kumite
+空極流舞
+北斗壊骨拳
+北斗虚無指弾
+北斗断骨筋
+転龍呼吸法
+北斗七死星点
+北斗千手壊拳
+北斗破顔拳
+聖極輪
+北斗龍撃虎
+北斗千手殺
+北斗八悶九断
+北斗羅漢撃
+醒鋭孔
+秘孔封
+残悔積歩拳
+北斗鋼裂把
+北斗有情拳   # Hokuto Ujō Ken
+北斗有情破顔拳 # Hokuto Ujō Hagan Ken
+北斗七死闘気断
+北斗七死騎兵斬
+七星点心
+水影心
+北斗有情断迅拳
+天破活殺    # Tenha Kassatsu
+北斗有情猛翔破
+七星抹殺
+北斗天帰掌
+無想陰殺
+闘勁呼法
+天翔百裂拳
+北斗剛掌波
+無想転生    # Musō Tensei, Unconscious Transmigration of Souls
+天将奔烈    # Tenshō Honretsu, Heaven's Command Charge
+北斗仙気雷弾
+拳盗捨断
+七点掌
+残影蠍拳
+北斗四方斬
+北斗百方斬
+交首破頭拳
+飛鳥空斬波
+烈火逆流拳
+命奪崩壊拳
+北斗翻車爆裂拳
+北斗繰筋自在拳
+北斗千連脚
+北斗虚空斬
+北斗縦列破
+発勁法
+北斗旋風連撃
+北斗胸殺刺突拳
+北斗撃墜指
+北斗円環斬襲脚
+解毒術
+当門穴破指挿
+雷暴神脚
+調気呼吸術
+北斗円掌波
+北斗輯連打
+北斗一点鐘
+北斗天魁千烈掌

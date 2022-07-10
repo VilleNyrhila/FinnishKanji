@@ -1,0 +1,48 @@
+; Buddhist terms and phrases
+仏教  # Buddhism
+顕教  #Kengyō; exoteric Buddhism; public Buddhist teachings
+密教  # esoteric Buddhism; Tantric Buddhism; Vajrayana; secret Buddhist teachings; Mikkyō
+浄土宗 # Pure Land sect (of Buddhism); Jodo (sect)
+浄土真宗    #  "The True Essence of the Pure Land Teaching"
+一向一揆    # Ikkō-ikki, "Ikkō-shū Uprising"
+菩薩  # Boddhisattva
+阿修羅 # Asura
+波羅蜜多    # Paramita
+地獄  # Hell
+極楽  # Jpn. gokuraku, sanskrit "Sukhavati", ~ paradise
+和尚  # monk in Chinese
+僧侶  # also monk in Chinese
+僧   # monk in Japanese
+比丘  # also monk in Japanese
+如意金箍棒   # Ruyi Jingu Bang, the staff of Sun Wukong
+定海神针    # Ding Hai Shen Zhen, other name of Sun Wukong's staff
+; Zen
+禪   # Zen
+禅宗  # Zen (Buddhism)
+菩提達摩    # Bodhidharma
+達摩  # (Bodhi)dharma
+碧眼胡 # "The Blue-Eyed Barbarian", aka Bodhidharma
+無門關 # "The Gateless Barrier" / "Aidattoman portin puomi"
+逢仏殺仏    # Meet the Buddha, kill the Buddha
+; Buddhist Saints
+不動明王    # Fudo Myou
+觀音  # Avalokiteśvara / Kannon
+虚空蔵菩薩   # Kokuzo Bosatsu
+文殊菩薩    # Monju Bosatsu
+普賢菩薩    # Fugen Bosatsu
+大勢至菩薩    # (Dai)Seishi Bosatsu, Mahasthamaprapta
+大日如来    # Dainichi Nyorai
+阿弥陀如来   # Amida Nyorai
+; Mantras
+羯諦羯諦波羅羯諦波羅僧羯諦菩提薩婆訶  # Gate Gate Paragate Parasamgate Bodhi Svaha
+唵散髯髯娑婆诃 # Mantra of Mahasthamaprapta
+南無阿弥陀仏  # Namu Amida Butsu, Japanese
+南無阿彌陀佛  # Namu Amita Bul, Korean (Chinese and Vietnamese use same characters)
+; Niō
+仁王 # Ni-ou
+金剛力士    # Kongou Rikishi
+密迹金剛    # Mishaku Kongou
+那羅延金剛   # Naraen Kongou
+執金剛神    # Vajrapani, Shukongoushin
+; Other
+天上天下唯我独尊    # Siddharta Gautama's first words according to legend: "Above and below Heaven, I alone am exalted."

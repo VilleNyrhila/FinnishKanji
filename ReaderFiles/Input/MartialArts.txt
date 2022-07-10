@@ -1,0 +1,39 @@
+; Martial Arts
+格闘技 # Kakutougi, kamppailulajit
+合気道 # Aikido, Hapkido
+截拳道 # Jeet Kune Do
+李小龍 # Lee Jun-fan, Bruce Lee
+; Karate
+空手  # Karate, Empty Hand, "Tyhjäkäsi"
+和道流 # Wadoryu (karate)
+極真  # Kyokushin
+松濤館 # Shoutoukan
+; Japanese
+武道  # Budou
+武術  # Bujutsu
+道場  # Dojo
+剣術  # Kenjutsu
+劍術  # Kenjutsu, archaic sword letter.
+劍道  # Kendo
+柔道  # Judo
+拳法  # Kenpo
+格闘  # Kakutou
+武道館 # Budoukan
+武徳会 # Butokukai
+急所術 # Kyuushojutsu, pressure point techniques
+; Korean
+托肩  # Taekkyeon
+跆拳道 # Taekwondo
+; Wushu
+武術  # Wushu
+功夫  # Kungfu
+師傅  # Sifu
+氣功  # Qigong
+太極  # Tai Chi
+咏春拳 # Wing Chun Kuen
+八極拳 # Bajiquan
+點脈  # Dim Mak, "Death Touch", lit. 'press artery'
+點穴  # diǎnxué, same as Dim Mak
+少林寺 # Shaolin Temple
+武當山 # Wudang Mountain
+五仙庙 # Temple of the Five Immortals

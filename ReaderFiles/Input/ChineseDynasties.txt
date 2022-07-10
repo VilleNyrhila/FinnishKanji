@@ -1,0 +1,124 @@
+; Terminology
+朝 # Cháo, a dynasty
+朝代 # cháodài, an era corresponding to the rule of a dynasty
+王朝 # wángcháo, while technically referring to royal dynasties, this term is often inaccurately applied to all dynasties, including those whose rulers held non-royal titles such as emperor
+皇朝  # huángcháo, generally used for imperial dynasties
+; Dynasties
+夏朝  # Xià Cháo
+商朝  # Shāng Cháo
+西周  # Xī Zhōu
+東周  # Dōng Zhōu
+秦朝  # Qín Cháo
+西漢  # Xī Hàn, Western Han
+新朝  # Xīn Cháo
+東漢  # Dōng Hàn, Eastern Han
+三國  # Sān Guó
+曹魏  # Cáo Wèi
+蜀漢  # Shǔ Hàn
+東吳  # Dōng Wú
+西晉  # Xī Jìn
+東晉  # Dōng Jìn
+十六國 # Shíliù Guó, the Sixteen Kingdoms
+北朝  # Běi Cháo
+南朝  # Nán Cháo
+隋朝  # Suí Cháo
+唐朝  # Táng Cháo
+五代  # Wǔ Dài, The Five Dynasties
+十國  # Shí Guó, The Ten Kingdoms
+遼朝  # Liáo Cháo, Khitan
+南宋  # Nán Sòng, Southern Song
+元朝  # Yuán Cháo, the Mongols.
+明朝  # Míng Cháo
+清朝  # Qīng Cháo, Manchus.
+; Warring States
+戰國時代
+秦   # Qin
+趙   # Zhao
+楚   # Chu
+韓   # Hann
+燕   # Yan
+魏   # Wei
+齊   # Qi
+; Qin
+秦始皇帝    # Qin Shihuangdi King (247–221 BC), emperor (221–210 BC)
+嬴政  # Ying Zheng, the original name of Qin Shihuang. Life (259 BC - 210 BC, 49 yo.)
+秦二世 # Qin Er Shi, the second emperor of Qin (210–207 BC)
+嬴胡亥 # Ying Huhai, son of Ying Zheng. Qin Er Shi before coronation.
+荊軻  # Jing Ke, the assassin fom Yan.
+李信有成 # Li Xin Youcheng. General of Qin. Protagonist of "Kingdom" manga.
+太子丹 # Crown Prince Dan
+燕丹  # Yan Dan, aka Crown Prince Dan
+姬丹  # also Crown Prince Dan
+呂不韋 # Lü Buwei, notable businessman and politician. Chancellor and regent of Ying Zheng.
+秦莊襄王    # King Zhuangxiang, father of Ying Zheng
+秦孝文王    # King Xiaowen, grandfather of Ying Zheng
+秦昭襄王    # King Zhaoxiang, great-grandfather of Ying Zheng. Raised Qin to greatness. King (307-251 BC)
+嬴稷  # Ying Ji, Zhaoxiang's personal name.  Life (325-251 BC, 73 yo.)
+; Han
+漢朝  # Han dynasty
+漢高祖 # Han Gaozu. First emperor of Han. Reign (28.2.202–1.6.195 BC)
+劉邦 # Liu Bang, Gaozu's personal name.   Life (256-1.6.195 BC)
+漢武帝 # Han Wudi, the War Emperor of Han. Reign (9.3.141 – 29.3.87 BC)
+; Sui
+隋朝   # Sui dynasty
+隋文帝 # Emperor Wen, ruled when the Qieyun was published.
+楊堅  # Yang Jian, Wen before becoming emperor.
+普六茹堅    # Puliuru Jian, Wen's Xianbei name
+那羅延 # Narayana, Wen's Buddhist alias.
+仁壽  # Rénshòu era (601–604). Qieyun published in 601
+; Tang
+唐朝  # Tang dynasty
+唐太宗 # Tang Taizong
+李世民 # Li Shimin, Taizong before becoming emperor.
+武則天 # Wu Zetian, the only female emperor.
+; Ancient Shu Kingdom
+三星堆 # Sanxingdui (bronze age Chinese culture), ancient Shu kingdom
+蜀國  # the Shu state
+蠶叢  # Cancong, founder of ancient Shu kingdom
+柏灌  # Boguan, a ruler of ancient Shu
+魚鳧  # Yufu, a ruler of ancient Shu
+杜宇  # Duyu, a ruler of ancient Shu
+; Modern Chinese History
+孫逸仙 # Sun Yat-Sen
+蔣介石 # Chiang Kai-shek
+; People's Republic of China
+毛泽东 # Mao Zedong
+润之  # Mao's courtesy name
+邓小平 # Deng Xiaoping
+希贤  # Xixian, Deng Xiaoping's courtesy name
+周恩来 # Zhou Enlai
+江泽民 # Jiang Zemin
+胡锦涛 # Hu Jintao
+习近平 # Xi Jinping
+; Steppe Empires
+匈奴  # Xiongnu, the Huns
+單于  # title of the Xiong-nu supreme ruler
+天子單于    # Long Cheng inscription
+子萬嵗     # another Long Cheng inscription
+冒頓單于    # Modu Chanyu, the first steppe emperor in history
+頭曼  # Touman, father of Modu
+月氏  # Yuezhi
+東胡  # Donghu, Proto-Mongols
+鮮卑  # Xianbei, northern split of donghu
+烏桓  # Wuhuan, southern split of donghu
+拓拔  # Tuoba, Turkic "Tabgach" or "Taugast"
+柔然  # Rouran
+突厥  # Göktürks
+裕固族 # Uighurs
+契丹  # Khitan
+女真  # Jurchen
+室韋  # Shiwei
+; Goujian and Fuchai
+句踐  # Goujian, King of Yue
+越王句踐自作用剣    # "King of Yue Goujian, sword made for personal use"
+越國  # Kingdom of Yue
+夫差  # Fuchai, King of Wu
+吴王夫差自作用矛    # King Fuchai of Wu made for his personal use, this spear
+吳國  # Kingdom of Wu
+; Other history
+大食  # Daizik, Tazik, the historical Arab state. Contemporary to the mythical Rashidun Caliphate.
+南越  # Nanyue (Vietnam)
+南粤  # also Nanyue
+花木蘭 # Hua Mulan
+其兒多加利足尼 # Inariyama sword, front side "sönö kö Takari sokonay"
+泰伯  # Taibo, founder of the Wu kingdom and supposed ancestor of the Japanese

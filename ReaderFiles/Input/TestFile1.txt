@@ -1,0 +1,65 @@
+; Dragon Ball
+孫悟空 # Son Goku
+孫悟飯
+ 亀仙人
+龜仙人
+武天老師
+気功砲 # Kikouhou
+魔貫光殺砲   # Makankousappo
+; Street Fighter
+昇竜拳 # Shouryuuken
+波動拳 # Hadouken
+豪気  # Gouki
+悪魔  # Akuma
+豪拳  # Gouken
+轟鉄  # Goutetsu, Teacher of Gouken and Gouki
+瞬獄殺 # Shun Goku Satsu
+殺意波動    # Satsui (no) Hadou
+笑止  # Shoushi!
+滅殺  # Messatsu
+滅怒  # Evil Ryu vs Asura
+; Mythology
+四象  # The Four Symbols
+四神  # The Four Gods
+青龍  # Azure Dragon
+青竜  # jpn. Seiryuu
+朱雀  # Vermilion Bird, jpn. Suzaku
+白虎  # White Tiger, jpn. Byakko
+西方白虎    # White Tiger of the West
+玄武  # Black Tortoise, jpn. Genbu
+北方玄武    # lit. Black Warrior of the North
+黄龙  # Yellow Dragon
+麒麟  # Kirin
+; Numbers
+零   # Zero, Jpn. "rei"
+一二三四五六七八九十  # 1-10
+百   # 100, Jpn. "hyaku"
+千   # 1 000, Jpn. "sen"
+万   # 10 000, Jpn. "man"
+億   # 100 000, Jpn. "oku"
+; Anime
+鬼滅  # Kimetsu (no Yaiba)
+拳願阿修羅   # Kengan Ashura
+進撃巨人    # Shingeki no Kyoujin, Attack on Titan
+雷槍  # Thunder Spear, from Attack on Titan
+呪術廻戦    # Jujutsu Kaisen
+一歩  # (Hajime no) Ippo
+; Movies
+修羅雪姫    # Shurayuki-hime, "Lady Snowblood"
+人狼  # Jin-Roh: The Wolf Brigade, Kor. Illang
+; Random terms
+聖域
+獅子  # (Stone) lion, "foo dog"
+戦闘員 # Simplified 戦
+戰闘員
+警察
+刃   # yaiba, säilä
+貧弱  # DIO:  Hinjaku!
+遅水  # Slow Water, a hypothetical name
+沢何  # Suo-mi(tä), "Suomi"
+人種差別    # Racism
+欲望守護天使  # Yokubō no Shugotenshi, The Guardians of Desire
+遊俠  # youxia, "wandering vigilante
+豪巨  # overpowering and gigantic
+陰陽道 # Onmyoudou, "the Way of Yin and Yang"
+陰陽師 # Onymyoushi, a master of Onmyoudou

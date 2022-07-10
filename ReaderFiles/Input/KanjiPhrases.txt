@@ -1,0 +1,70 @@
+; Kanji Phrases
+漢字  # Kanji
+電話  # Denwa, a phone call
+電子  # Denshi, electricity
+伝説  # Densetsu, legend
+元氣  # Genki, "O-genki desu ka?"
+意味  # Imi, meaning
+無事  # Buji
+注意  # Chuui, attention
+注文  # Chuumon, an order (at a restaurant, etc.)
+注目  # Chuumoku, attention, highlight
+特殊性 # Tokushusei, specialty
+社会  # Shakai, society
+会社  # Kaisha, a company
+自由  # Jiyuu, freedom
+社会主義    # Shakai-shugi, socialism
+無用  # muyou, "no use"
+無論  # muron, no debate, "obvious"
+運命  # Destiny.
+馬鹿  # Baka, idiot
+極道  # Gokudou, Japanese alternate word for "Yakuza"
+大学  # University
+学校  # School
+様子  # yousu, situation, condition
+承知  # shouchi, knowledge; awareness, acceptance; consent
+納得  # consent
+了解  # Ryoukai
+満足  # manzoku, satisfaction
+情報  # jouhou, information
+家族  # kazoku, family
+一族  # Ichizoku, clan
+氏族  # shizoku, also clan?
+主人  # Owner, master, husband
+面子  # "face", Jpn. "menzu", Mandarin "mianzu"
+有名  # "famous", jpn. "yuumei"
+殺気  # "killing intent, murderous air (about you)", jpn. "sakki"
+正座  # "seiza"
+復習  # review (of learned material); revision
+復讐  # vengeance
+正直  # shoujiki, "honestly"
+矛盾  # paradox, contradiction, Jpn. mujun, "spear (and) shield"
+先生  # sensei
+英雄  # hero, brave
+勇者  # also hero, brave
+調和  # harmony, jpn. "chouwa"
+決戦  # decisive battle
+決意  # determination, decisive intent
+奴隷  # slave
+階段  # stairs
+段階  # a step (on the stairs)
+剣士  # kenshi, miekkamies
+生命  # life force, jpn. seimei
+雷神  # Raijin
+雷電  # Raiden
+雷公  # Raikou
+任務完了    # nimmu kanryou, mission accomplished
+; One Punch Man
+参上  # sanjou, "present"
+必勝  # certain victory
+至上最強    # Strongest in history
+連戦連勝    # Consecutive fights, consecutive wins
+圧勝
+孤独  # kodoku, loneliness
+; Keigo Expressions
+敬語  # keigo
+尊敬語 # sonkeigo
+謙譲語 # kenjougo
+御依賴 # Your honorable request
+御案內 # Guidance to your esteemed person
+御注意 # Your attention

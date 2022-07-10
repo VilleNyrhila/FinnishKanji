@@ -1,0 +1,50 @@
+; Confucius, Confucianism
+孔子  # Confucius
+孔夫子  # Also Confucius
+儒家  # Confucianism
+儒教  # Also Confucianism
+# The Five Constants
+仁   # Benevolence (ren)
+義   # Righteousness (yi)
+信   # Trustworthiness (xin)
+禮   # Propriety (li)
+智   # Wisdom (zhi)
+# The Four Virtues
+忠   # Zhōng, loyalty
+孝   # Xiào, Filial Piety
+节   # Jié, continence
+節   # Also Jié, continence
+义   # Yì, righteousness
+義   # Also Yì, righteousness
+; Daoism, Laozi
+道教  # Daoism
+道家  # Also Daoism
+老子  # Laozi
+道德經 # Dao De Jing
+莊子  # Zhuangzi
+無為  # Wuwei, non-action
+; Chinese linguistics terminology
+反切  # fanqie
+切韻  # Qieyun
+廣韻  # Guangyun
+開口
+合口
+; Early mythical and legendary beings
+三皇五帝    # Three Sovereigns and Five Emperors. List according to Sima Qian.
+天皇  # Heavenly Sovereign, aka Fuxi
+伏羲  # Fuxi
+地皇  # Earthly Sovereign, aka Nüwa
+女媧  # Nüwa
+泰皇
+神農  # Shennong
+黃帝  # Yellow Emperor
+顓頊  # Zhuanxu
+嚳   # Ku
+堯   # Yao
+舜   # Shun
+大禹  # Yu the Great, culture hero who ended the world flood and destroyed many flood demons.
+; Sun Tzu
+孫子  # Sun Tzu
+孫子兵法    # The Art of War, "Sun Tzu's Military Method"
+孫武  # Sun Tzu's bithname, Sun Wu
+長卿  # Sun Tzu's courtesy name, Changqing

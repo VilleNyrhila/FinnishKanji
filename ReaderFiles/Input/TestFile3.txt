@@ -1,0 +1,3 @@
+苹果  # Apple
+草莓  # Strawberry
+蛋糕  # Cake

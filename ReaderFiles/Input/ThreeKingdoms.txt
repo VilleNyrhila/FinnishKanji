@@ -1,0 +1,27 @@
+; Three Kingdoms
+; Dynasty Warriors
+三國無双   # Simplified character '双'
+三國無雙
+; Wei
+曹操孟德    # Cao Cao Mengde
+曹丕子桓    # Cao Pi Zihuan
+夏侯惇元讓   # Xiahou Dun Yuanrang
+司馬懿仲達 # Sima Yi Zhongda
+; Shu
+劉備玄德    # Liu Bei Xuande
+漢昭烈帝    # Emperor Zhaolie of Han, Liu Bei as Emperor
+關羽雲長    # Guan Yu Yunchang
+張飛益德 # Zhang Fei Yide
+諸葛亮孔明   # Zhuge Liang Kongmin
+; Wu
+孫堅文台    # Sun Jian Wentai
+江東之虎    # Tiger of Jiangdong
+孫策伯符    # Sun Ce Bofu
+孫權仲謀    # Sun Quan Zhongmou
+; Other
+董卓仲穎  # Dong Zhuo Zhongying
+呂布奉先    # Lu Bu Fengxiang / Ryofu Housen
+飛将  # "The Flying General", Lu Bu's moniker
+赤兔馬     # Red Hare, Lu Bu's famous horse
+人中有呂布馬中有赤菟  # Among men, Lü Bu. Among horses, Red Hare.
+袁紹本初  # Yuan Shao Benchu

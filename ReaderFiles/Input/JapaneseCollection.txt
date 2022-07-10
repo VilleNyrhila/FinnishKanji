@@ -1,0 +1,14 @@
+; Emperor
+天皇  # Tennou
+; Historical
+武士道 # Bushido
+忍者  # Ninja
+将軍  # Shogun
+大名  # Daimyo
+; Video games
+任天堂 # Nintendo
+鉄拳  # Tekken, Iron Fist
+; Other
+音読  # On-yo(mi)
+訓読  # Kun-yo(mi)
+本田    # Honda

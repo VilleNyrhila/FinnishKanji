@@ -1,0 +1,162 @@
+# Missing initials:
+# 彪僞𦵔芮靳巨峻墾焮𤣥覲很逺晩阮莧襉赧㳙攣晈嚻招瀌皎伽𦚢靴𩨷撗隥琰濫𣊟懴瞰劒鑒懺慃毁内篆緬犯歳鎋衞稅瞎蹔
+彪:
+  sound: jiw  # From '幽'
+  tone: A
+僞:
+  sound: jwe  # From '支'
+  tone: A
+𦵔:
+  sound: jo # 魚
+  tone: A
+芮:
+  sound: eaj  # 祭
+  tone: C
+靳:
+  sound: j+n  # 欣
+  tone: A
+巨:
+  sound: jo # 魚
+  tone: A
+峻:
+  sound: win  # From 諄 == 閏
+  tone: C
+墾:
+  sound: 'on' # From 痕 == 很 == 恩
+  tone: A
+焮:
+  sound: j+n  # 欣
+  tone: A
+𤣥:
+  sound: en # 先
+  tone: C # 先 also has A, but there's so many A's already.
+覲:
+  sound: in # From 真 == 刃
+  tone: C
+很:
+  sound: 'on' # From 痕 == 很 == 恩
+  tone: A
+逺:
+  sound: jwon # 元
+  tone: A
+晩:
+  sound: jwon # 元
+  tone: A
+阮:
+  sound: jwon # 元
+  tone: A
+莧:
+  sound: ean # 山
+  tone: A
+襉:
+  sound: ean # 山
+  tone: A
+赧:
+  sound: aen  # 刪 == 板
+  tone: B
+㳙:
+  sound: en # 𤣥 == 先
+  tone: C
+攣:
+  sound: jwen  # 椽
+  tone: A
+晈:
+  sound: ew  # 窈
+  tone: B
+嚻:
+  sound: jew
+  tone: A
+招:
+  sound: jew  # 襓
+  tone: A
+瀌:
+  sound: jew  # 苗
+  tone: A
+皎:
+  sound: ew # 了
+  tone: A
+伽:
+  sound: wa # 戈
+  tone: A
+𦚢:
+  sound: wa # 戈
+  tone: A
+靴:
+  sound: wa # 戈
+  tone: A
+𩨷:
+  sound: wa # 戈
+  tone: A
+撗:
+  sound: aeng  # 諻 == 庚 == 橫
+  tone: A
+隥:
+  sound: ong  # 登 == 鄧
+  tone: A
+琰:
+  sound: jem  # 鹽 == 冉
+  tone: C # 鹽 also has A, but there's too many A's already.
+濫:
+  sound: am # 暫
+  tone: C
+𣊟:
+  sound: am # 濫
+  tone: C
+懴:
+  sound: aem  # 銜 == 鑑
+  tone: A
+瞰:
+  sound: am # 濫
+  tone: C
+劒:
+  sound: jom # 欠
+  tone: C
+鑒:
+  sound: en # 銜 == 懺
+  tone: A
+懺:
+  sound: en  # 銜 == 鑑
+  tone: en
+慃:
+  sound: aewng  # 江 == 項
+  tone: A
+毁:
+  sound: je # 支 == 委
+  tone: A
+内:
+  sound: woj  # 誨
+  tone: C
+篆:
+  sound: jen  # 仙 == 兖
+  tone: A
+緬:
+  sound: jen  # 仙 == 兖
+  tone: A
+犯:
+  sound: jom  # 錽 == 凡
+  tone: A
+歳:
+  sound: jwej  # 歲 == 祭 == 銳
+  tone: C
+鎋:
+  sound: eat  # 黠 == 瞎
+  tone: D
+衞:
+  sound: jwej  # 歳 == 歲 == 祭 == 銳
+  tone: C
+稅:
+  sound: eaj  # 芮 == 祭
+  tone: C
+瞎:
+  sound: eat  # 黠
+  tone: D
+蹔:
+  sound: am # 暫 == 談 == 濫
+  tone: A
+䏼:
+  sound: an # Same as 案
+  tone: C # Alternatively as 寒, with tone 'A'
+賛:
+  sound: an # 旰 == 案
+  tone: C # Alternatively as 寒, with tone 'A'
+

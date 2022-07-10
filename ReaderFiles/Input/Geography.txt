@@ -1,0 +1,66 @@
+; Countries
+芬蘭土 # "Finland"
+日本  # Japan
+韓国  # (South) Korea
+中国  # China
+越南  # Vietnam
+米国  # America (in Japanese)
+美国  # America (in Chinese)
+英吉利 # The UK, jpn. Igirisu
+; Chinese places
+北京  # Beijing
+上海  # Shanghai
+香港  # Hong Kong
+臺灣  # Taiwan
+台灣  # Also Taiwan
+; Chinese provinces
+广东  # Guangdong
+山东  # Shangdong
+河南  # Henan
+江苏  # Jiangsu
+四川  # Sichuan
+河北  # Hebei
+湖南  # Hunan
+浙江  # Zhejiang
+安徽  # Anhui
+湖北  # Hubei
+广西壮族自治区 # Guangxi Zhuang (people) Autonomous Region
+云南  # Yunnan
+江西  # Jiangxi
+辽宁  # Liaoning
+福建  # Fujian
+陕西  # Shaanxi
+贵州  # Guizhou
+山西  # Shangxi
+重庆  # Chóngqìng
+黑龙江 # Heilongjiang
+新疆维吾尔自治区    # Xinjiang Uyghur Autonomous Region
+甘肃  # Gansu
+上海 # Shanghai
+吉林  # Jilin
+内蒙古自    # Inner Mongolia
+北京  # Beijing
+海南  # Hainan
+宁夏回族自治区 # Ningxia Hui Autonomous Region
+香港特别行政区 # Hong Kong Special Administrative Region
+青海  # Qinghai, population approximate to that of Finland
+西藏自治区   # Tibet Autonomous Region
+澳门特别行政区 # Macau Special Administrative Region
+; Japanese places
+東京  # Tokyo
+京都  # Kyoto
+奈良  # Nara
+; Korean places
+釜山  # Busan, "Patavuori
+徐羅伐 # Ancient form of Seoul, no other hanja exist. Read: Seorabeol
+; Korean Three Kingdoms
+新羅  # Silla
+百濟  # Baekje
+高句麗 # Gogureyo
+; Vietnamese places
+河內  # Hanoi
+甌貉  # Âu Lạc
+甌駱  # also Âu Lạc
+柴棍  # Saigon, aka Ho Chi Minh City
+胡志明 # Ho Chi Minh
+馮興  # Phung Hung, national hero of Vietnam

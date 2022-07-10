@@ -1,4 +1,4 @@
-#Finnish Kanji
+# Finnish Kanji
 Or "Sinograms for Finnish".
 
 This is a project to construct a hypothetical but authoritative set of borrowed Finnish *pronunciations* for Chinese characters.
@@ -14,7 +14,7 @@ The principal functionality is the generation of Finnish readings for Chinese ch
 and the application of those pronunciations to test files in ReaderFiles/Input/. 
 The contents of the test files are output to ReaderFiles/Output, into files with corresponding names. 
 
-##Notes about licences
+## Notes about licences
 The Baxter-Sagart data on the pronunciation of 9 000 characters is **licenced under CC BY 4.0**
 It is available at: http://ocbaxtersagart.lsait.lsa.umich.edu
 

@@ -1,0 +1,691 @@
+[Terminology]:
+朝		# Cháo, a dynasty
+drjew/trjew	# Middle Chinese reading.
+teu 	# North Finnic reading.
+teu	# Finnish reading, early borrowing.
+tie	# Finnish reading, late borrowing.
+
+朝代		# cháodài, an era corresponding to the rule of a dynasty
+drjew/trjew dojH	# Middle Chinese reading.
+teu toi 	# North Finnic reading.
+teu toi	# Finnish reading, early borrowing.
+tie toi	# Finnish reading, late borrowing.
+
+王朝		# wángcháo, while technically referring to royal dynasties, this term is often inaccurately applied to all dynasties, including those whose rulers held non-royal titles such as emperor
+hjwang/hjwangH drjew/trjew	# Middle Chinese reading.
+vang teu 	# North Finnic reading.
+vang teu	# Finnish reading, early borrowing.
+juang tie	# Finnish reading, late borrowing.
+
+皇朝		# huángcháo, generally used for imperial dynasties
+hwang drjew/trjew	# Middle Chinese reading.
+vang teu 	# North Finnic reading.
+vang teu	# Finnish reading, early borrowing.
+huang tie	# Finnish reading, late borrowing.
+
+
+[Dynasties]:
+夏朝		# Xià Cháo
+haeX/haeH drjew/trjew	# Middle Chinese reading.
+hä teu 	# North Finnic reading.
+hä teu	# Finnish reading, early borrowing.
+hä tie	# Finnish reading, late borrowing.
+
+商朝		# Shāng Cháo
+syang drjew/trjew	# Middle Chinese reading.
+sang teu 	# North Finnic reading.
+sang teu	# Finnish reading, early borrowing.
+siang tie	# Finnish reading, late borrowing.
+
+西周		# Xī Zhōu
+sej tsyuw	# Middle Chinese reading.
+sei juu 	# North Finnic reading.
+sei juu	# Finnish reading, early borrowing.
+sei kiu	# Finnish reading, late borrowing.
+
+東周		# Dōng Zhōu
+tuwng tsyuw	# Middle Chinese reading.
+tuung juu 	# North Finnic reading.
+tuung juu	# Finnish reading, early borrowing.
+tuung kiu	# Finnish reading, late borrowing.
+
+秦朝		# Qín Cháo
+dzin drjew/trjew	# Middle Chinese reading.
+cin teu 	# North Finnic reading.
+sin teu	# Finnish reading, early borrowing.
+tsin tie	# Finnish reading, late borrowing.
+
+西漢		# Xī Hàn, Western Han
+sej xanH	# Middle Chinese reading.
+sei kan 	# North Finnic reading.
+sei kan	# Finnish reading, early borrowing.
+sei kan	# Finnish reading, late borrowing.
+
+新朝		# Xīn Cháo
+sin drjew/trjew	# Middle Chinese reading.
+sin teu 	# North Finnic reading.
+sin teu	# Finnish reading, early borrowing.
+sin tie	# Finnish reading, late borrowing.
+
+東漢		# Dōng Hàn, Eastern Han
+tuwng xanH	# Middle Chinese reading.
+tuung kan 	# North Finnic reading.
+tuung kan	# Finnish reading, early borrowing.
+tuung kan	# Finnish reading, late borrowing.
+
+三國		# Sān Guó
+sam/samH kwok	# Middle Chinese reading.
+sam kok 	# North Finnic reading.
+sam kok	# Finnish reading, early borrowing.
+sam kuok	# Finnish reading, late borrowing.
+
+曹魏		# Cáo Wèi
+dzaw ngjw+j/ngjw+jH	# Middle Chinese reading.
+cau nüi 	# North Finnic reading.
+sau nyi	# Finnish reading, early borrowing.
+tsau nyy	# Finnish reading, late borrowing.
+
+蜀漢		# Shǔ Hàn
+dzyowk xanH	# Middle Chinese reading.
+jouk kan 	# North Finnic reading.
+jouk kan	# Finnish reading, early borrowing.
+kiok kan	# Finnish reading, late borrowing.
+
+東吳		# Dōng Wú
+tuwng ngu	# Middle Chinese reading.
+tuung nu 	# North Finnic reading.
+tuung nu	# Finnish reading, early borrowing.
+tuung nu	# Finnish reading, late borrowing.
+
+西晉		# Xī Jìn
+sej tsinH	# Middle Chinese reading.
+sei cin 	# North Finnic reading.
+sei sin	# Finnish reading, early borrowing.
+sei tsin	# Finnish reading, late borrowing.
+
+東晉		# Dōng Jìn
+tuwng tsinH	# Middle Chinese reading.
+tuung cin 	# North Finnic reading.
+tuung sin	# Finnish reading, early borrowing.
+tuung tsin	# Finnish reading, late borrowing.
+
+十六國		# Shíliù Guó, the Sixteen Kingdoms
+dzyip ljuwk kwok	# Middle Chinese reading.
+kip liuk kok 	# North Finnic reading.
+kip liuk kok	# Finnish reading, early borrowing.
+kip liuk kuok	# Finnish reading, late borrowing.
+
+北朝		# Běi Cháo
+pok drjew/trjew	# Middle Chinese reading.
+pok teu 	# North Finnic reading.
+pok teu	# Finnish reading, early borrowing.
+pok tie	# Finnish reading, late borrowing.
+
+南朝		# Nán Cháo
+nom drjew/trjew	# Middle Chinese reading.
+nom teu 	# North Finnic reading.
+nom teu	# Finnish reading, early borrowing.
+nom tie	# Finnish reading, late borrowing.
+
+隋朝		# Suí Cháo
+xjwieH/dwaX/zjwe/sjweH/thwaX drjew/trjew	# Middle Chinese reading.
+ke/ta/se teu 	# North Finnic reading.
+ke/ta/se teu	# Finnish reading, early borrowing.
+ke/tua/sue tie	# Finnish reading, late borrowing.
+
+唐朝		# Táng Cháo
+thang/dang drjew/trjew	# Middle Chinese reading.
+tang teu 	# North Finnic reading.
+tang teu	# Finnish reading, early borrowing.
+tang tie	# Finnish reading, late borrowing.
+
+五代		# Wǔ Dài, The Five Dynasties
+nguX dojH	# Middle Chinese reading.
+nu toi 	# North Finnic reading.
+nu toi	# Finnish reading, early borrowing.
+nu toi	# Finnish reading, late borrowing.
+
+十國		# Shí Guó, The Ten Kingdoms
+dzyip kwok	# Middle Chinese reading.
+kip kok 	# North Finnic reading.
+kip kok	# Finnish reading, early borrowing.
+kip kuok	# Finnish reading, late borrowing.
+
+遼朝		# Liáo Cháo, Khitan
+lew drjew/trjew	# Middle Chinese reading.
+leu teu 	# North Finnic reading.
+leu teu	# Finnish reading, early borrowing.
+leu tie	# Finnish reading, late borrowing.
+
+南宋		# Nán Sòng, Southern Song
+nom sowngH	# Middle Chinese reading.
+nom soung 	# North Finnic reading.
+nom soung	# Finnish reading, early borrowing.
+nom soung	# Finnish reading, late borrowing.
+
+元朝		# Yuán Cháo, the Mongols.
+ngjwon drjew/trjew	# Middle Chinese reading.
+non teu 	# North Finnic reading.
+non teu	# Finnish reading, early borrowing.
+nuon tie	# Finnish reading, late borrowing.
+
+明朝		# Míng Cháo
+mjaeng drjew/trjew	# Middle Chinese reading.
+mäng teu 	# North Finnic reading.
+mäng teu	# Finnish reading, early borrowing.
+miäng tie	# Finnish reading, late borrowing.
+
+清朝		# Qīng Cháo, Manchus.
+tshjeng drjew/trjew	# Middle Chinese reading.
+ceng teu 	# North Finnic reading.
+seng teu	# Finnish reading, early borrowing.
+tsieng tie	# Finnish reading, late borrowing.
+
+
+[Warring States]:
+戰國時代
+tsyenH kwok dzyi dojH	# Middle Chinese reading.
+ken kok ki toi 	# North Finnic reading.
+ken kok ki toi	# Finnish reading, early borrowing.
+kien kuok ki toi	# Finnish reading, late borrowing.
+
+秦		# Qin
+dzin	# Middle Chinese reading.
+cin 	# North Finnic reading.
+sin	# Finnish reading, early borrowing.
+tsin	# Finnish reading, late borrowing.
+
+趙		# Zhao
+drjewX	# Middle Chinese reading.
+teu 	# North Finnic reading.
+teu	# Finnish reading, early borrowing.
+tie	# Finnish reading, late borrowing.
+
+楚		# Chu
+tsrhjoX	# Middle Chinese reading.
+co 	# North Finnic reading.
+so	# Finnish reading, early borrowing.
+tsio	# Finnish reading, late borrowing.
+
+韓		# Hann
+han	# Middle Chinese reading.
+han 	# North Finnic reading.
+han	# Finnish reading, early borrowing.
+han	# Finnish reading, late borrowing.
+
+燕		# Yan
+'enH	# Middle Chinese reading.
+en 	# North Finnic reading.
+en	# Finnish reading, early borrowing.
+en	# Finnish reading, late borrowing.
+
+魏		# Wei
+ngjw+j/ngjw+jH	# Middle Chinese reading.
+nüi 	# North Finnic reading.
+nyi	# Finnish reading, early borrowing.
+nyy	# Finnish reading, late borrowing.
+
+齊		# Qi
+dzej	# Middle Chinese reading.
+cei 	# North Finnic reading.
+sei	# Finnish reading, early borrowing.
+tsei	# Finnish reading, late borrowing.
+
+
+[Qin]:
+秦始皇帝		# Qin Shihuangdi King (247–221 BC), emperor (221–210 BC)
+dzin syiX hwang tejH	# Middle Chinese reading.
+cin sii vang tei 	# North Finnic reading.
+sin sii vang tei	# Finnish reading, early borrowing.
+tsin si huang tei	# Finnish reading, late borrowing.
+
+嬴政		# Ying Zheng, the original name of Qin Shihuang. Life (259 BC - 210 BC, 49 yo.)
+yeng tsyengH	# Middle Chinese reading.
+jeng keng 	# North Finnic reading.
+jeng keng	# Finnish reading, early borrowing.
+jeng kieng	# Finnish reading, late borrowing.
+
+秦二世		# Qin Er Shi, the second emperor of Qin (210–207 BC)
+dzin nyijH syejH	# Middle Chinese reading.
+cin nii sei 	# North Finnic reading.
+sin nii sei	# Finnish reading, early borrowing.
+tsin nii sie	# Finnish reading, late borrowing.
+
+嬴胡亥		# Ying Huhai, son of Ying Zheng. Qin Er Shi before coronation.
+yeng hu hojX	# Middle Chinese reading.
+jeng hu hoi 	# North Finnic reading.
+jeng hu hoi	# Finnish reading, early borrowing.
+jeng hu hoi	# Finnish reading, late borrowing.
+
+荊軻		# Jing Ke, the assassin fom Yan.
+kjaeng kha/khaX/khaH	# Middle Chinese reading.
+käng ka 	# North Finnic reading.
+käng ka	# Finnish reading, early borrowing.
+kiäng ka	# Finnish reading, late borrowing.
+
+李信有成		# Li Xin Youcheng. General of Qin. Protagonist of "Kingdom" manga.
+liX sinH hjuwX dzyeng	# Middle Chinese reading.
+li sin juu keng 	# North Finnic reading.
+li sin juu keng	# Finnish reading, early borrowing.
+li sin hiu kieng	# Finnish reading, late borrowing.
+
+太子丹		# Crown Prince Dan
+thajH tsiX tan	# Middle Chinese reading.
+tai ci tan 	# North Finnic reading.
+tai si tan	# Finnish reading, early borrowing.
+tai tsi tan	# Finnish reading, late borrowing.
+
+燕丹		# Yan Dan, aka Crown Prince Dan
+'enH tan	# Middle Chinese reading.
+en tan 	# North Finnic reading.
+en tan	# Finnish reading, early borrowing.
+en tan	# Finnish reading, late borrowing.
+
+姬丹		# also Crown Prince Dan
+ki tan	# Middle Chinese reading.
+ki tan 	# North Finnic reading.
+ki tan	# Finnish reading, early borrowing.
+ki tan	# Finnish reading, late borrowing.
+
+呂不韋		# Lü Buwei, notable businessman and politician. Chancellor and regent of Ying Zheng.
+ljoX pjuw hjw+j	# Middle Chinese reading.
+lo piu vüi 	# North Finnic reading.
+lo piu vyi	# Finnish reading, early borrowing.
+lio piu jyy	# Finnish reading, late borrowing.
+
+秦莊襄王		# King Zhuangxiang, father of Ying Zheng
+dzin tsrjang sjang hjwang/hjwangH	# Middle Chinese reading.
+cin cang sang vang 	# North Finnic reading.
+sin sang sang vang	# Finnish reading, early borrowing.
+tsin tsiang siang juang	# Finnish reading, late borrowing.
+
+秦孝文王		# King Xiaowen, grandfather of Ying Zheng
+dzin xaewH mjun hjwang/hjwangH	# Middle Chinese reading.
+cin käü miun vang 	# North Finnic reading.
+sin käy miun vang	# Finnish reading, early borrowing.
+tsin käy miun juang	# Finnish reading, late borrowing.
+
+秦昭襄王		# King Zhaoxiang, great-grandfather of Ying Zheng. Raised Qin to greatness. King (307-251 BC)
+dzin tsyew sjang hjwang/hjwangH	# Middle Chinese reading.
+cin keu sang vang 	# North Finnic reading.
+sin keu sang vang	# Finnish reading, early borrowing.
+tsin kie siang juang	# Finnish reading, late borrowing.
+
+嬴稷		# Ying Ji, Zhaoxiang's personal name.  Life (325-251 BC, 73 yo.)
+yeng tsik	# Middle Chinese reading.
+jeng cik 	# North Finnic reading.
+jeng sik	# Finnish reading, early borrowing.
+jeng tsik	# Finnish reading, late borrowing.
+
+
+[Han]:
+漢朝		# Han dynasty
+xanH drjew/trjew	# Middle Chinese reading.
+kan teu 	# North Finnic reading.
+kan teu	# Finnish reading, early borrowing.
+kan tie	# Finnish reading, late borrowing.
+
+漢高祖		# Han Gaozu. First emperor of Han. Reign (28.2.202–1.6.195 BC)
+xanH kaw tsuX	# Middle Chinese reading.
+kan kau cu 	# North Finnic reading.
+kan kau su	# Finnish reading, early borrowing.
+kan kau tsu	# Finnish reading, late borrowing.
+
+劉邦		# Liu Bang, Gaozu's personal name.   Life (256-1.6.195 BC)
+ljuw paewng	# Middle Chinese reading.
+liu päüng 	# North Finnic reading.
+liu päyng	# Finnish reading, early borrowing.
+liu päyng	# Finnish reading, late borrowing.
+
+漢武帝		# Han Wudi, the War Emperor of Han. Reign (9.3.141 – 29.3.87 BC)
+xanH mjuX tejH	# Middle Chinese reading.
+kan miu tei 	# North Finnic reading.
+kan miu tei	# Finnish reading, early borrowing.
+kan miu tei	# Finnish reading, late borrowing.
+
+
+[Sui]:
+隋朝		# Sui dynasty
+xjwieH/dwaX/zjwe/sjweH/thwaX drjew/trjew	# Middle Chinese reading.
+ke/ta/se teu 	# North Finnic reading.
+ke/ta/se teu	# Finnish reading, early borrowing.
+ke/tua/sue tie	# Finnish reading, late borrowing.
+
+隋文帝		# Emperor Wen, ruled when the Qieyun was published.
+xjwieH/dwaX/zjwe/sjweH/thwaX mjun tejH	# Middle Chinese reading.
+ke/ta/se miun tei 	# North Finnic reading.
+ke/ta/se miun tei	# Finnish reading, early borrowing.
+ke/tua/sue miun tei	# Finnish reading, late borrowing.
+
+楊堅		# Yang Jian, Wen before becoming emperor.
+yang ken	# Middle Chinese reading.
+jang ken 	# North Finnic reading.
+jang ken	# Finnish reading, early borrowing.
+jang ken	# Finnish reading, late borrowing.
+
+普六茹堅		# Puliuru Jian, Wen's Xianbei name
+phuX ljuwk nyoX/nyoH ken	# Middle Chinese reading.
+pu liuk no ken 	# North Finnic reading.
+pu liuk no ken	# Finnish reading, early borrowing.
+pu liuk nio ken	# Finnish reading, late borrowing.
+
+那羅延		# Narayana, Wen's Buddhist alias.
+na la yen	# Middle Chinese reading.
+na la jen 	# North Finnic reading.
+na la jen	# Finnish reading, early borrowing.
+na la jen	# Finnish reading, late borrowing.
+
+仁壽		# Rénshòu era (601–604). Qieyun published in 601
+nyin dzyuwX/dzyuwH	# Middle Chinese reading.
+nin juu 	# North Finnic reading.
+nin juu	# Finnish reading, early borrowing.
+nin kiu	# Finnish reading, late borrowing.
+
+
+[Tang]:
+唐朝		# Tang dynasty
+thang/dang drjew/trjew	# Middle Chinese reading.
+tang teu 	# North Finnic reading.
+tang teu	# Finnish reading, early borrowing.
+tang tie	# Finnish reading, late borrowing.
+
+唐太宗		# Tang Taizong
+thang/dang thajH tsowng	# Middle Chinese reading.
+tang tai coung 	# North Finnic reading.
+tang tai soung	# Finnish reading, early borrowing.
+tang tai tsoung	# Finnish reading, late borrowing.
+
+李世民		# Li Shimin, Taizong before becoming emperor.
+liX syejH mjin	# Middle Chinese reading.
+li sei min 	# North Finnic reading.
+li sei min	# Finnish reading, early borrowing.
+li sie miin	# Finnish reading, late borrowing.
+
+武則天		# Wu Zetian, the only female emperor.
+mjuX tsok then/xen	# Middle Chinese reading.
+miu cok ten/ken 	# North Finnic reading.
+miu sok ten/ken	# Finnish reading, early borrowing.
+miu tsok ten/ken	# Finnish reading, late borrowing.
+
+
+[Ancient Shu Kingdom]:
+三星堆		# Sanxingdui (bronze age Chinese culture), ancient Shu kingdom
+sam/samH seng twoj	# Middle Chinese reading.
+sam seng toi 	# North Finnic reading.
+sam seng toi	# Finnish reading, early borrowing.
+sam seng tuo	# Finnish reading, late borrowing.
+
+蜀國		# the Shu state
+dzyowk kwok	# Middle Chinese reading.
+jouk kok 	# North Finnic reading.
+jouk kok	# Finnish reading, early borrowing.
+kiok kuok	# Finnish reading, late borrowing.
+
+蠶叢		# Cancong, founder of ancient Shu kingdom
+dzom dzuwng	# Middle Chinese reading.
+com cuung 	# North Finnic reading.
+som suung	# Finnish reading, early borrowing.
+tsom tsuung	# Finnish reading, late borrowing.
+
+柏灌		# Boguan, a ruler of ancient Shu
+paek kwanH	# Middle Chinese reading.
+päk kan 	# North Finnic reading.
+päk kan	# Finnish reading, early borrowing.
+päk kuan	# Finnish reading, late borrowing.
+
+魚鳧		# Yufu, a ruler of ancient Shu
+ngjo bju	# Middle Chinese reading.
+no piu 	# North Finnic reading.
+no piu	# Finnish reading, early borrowing.
+nio piu	# Finnish reading, late borrowing.
+
+杜宇		# Duyu, a ruler of ancient Shu
+duX hjuX	# Middle Chinese reading.
+tu ju 	# North Finnic reading.
+tu ju	# Finnish reading, early borrowing.
+tu hiu	# Finnish reading, late borrowing.
+
+
+[Modern Chinese History]:
+孫逸仙		# Sun Yat-Sen
+swon yit sjen	# Middle Chinese reading.
+son jit sen 	# North Finnic reading.
+son jit sen	# Finnish reading, early borrowing.
+suon jit sien	# Finnish reading, late borrowing.
+
+蔣介石		# Chiang Kai-shek
+tsjang/tsjangX keajH dzyek	# Middle Chinese reading.
+cang käi kek 	# North Finnic reading.
+sang käi kek	# Finnish reading, early borrowing.
+tsiang käi kiek	# Finnish reading, late borrowing.
+
+
+[People's Republic of China]:
+毛泽东		# Mao Zedong
+maw draek tuwng	# Middle Chinese reading.
+mau täk tuung 	# North Finnic reading.
+mau täk tuung	# Finnish reading, early borrowing.
+mau täk tuung	# Finnish reading, late borrowing.
+
+润之		# Mao's courtesy name
+nywinH tsyi	# Middle Chinese reading.
+nuin ki 	# North Finnic reading.
+nuin ki	# Finnish reading, early borrowing.
+nuin ki	# Finnish reading, late borrowing.
+
+邓小平		# Deng Xiaoping
+djwen sjewX bjien/bjaeng	# Middle Chinese reading.
+ten seu pen/päng 	# North Finnic reading.
+ten seu pen/päng	# Finnish reading, early borrowing.
+tuen sie pien/piäng	# Finnish reading, late borrowing.
+
+希贤		# Xixian, Deng Xiaoping's courtesy name
+xj+j hen	# Middle Chinese reading.
+küi hen 	# North Finnic reading.
+kyi hen	# Finnish reading, early borrowing.
+kiy hen	# Finnish reading, late borrowing.
+
+周恩来		# Zhou Enlai
+tsyuw 'on loj	# Middle Chinese reading.
+juu on loi 	# North Finnic reading.
+juu on loi	# Finnish reading, early borrowing.
+kiu on loi	# Finnish reading, late borrowing.
+
+江泽民		# Jiang Zemin
+kaewng draek mjin	# Middle Chinese reading.
+käüng täk min 	# North Finnic reading.
+käyng täk min	# Finnish reading, early borrowing.
+käyng täk miin	# Finnish reading, late borrowing.
+
+胡锦涛		# Hu Jintao
+hu kimX daw	# Middle Chinese reading.
+hu kim tau 	# North Finnic reading.
+hu kim tau	# Finnish reading, early borrowing.
+hu kim tau	# Finnish reading, late borrowing.
+
+习近平		# Xi Jinping
+zip gj+nX/gj+nH bjien/bjaeng	# Middle Chinese reading.
+sip kün pen/päng 	# North Finnic reading.
+sip kyn pen/päng	# Finnish reading, early borrowing.
+sip kiyn pien/piäng	# Finnish reading, late borrowing.
+
+
+[Steppe Empires]:
+匈奴		# Xiongnu, the Huns
+xjowng nu	# Middle Chinese reading.
+koung nu 	# North Finnic reading.
+koung nu	# Finnish reading, early borrowing.
+kiong nu	# Finnish reading, late borrowing.
+
+單于		# title of the Xiong-nu supreme ruler
+dzyen/tan hju	# Middle Chinese reading.
+ken/tan ju 	# North Finnic reading.
+ken/tan ju	# Finnish reading, early borrowing.
+kien/tan hiu	# Finnish reading, late borrowing.
+
+天子單于		# Long Cheng inscription
+then/xen tsiX dzyen/tan hju	# Middle Chinese reading.
+ten/ken ci ken/tan ju 	# North Finnic reading.
+ten/ken si ken/tan ju	# Finnish reading, early borrowing.
+ten/ken tsi kien/tan hiu	# Finnish reading, late borrowing.
+
+子萬嵗		# another Long Cheng inscription
+tsiX mjonH sjwejH	# Middle Chinese reading.
+ci mon sei 	# North Finnic reading.
+si mon sei	# Finnish reading, early borrowing.
+tsi mion sue	# Finnish reading, late borrowing.
+
+冒頓單于		# Modu Chanyu, the first steppe emperor in history
+mawH twonH dzyen/tan hju	# Middle Chinese reading.
+mau ton ken/tan ju 	# North Finnic reading.
+mau ton ken/tan ju	# Finnish reading, early borrowing.
+mau tuon kien/tan hiu	# Finnish reading, late borrowing.
+
+頭曼		# Touman, father of Modu
+duw manH/mjonH	# Middle Chinese reading.
+tuu man/mon 	# North Finnic reading.
+tuu man/mon	# Finnish reading, early borrowing.
+tuu man/mion	# Finnish reading, late borrowing.
+
+月氏		# Yuezhi
+ngjwot dzyeX	# Middle Chinese reading.
+not ke 	# North Finnic reading.
+not ke	# Finnish reading, early borrowing.
+nuot kie	# Finnish reading, late borrowing.
+
+東胡		# Donghu, Proto-Mongols
+tuwng hu	# Middle Chinese reading.
+tuung hu 	# North Finnic reading.
+tuung hu	# Finnish reading, early borrowing.
+tuung hu	# Finnish reading, late borrowing.
+
+鮮卑		# Xianbei, northern split of donghu
+sjen/sjenX pjie	# Middle Chinese reading.
+sen pe 	# North Finnic reading.
+sen pe	# Finnish reading, early borrowing.
+sien pie	# Finnish reading, late borrowing.
+
+烏桓		# Wuhuan, southern split of donghu
+'u hwan	# Middle Chinese reading.
+uu van 	# North Finnic reading.
+uu van	# Finnish reading, early borrowing.
+u huan	# Finnish reading, late borrowing.
+
+拓拔		# Tuoba, Turkic "Tabgach" or "Taugast"
+thak/tsyek beat/bajH	# Middle Chinese reading.
+tak/kek pät/pai 	# North Finnic reading.
+tak/kek pät/pai	# Finnish reading, early borrowing.
+tak/kiek pät/pai	# Finnish reading, late borrowing.
+
+柔然		# Rouran
+nyuw nyen	# Middle Chinese reading.
+niu nen 	# North Finnic reading.
+niu nen	# Finnish reading, early borrowing.
+niu nien	# Finnish reading, late borrowing.
+
+突厥		# Göktürks
+dwot/thwot kjwot	# Middle Chinese reading.
+tot kot 	# North Finnic reading.
+tot kot	# Finnish reading, early borrowing.
+tuot kuot	# Finnish reading, late borrowing.
+
+裕固族		# Uighurs
+yuH kuH dzuwk	# Middle Chinese reading.
+ju ku cuuk 	# North Finnic reading.
+ju ku suuk	# Finnish reading, early borrowing.
+ju ku tsuuk	# Finnish reading, late borrowing.
+
+契丹		# Khitan
+khejH/khet tan	# Middle Chinese reading.
+kei/ket tan 	# North Finnic reading.
+kei/ket tan	# Finnish reading, early borrowing.
+kei/ket tan	# Finnish reading, late borrowing.
+
+女真		# Jurchen
+nrjoX/nrjoH tsyin	# Middle Chinese reading.
+no kin 	# North Finnic reading.
+no kin	# Finnish reading, early borrowing.
+nio kin	# Finnish reading, late borrowing.
+
+室韋		# Shiwei
+syit hjw+j	# Middle Chinese reading.
+sit vüi 	# North Finnic reading.
+sit vyi	# Finnish reading, early borrowing.
+sit jyy	# Finnish reading, late borrowing.
+
+
+[Goujian and Fuchai]:
+句踐		# Goujian, King of Yue
+kuw/kuwH/kjuH dzjenX	# Middle Chinese reading.
+kuu/kiu cen 	# North Finnic reading.
+kuu/kiu sen	# Finnish reading, early borrowing.
+kuu/kiu tsien	# Finnish reading, late borrowing.
+
+越王句踐自作用剣		# "King of Yue Goujian, sword made for personal use"
+hjwot hjwang/hjwangH kuw/kuwH/kjuH dzjenX dzijH tsak/tsuH yowngH kjaemH	# Middle Chinese reading.
+vot vang kuu/kiu cen cii cak/cu joung käm 	# North Finnic reading.
+vot vang kuu/kiu sen sii sak/su joung käm	# Finnish reading, early borrowing.
+juot juang kuu/kiu tsien tsii tsak/tsu joung kiäm	# Finnish reading, late borrowing.
+
+越國		# Kingdom of Yue
+hjwot kwok	# Middle Chinese reading.
+vot kok 	# North Finnic reading.
+vot kok	# Finnish reading, early borrowing.
+juot kuok	# Finnish reading, late borrowing.
+
+夫差		# Fuchai, King of Wu
+pju/bju tsrhae/tsrhea/tsrheaj/tsrhje/tsha	# Middle Chinese reading.
+piu cä/cäi/ce/ca 	# North Finnic reading.
+piu sä/säi/se/sa	# Finnish reading, early borrowing.
+piu tsä/tsäi/tsie/tsa	# Finnish reading, late borrowing.
+
+吴王夫差自作用矛		# King Fuchai of Wu made for his personal use, this spear
+ngu hjwang/hjwangH pju/bju tsrhae/tsrhea/tsrheaj/tsrhje/tsha dzijH tsak/tsuH yowngH mjuw	# Middle Chinese reading.
+nu vang piu cä/cäi/ce/ca cii cak/cu joung miu 	# North Finnic reading.
+nu vang piu sä/säi/se/sa sii sak/su joung miu	# Finnish reading, early borrowing.
+nu juang piu tsä/tsäi/tsie/tsa tsii tsak/tsu joung miu	# Finnish reading, late borrowing.
+
+吳國		# Kingdom of Wu
+ngu kwok	# Middle Chinese reading.
+nu kok 	# North Finnic reading.
+nu kok	# Finnish reading, early borrowing.
+nu kuok	# Finnish reading, late borrowing.
+
+
+[Other history]:
+大食		# Daizik, Tazik, the historical Arab state. Contemporary to the mythical Rashidun Caliphate.
+daH/dajH zyik/ziH	# Middle Chinese reading.
+ta/tai sik/si 	# North Finnic reading.
+ta/tai sik/si	# Finnish reading, early borrowing.
+ta/tai sik/si	# Finnish reading, late borrowing.
+
+南越		# Nanyue (Vietnam)
+nom hjwot	# Middle Chinese reading.
+nom vot 	# North Finnic reading.
+nom vot	# Finnish reading, early borrowing.
+nom juot	# Finnish reading, late borrowing.
+
+南粤		# also Nanyue
+nom hjot	# Middle Chinese reading.
+nom jot 	# North Finnic reading.
+nom jot	# Finnish reading, early borrowing.
+nom hiot	# Finnish reading, late borrowing.
+
+花木蘭		# Hua Mulan
+xwae muwk lan	# Middle Chinese reading.
+kä muuk lan 	# North Finnic reading.
+kä muuk lan	# Finnish reading, early borrowing.
+kyä muuk lan	# Finnish reading, late borrowing.
+
+其兒多加利足尼		# Inariyama sword, front side "sönö kö Takari sokonay"
+gi nye ta kae lijH tsjuH/tsjowk nejX/nejH/nrij	# Middle Chinese reading.
+ki ne ta kä lii ciu/couk nei/nii 	# North Finnic reading.
+ki ne ta kä lii siu/souk nei/nii	# Finnish reading, early borrowing.
+ki nie ta kä lii tsiu/tsiok nei/nii	# Finnish reading, late borrowing.
+
+泰伯		# Taibo, founder of the Wu kingdom and supposed ancestor of the Japanese
+thajH paek	# Middle Chinese reading.
+tai päk 	# North Finnic reading.
+tai päk	# Finnish reading, early borrowing.
+tai päk	# Finnish reading, late borrowing.
+

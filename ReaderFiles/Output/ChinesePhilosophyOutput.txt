@@ -1,0 +1,267 @@
+[Confucius, Confucianism]:
+孔子		# Confucius
+khuwngX tsiX	# Middle Chinese reading.
+kuung ci 	# North Finnic reading.
+kuung si	# Finnish reading, early borrowing.
+kuung tsi	# Finnish reading, late borrowing.
+
+孔夫子		# Also Confucius
+khuwngX pju/bju tsiX	# Middle Chinese reading.
+kuung piu ci 	# North Finnic reading.
+kuung piu si	# Finnish reading, early borrowing.
+kuung piu tsi	# Finnish reading, late borrowing.
+
+儒家		# Confucianism
+nyu kae	# Middle Chinese reading.
+niu kä 	# North Finnic reading.
+niu kä	# Finnish reading, early borrowing.
+niu kä	# Finnish reading, late borrowing.
+
+儒教		# Also Confucianism
+nyu kaew/kaewH	# Middle Chinese reading.
+niu käü 	# North Finnic reading.
+niu käy	# Finnish reading, early borrowing.
+niu käy	# Finnish reading, late borrowing.
+
+仁		# Benevolence (ren)
+nyin	# Middle Chinese reading.
+nin 	# North Finnic reading.
+nin	# Finnish reading, early borrowing.
+nin	# Finnish reading, late borrowing.
+
+義		# Righteousness (yi)
+ngjeH	# Middle Chinese reading.
+ne 	# North Finnic reading.
+ne	# Finnish reading, early borrowing.
+nie	# Finnish reading, late borrowing.
+
+信		# Trustworthiness (xin)
+sinH	# Middle Chinese reading.
+sin 	# North Finnic reading.
+sin	# Finnish reading, early borrowing.
+sin	# Finnish reading, late borrowing.
+
+禮		# Propriety (li)
+lejX	# Middle Chinese reading.
+lei 	# North Finnic reading.
+lei	# Finnish reading, early borrowing.
+lei	# Finnish reading, late borrowing.
+
+智		# Wisdom (zhi)
+trjeH	# Middle Chinese reading.
+te 	# North Finnic reading.
+te	# Finnish reading, early borrowing.
+tie	# Finnish reading, late borrowing.
+
+忠		# Zhōng, loyalty
+trjuwng	# Middle Chinese reading.
+tiung 	# North Finnic reading.
+tiung	# Finnish reading, early borrowing.
+tiung	# Finnish reading, late borrowing.
+
+孝		# Xiào, Filial Piety
+xaewH	# Middle Chinese reading.
+käü 	# North Finnic reading.
+käy	# Finnish reading, early borrowing.
+käy	# Finnish reading, late borrowing.
+
+节		# Jié, continence
+tset	# Middle Chinese reading.
+cet 	# North Finnic reading.
+set	# Finnish reading, early borrowing.
+tset	# Finnish reading, late borrowing.
+
+節		# Also Jié, continence
+tset	# Middle Chinese reading.
+cet 	# North Finnic reading.
+set	# Finnish reading, early borrowing.
+tset	# Finnish reading, late borrowing.
+
+义		# Yì, righteousness
+ngjeH	# Middle Chinese reading.
+ne 	# North Finnic reading.
+ne	# Finnish reading, early borrowing.
+nie	# Finnish reading, late borrowing.
+
+義		# Also Yì, righteousness
+ngjeH	# Middle Chinese reading.
+ne 	# North Finnic reading.
+ne	# Finnish reading, early borrowing.
+nie	# Finnish reading, late borrowing.
+
+
+[Daoism, Laozi]:
+道教		# Daoism
+dawH/dawX kaew/kaewH	# Middle Chinese reading.
+tau käü 	# North Finnic reading.
+tau käy	# Finnish reading, early borrowing.
+tau käy	# Finnish reading, late borrowing.
+
+道家		# Also Daoism
+dawH/dawX kae	# Middle Chinese reading.
+tau kä 	# North Finnic reading.
+tau kä	# Finnish reading, early borrowing.
+tau kä	# Finnish reading, late borrowing.
+
+老子		# Laozi
+lawX tsiX	# Middle Chinese reading.
+lau ci 	# North Finnic reading.
+lau si	# Finnish reading, early borrowing.
+lau tsi	# Finnish reading, late borrowing.
+
+道德經		# Dao De Jing
+dawH/dawX tok keng	# Middle Chinese reading.
+tau tok keng 	# North Finnic reading.
+tau tok keng	# Finnish reading, early borrowing.
+tau tok keng	# Finnish reading, late borrowing.
+
+莊子		# Zhuangzi
+tsrjang tsiX	# Middle Chinese reading.
+cang ci 	# North Finnic reading.
+sang si	# Finnish reading, early borrowing.
+tsiang tsi	# Finnish reading, late borrowing.
+
+無為		# Wuwei, non-action
+mju hjwe/hjweH	# Middle Chinese reading.
+miu ve 	# North Finnic reading.
+miu ve	# Finnish reading, early borrowing.
+miu jue	# Finnish reading, late borrowing.
+
+
+[Chinese linguistics terminology]:
+反切		# fanqie
+baenX/pjonX tshet	# Middle Chinese reading.
+pän/pon cet 	# North Finnic reading.
+pän/pon set	# Finnish reading, early borrowing.
+pän/pion tset	# Finnish reading, late borrowing.
+
+切韻		# Qieyun
+tshet hjwinH	# Middle Chinese reading.
+cet vin 	# North Finnic reading.
+set vin	# Finnish reading, early borrowing.
+tset huin	# Finnish reading, late borrowing.
+
+廣韻		# Guangyun
+kwangX/kwangH hjwinH	# Middle Chinese reading.
+kang vin 	# North Finnic reading.
+kang vin	# Finnish reading, early borrowing.
+kuang huin	# Finnish reading, late borrowing.
+
+開口
+khoj khuwX	# Middle Chinese reading.
+koi kuu 	# North Finnic reading.
+koi kuu	# Finnish reading, early borrowing.
+koi kuu	# Finnish reading, late borrowing.
+
+合口
+kop/hop khuwX	# Middle Chinese reading.
+kop/hop kuu 	# North Finnic reading.
+kop/hop kuu	# Finnish reading, early borrowing.
+kop/hop kuu	# Finnish reading, late borrowing.
+
+
+[Early mythical and legendary beings]:
+三皇五帝		# Three Sovereigns and Five Emperors. List according to Sima Qian.
+sam/samH hwang nguX tejH	# Middle Chinese reading.
+sam vang nu tei 	# North Finnic reading.
+sam vang nu tei	# Finnish reading, early borrowing.
+sam huang nu tei	# Finnish reading, late borrowing.
+
+天皇		# Heavenly Sovereign, aka Fuxi
+then/xen hwang	# Middle Chinese reading.
+ten/ken vang 	# North Finnic reading.
+ten/ken vang	# Finnish reading, early borrowing.
+ten/ken huang	# Finnish reading, late borrowing.
+
+伏羲		# Fuxi
+bjuwH/bjuwk xje	# Middle Chinese reading.
+piu/piuk ke 	# North Finnic reading.
+piu/piuk ke	# Finnish reading, early borrowing.
+piu/piuk kie	# Finnish reading, late borrowing.
+
+地皇		# Earthly Sovereign, aka Nüwa
+dijH hwang	# Middle Chinese reading.
+tii vang 	# North Finnic reading.
+tii vang	# Finnish reading, early borrowing.
+tii huang	# Finnish reading, late borrowing.
+
+女媧		# Nüwa
+nrjoX/nrjoH kwea/kwaeH	# Middle Chinese reading.
+no kä 	# North Finnic reading.
+no kä	# Finnish reading, early borrowing.
+nio kyä	# Finnish reading, late borrowing.
+
+泰皇
+thajH hwang	# Middle Chinese reading.
+tai vang 	# North Finnic reading.
+tai vang	# Finnish reading, early borrowing.
+tai huang	# Finnish reading, late borrowing.
+
+神農		# Shennong
+zyin nowng	# Middle Chinese reading.
+sin noung 	# North Finnic reading.
+sin noung	# Finnish reading, early borrowing.
+sin noung	# Finnish reading, late borrowing.
+
+黃帝		# Yellow Emperor
+hwang tejH	# Middle Chinese reading.
+vang tei 	# North Finnic reading.
+vang tei	# Finnish reading, early borrowing.
+huang tei	# Finnish reading, late borrowing.
+
+顓頊		# Zhuanxu
+tsywienH xjowk	# Middle Chinese reading.
+ken kouk 	# North Finnic reading.
+ken kouk	# Finnish reading, early borrowing.
+ken kiok	# Finnish reading, late borrowing.
+
+嚳		# Ku
+khowk	# Middle Chinese reading.
+kouk 	# North Finnic reading.
+kouk	# Finnish reading, early borrowing.
+kouk	# Finnish reading, late borrowing.
+
+堯		# Yao
+ngew	# Middle Chinese reading.
+neu 	# North Finnic reading.
+neu	# Finnish reading, early borrowing.
+neu	# Finnish reading, late borrowing.
+
+舜		# Shun
+sywinH	# Middle Chinese reading.
+suin 	# North Finnic reading.
+suin	# Finnish reading, early borrowing.
+suin	# Finnish reading, late borrowing.
+
+大禹		# Yu the Great, culture hero who ended the world flood and destroyed many flood demons.
+daH/dajH hjuX	# Middle Chinese reading.
+ta/tai ju 	# North Finnic reading.
+ta/tai ju	# Finnish reading, early borrowing.
+ta/tai hiu	# Finnish reading, late borrowing.
+
+
+[Sun Tzu]:
+孫子		# Sun Tzu
+swon tsiX	# Middle Chinese reading.
+son ci 	# North Finnic reading.
+son si	# Finnish reading, early borrowing.
+suon tsi	# Finnish reading, late borrowing.
+
+孫子兵法		# The Art of War, "Sun Tzu's Military Method"
+swon tsiX pjaeng pjop	# Middle Chinese reading.
+son ci päng pop 	# North Finnic reading.
+son si päng pop	# Finnish reading, early borrowing.
+suon tsi piäng piop	# Finnish reading, late borrowing.
+
+孫武		# Sun Tzu's bithname, Sun Wu
+swon mjuX	# Middle Chinese reading.
+son miu 	# North Finnic reading.
+son miu	# Finnish reading, early borrowing.
+suon miu	# Finnish reading, late borrowing.
+
+長卿		# Sun Tzu's courtesy name, Changqing
+drjang/trjangX khjaeng	# Middle Chinese reading.
+tang käng 	# North Finnic reading.
+tang käng	# Finnish reading, early borrowing.
+tiang kiäng	# Finnish reading, late borrowing.
+

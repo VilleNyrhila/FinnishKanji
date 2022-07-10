@@ -1,0 +1,67 @@
+[Emperor]:
+天皇		# Tennou
+then/xen hwang	# Middle Chinese reading.
+ten/ken vang 	# North Finnic reading.
+ten/ken vang	# Finnish reading, early borrowing.
+ten/ken huang	# Finnish reading, late borrowing.
+
+
+[Historical]:
+武士道		# Bushido
+mjuX dzriX dawH/dawX	# Middle Chinese reading.
+miu ci tau 	# North Finnic reading.
+miu si tau	# Finnish reading, early borrowing.
+miu tsi tau	# Finnish reading, late borrowing.
+
+忍者		# Ninja
+nyinX tsyaeX	# Middle Chinese reading.
+nin kä 	# North Finnic reading.
+nin kä	# Finnish reading, early borrowing.
+nin kiä	# Finnish reading, late borrowing.
+
+将軍		# Shogun
+tsjang/tsjangH kjun	# Middle Chinese reading.
+cang kiun 	# North Finnic reading.
+sang kiun	# Finnish reading, early borrowing.
+tsiang kiun	# Finnish reading, late borrowing.
+
+大名		# Daimyo
+daH/dajH mjieng	# Middle Chinese reading.
+ta/tai meng 	# North Finnic reading.
+ta/tai meng	# Finnish reading, early borrowing.
+ta/tai mieng	# Finnish reading, late borrowing.
+
+
+[Video games]:
+任天堂		# Nintendo
+nyimH then/xen dang	# Middle Chinese reading.
+nim ten/ken tang 	# North Finnic reading.
+nim ten/ken tang	# Finnish reading, early borrowing.
+nim ten/ken tang	# Finnish reading, late borrowing.
+
+鉄拳		# Tekken, Iron Fist
+thet gjwen	# Middle Chinese reading.
+tet ken 	# North Finnic reading.
+tet ken	# Finnish reading, early borrowing.
+tet kuen	# Finnish reading, late borrowing.
+
+
+[Other]:
+音読		# On-yo(mi)
+'im duwk	# Middle Chinese reading.
+im tuuk 	# North Finnic reading.
+im tuuk	# Finnish reading, early borrowing.
+im tuuk	# Finnish reading, late borrowing.
+
+訓読		# Kun-yo(mi)
+xjunH duwk	# Middle Chinese reading.
+kiun tuuk 	# North Finnic reading.
+kiun tuuk	# Finnish reading, early borrowing.
+kiun tuuk	# Finnish reading, late borrowing.
+
+本田		# Honda
+pwonX den	# Middle Chinese reading.
+pon ten 	# North Finnic reading.
+pon ten	# Finnish reading, early borrowing.
+puon ten	# Finnish reading, late borrowing.
+

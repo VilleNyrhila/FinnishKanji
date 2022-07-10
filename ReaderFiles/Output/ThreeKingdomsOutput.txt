@@ -1,0 +1,137 @@
+[Three Kingdoms]:
+
+[Dynasty Warriors]:
+三國無双		# Simplified character '双'
+sam/samH kwok mju sraewng	# Middle Chinese reading.
+sam kok miu säüng 	# North Finnic reading.
+sam kok miu säyng	# Finnish reading, early borrowing.
+sam kuok miu säyng	# Finnish reading, late borrowing.
+
+三國無雙
+sam/samH kwok mju sraewng	# Middle Chinese reading.
+sam kok miu säüng 	# North Finnic reading.
+sam kok miu säyng	# Finnish reading, early borrowing.
+sam kuok miu säyng	# Finnish reading, late borrowing.
+
+
+[Wei]:
+曹操孟德		# Cao Cao Mengde
+dzaw tshawX/tshawH maengH tok	# Middle Chinese reading.
+cau cau mäng tok 	# North Finnic reading.
+sau sau mäng tok	# Finnish reading, early borrowing.
+tsau tsau mäng tok	# Finnish reading, late borrowing.
+
+曹丕子桓		# Cao Pi Zihuan
+dzaw phij tsiX hwan	# Middle Chinese reading.
+cau pii ci van 	# North Finnic reading.
+sau pii si van	# Finnish reading, early borrowing.
+tsau pii tsi huan	# Finnish reading, late borrowing.
+
+夏侯惇元讓		# Xiahou Dun Yuanrang
+haeX/haeH huw tsywin/twon ngjwon nyangH	# Middle Chinese reading.
+hä huu juin/ton non nang 	# North Finnic reading.
+hä huu juin/ton non nang	# Finnish reading, early borrowing.
+hä huu juin/tuon nuon niang	# Finnish reading, late borrowing.
+
+司馬懿仲達		# Sima Yi Zhongda
+si maeX 'ijH drjuwngH dat	# Middle Chinese reading.
+si mä ii tiung tat 	# North Finnic reading.
+si mä ii tiung tat	# Finnish reading, early borrowing.
+si mä ii tiung tat	# Finnish reading, late borrowing.
+
+
+[Shu]:
+劉備玄德		# Liu Bei Xuande
+ljuw bijH hwen tok	# Middle Chinese reading.
+liu pii ven tok 	# North Finnic reading.
+liu pii ven tok	# Finnish reading, early borrowing.
+liu pii huen tok	# Finnish reading, late borrowing.
+
+漢昭烈帝		# Emperor Zhaolie of Han, Liu Bei as Emperor
+xanH tsyew ljet tejH	# Middle Chinese reading.
+kan keu let tei 	# North Finnic reading.
+kan keu let tei	# Finnish reading, early borrowing.
+kan kie liet tei	# Finnish reading, late borrowing.
+
+關羽雲長		# Guan Yu Yunchang
+kwaen hjuX hjun drjang/trjangX	# Middle Chinese reading.
+kän ju jun tang 	# North Finnic reading.
+kän ju jun tang	# Finnish reading, early borrowing.
+kyän hiu hiun tiang	# Finnish reading, late borrowing.
+
+張飛益德		# Zhang Fei Yide
+trjang pj+j 'jiek tok	# Middle Chinese reading.
+tang püi jek tok 	# North Finnic reading.
+tang pyi jek tok	# Finnish reading, early borrowing.
+tiang piy iek tok	# Finnish reading, late borrowing.
+
+諸葛亮孔明		# Zhuge Liang Kongmin
+tsyo kat ljangH khuwngX mjaeng	# Middle Chinese reading.
+jo kat lang kuung mäng 	# North Finnic reading.
+jo kat lang kuung mäng	# Finnish reading, early borrowing.
+kio kat liang kuung miäng	# Finnish reading, late borrowing.
+
+
+[Wu]:
+孫堅文台		# Sun Jian Wentai
+swon ken mjun yi	# Middle Chinese reading.
+son ken miun ji 	# North Finnic reading.
+son ken miun ji	# Finnish reading, early borrowing.
+suon ken miun ji	# Finnish reading, late borrowing.
+
+江東之虎		# Tiger of Jiangdong
+kaewng tuwng tsyi xuX	# Middle Chinese reading.
+käüng tuung ki ku 	# North Finnic reading.
+käyng tuung ki ku	# Finnish reading, early borrowing.
+käyng tuung ki ku	# Finnish reading, late borrowing.
+
+孫策伯符		# Sun Ce Bofu
+swon tsrheak paek bju	# Middle Chinese reading.
+son cäk päk piu 	# North Finnic reading.
+son säk päk piu	# Finnish reading, early borrowing.
+suon tsäk päk piu	# Finnish reading, late borrowing.
+
+孫權仲謀		# Sun Quan Zhongmou
+swon gjwen drjuwngH mjuw	# Middle Chinese reading.
+son ken tiung miu 	# North Finnic reading.
+son ken tiung miu	# Finnish reading, early borrowing.
+suon kuen tiung miu	# Finnish reading, late borrowing.
+
+
+[Other]:
+董卓仲穎		# Dong Zhuo Zhongying
+tuwngX traewk drjuwngH ywengX	# Middle Chinese reading.
+tuung täük tiung jeng 	# North Finnic reading.
+tuung täyk tiung jeng	# Finnish reading, early borrowing.
+tuung täyk tiung jueng	# Finnish reading, late borrowing.
+
+呂布奉先		# Lu Bu Fengxiang / Ryofu Housen
+ljoX puH bjowngX/phjowngX sen/senH	# Middle Chinese reading.
+lo pu poung sen 	# North Finnic reading.
+lo pu poung sen	# Finnish reading, early borrowing.
+lio pu piong sen	# Finnish reading, late borrowing.
+
+飛将		# "The Flying General", Lu Bu's moniker
+pj+j tsjang/tsjangH	# Middle Chinese reading.
+püi cang 	# North Finnic reading.
+pyi sang	# Finnish reading, early borrowing.
+piy tsiang	# Finnish reading, late borrowing.
+
+赤兔馬		# Red Hare, Lu Bu's famous horse
+tsyhjek thuH maeX	# Middle Chinese reading.
+kek tu mä 	# North Finnic reading.
+kek tu mä	# Finnish reading, early borrowing.
+kiek tu mä	# Finnish reading, late borrowing.
+
+人中有呂布馬中有赤菟		# Among men, Lü Bu. Among horses, Red Hare.
+nyin trjuwng/trjuwngH hjuwX ljoX puH maeX trjuwng/trjuwngH hjuwX tsyhjek du/syuH	# Middle Chinese reading.
+nin tiung juu lo pu mä tiung juu kek tu/siu 	# North Finnic reading.
+nin tiung juu lo pu mä tiung juu kek tu/siu	# Finnish reading, early borrowing.
+nin tiung hiu lio pu mä tiung hiu kiek tu/su	# Finnish reading, late borrowing.
+
+袁紹本初		# Yuan Shao Benchu
+hjwon dzyewX pwonX tsrhjo	# Middle Chinese reading.
+von keu pon co 	# North Finnic reading.
+von keu pon so	# Finnish reading, early borrowing.
+juon kie puon tsio	# Finnish reading, late borrowing.
+

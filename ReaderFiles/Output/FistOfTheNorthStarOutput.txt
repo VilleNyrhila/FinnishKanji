@@ -1,0 +1,619 @@
+[Style Names]:
+北斗神拳
+pok tuwX/tsyuX zyin gjwen	# Middle Chinese reading.
+pok tuu/ju sin ken 	# North Finnic reading.
+pok tuu/ju sin ken	# Finnish reading, early borrowing.
+pok tuu/kiu sin kuen	# Finnish reading, late borrowing.
+
+南斗聖拳
+nom tuwX/tsyuX syengH gjwen	# Middle Chinese reading.
+nom tuu/ju seng ken 	# North Finnic reading.
+nom tuu/ju seng ken	# Finnish reading, early borrowing.
+nom tuu/kiu sieng kuen	# Finnish reading, late borrowing.
+
+元斗皇拳
+ngjwon tuwX/tsyuX hwang gjwen	# Middle Chinese reading.
+non tuu/ju vang ken 	# North Finnic reading.
+non tuu/ju vang ken	# Finnish reading, early borrowing.
+nuon tuu/kiu huang kuen	# Finnish reading, late borrowing.
+
+
+[Nanto Seiken Schools, etc.]:
+南斗白鷺拳		# Nanto Hakurō Ken, Shu
+nom tuwX/tsyuX baek luH gjwen	# Middle Chinese reading.
+nom tuu/ju päk lu ken 	# North Finnic reading.
+nom tuu/ju päk lu ken	# Finnish reading, early borrowing.
+nom tuu/kiu päk lu kuen	# Finnish reading, late borrowing.
+
+仁星
+nyin seng	# Middle Chinese reading.
+nin seng 	# North Finnic reading.
+nin seng	# Finnish reading, early borrowing.
+nin seng	# Finnish reading, late borrowing.
+
+南斗鳳凰拳		# Nanto Hōō Ken, Souther
+nom tuwX/tsyuX buwngH hwang gjwen	# Middle Chinese reading.
+nom tuu/ju puung vang ken 	# North Finnic reading.
+nom tuu/ju puung vang ken	# Finnish reading, early borrowing.
+nom tuu/kiu puung huang kuen	# Finnish reading, late borrowing.
+
+将星
+tsjang/tsjangH seng	# Middle Chinese reading.
+cang seng 	# North Finnic reading.
+sang seng	# Finnish reading, early borrowing.
+tsiang seng	# Finnish reading, late borrowing.
+
+南斗紅鶴拳		# Nanto Kōkaku Ken, Yuda
+nom tuwX/tsyuX huwng haewk/hak gjwen	# Middle Chinese reading.
+nom tuu/ju huung häük/hak ken 	# North Finnic reading.
+nom tuu/ju huung häyk/hak ken	# Finnish reading, early borrowing.
+nom tuu/kiu huung häyk/hak kuen	# Finnish reading, late borrowing.
+
+妖星
+'jew seng	# Middle Chinese reading.
+jeu seng 	# North Finnic reading.
+jeu seng	# Finnish reading, early borrowing.
+jeu seng	# Finnish reading, late borrowing.
+
+南斗孤鷲拳		# Nanto Koshū Ken, Shin
+nom tuwX/tsyuX ku dzjuwH gjwen	# Middle Chinese reading.
+nom tuu/ju ku ciu ken 	# North Finnic reading.
+nom tuu/ju ku siu ken	# Finnish reading, early borrowing.
+nom tuu/kiu ku tsiu kuen	# Finnish reading, late borrowing.
+
+殉星
+zwinH seng	# Middle Chinese reading.
+suin seng 	# North Finnic reading.
+suin seng	# Finnish reading, early borrowing.
+suin seng	# Finnish reading, late borrowing.
+
+南斗六聖拳最後将		# Nanto Saigo (no) Shō
+nom tuwX/tsyuX ljuwk syengH gjwen tswajH huwX/huwH tsjang/tsjangH	# Middle Chinese reading.
+nom tuu/ju liuk seng ken cai huu cang 	# North Finnic reading.
+nom tuu/ju liuk seng ken sai huu sang	# Finnish reading, early borrowing.
+nom tuu/kiu liuk sieng kuen tsua huu tsiang	# Finnish reading, late borrowing.
+
+慈母星
+dzi muwX seng	# Middle Chinese reading.
+ci muu seng 	# North Finnic reading.
+si muu seng	# Finnish reading, early borrowing.
+tsi muu seng	# Finnish reading, late borrowing.
+
+南斗水鳥拳		# Nanto Suichō Ken, Rei
+nom tuwX/tsyuX sywijX tewX gjwen	# Middle Chinese reading.
+nom tuu/ju sui teu ken 	# North Finnic reading.
+nom tuu/ju sui teu ken	# Finnish reading, early borrowing.
+nom tuu/kiu sui teu kuen	# Finnish reading, late borrowing.
+
+義星
+ngjeH seng	# Middle Chinese reading.
+ne seng 	# North Finnic reading.
+ne seng	# Finnish reading, early borrowing.
+nie seng	# Finnish reading, late borrowing.
+
+南斗五車星		# Nanto Goshasei, Five Chariot Stars of South Dipper
+nom tuwX/tsyuX nguX tsyhjae/kjo seng	# Middle Chinese reading.
+nom tuu/ju nu kä/ko seng 	# North Finnic reading.
+nom tuu/ju nu kä/ko seng	# Finnish reading, early borrowing.
+nom tuu/kiu nu kiä/kio seng	# Finnish reading, late borrowing.
+
+我流拳		# Self-Taught Fist
+ngaX ljuw gjwen	# Middle Chinese reading.
+na liu ken 	# North Finnic reading.
+na liu ken	# Finnish reading, early borrowing.
+na liu kuen	# Finnish reading, late borrowing.
+
+五車炎情拳
+nguX tsyhjae/kjo hjem dzjeng gjwen	# Middle Chinese reading.
+nu kä/ko jem ceng ken 	# North Finnic reading.
+nu kä/ko jem seng ken	# Finnish reading, early borrowing.
+nu kiä/kio hiem tsieng kuen	# Finnish reading, late borrowing.
+
+五車風裂拳
+nguX tsyhjae/kjo pjuwng/pjuwngH ljet gjwen	# Middle Chinese reading.
+nu kä/ko piung let ken 	# North Finnic reading.
+nu kä/ko piung let ken	# Finnish reading, early borrowing.
+nu kiä/kio piung liet kuen	# Finnish reading, late borrowing.
+
+五車波砕拳
+nguX tsyhjae/kjo pa swojH gjwen	# Middle Chinese reading.
+nu kä/ko pa soi ken 	# North Finnic reading.
+nu kä/ko pa soi ken	# Finnish reading, early borrowing.
+nu kiä/kio pa suo kuen	# Finnish reading, late borrowing.
+
+五車山峨斬
+nguX tsyhjae/kjo srean ngaX tsreamX	# Middle Chinese reading.
+nu kä/ko sän na cäm 	# North Finnic reading.
+nu kä/ko sän na säm	# Finnish reading, early borrowing.
+nu kiä/kio sän na tsäm	# Finnish reading, late borrowing.
+
+
+[Gento Kouken]:
+天帝
+then/xen tejH	# Middle Chinese reading.
+ten/ken tei 	# North Finnic reading.
+ten/ken tei	# Finnish reading, early borrowing.
+ten/ken tei	# Finnish reading, late borrowing.
+
+天帝星
+then/xen tejH seng	# Middle Chinese reading.
+ten/ken tei seng 	# North Finnic reading.
+ten/ken tei seng	# Finnish reading, early borrowing.
+ten/ken tei seng	# Finnish reading, late borrowing.
+
+大極星
+daH/dajH gik seng	# Middle Chinese reading.
+ta/tai kik seng 	# North Finnic reading.
+ta/tai kik seng	# Finnish reading, early borrowing.
+ta/tai kik seng	# Finnish reading, late borrowing.
+
+
+[Hokuto Shinken Moves]:
+五指烈弾
+nguX tsyijX ljet danH	# Middle Chinese reading.
+nu kii let tan 	# North Finnic reading.
+nu kii let tan	# Finnish reading, early borrowing.
+nu kii liet tan	# Finnish reading, late borrowing.
+
+北斗双龍波
+pok tuwX/tsyuX sraewng ljowng/maewng pa	# Middle Chinese reading.
+pok tuu/ju säüng loung/mäüng pa 	# North Finnic reading.
+pok tuu/ju säyng loung/mäyng pa	# Finnish reading, early borrowing.
+pok tuu/kiu säyng liong/mäyng pa	# Finnish reading, late borrowing.
+
+流星破顔脚
+ljuw seng phaH ngaen kjak	# Middle Chinese reading.
+liu seng pa nän kak 	# North Finnic reading.
+liu seng pa nän kak	# Finnish reading, early borrowing.
+liu seng pa nän kiak	# Finnish reading, late borrowing.
+
+北斗絞首逆折
+pok tuwX/tsyuX kaewX syuwX/syuwH ngjaek dejH/dzyet/tsyet	# Middle Chinese reading.
+pok tuu/ju käü siu näk tei/ket 	# North Finnic reading.
+pok tuu/ju käy siu näk tei/ket	# Finnish reading, early borrowing.
+pok tuu/kiu käy siu niäk tei/kiet	# Finnish reading, late borrowing.
+
+北斗百裂弾
+pok tuwX/tsyuX paek ljet danH	# Middle Chinese reading.
+pok tuu/ju päk let tan 	# North Finnic reading.
+pok tuu/ju päk let tan	# Finnish reading, early borrowing.
+pok tuu/kiu päk liet tan	# Finnish reading, late borrowing.
+
+北斗百裂拳		# Hokuto Hyakuretsu Ken
+pok tuwX/tsyuX paek ljet gjwen	# Middle Chinese reading.
+pok tuu/ju päk let ken 	# North Finnic reading.
+pok tuu/ju päk let ken	# Finnish reading, early borrowing.
+pok tuu/kiu päk liet kuen	# Finnish reading, late borrowing.
+
+二指真空把		# Nishi Shinkuu Ha, Two Finger Air Snatch
+nyijH tsyijX tsyin khuwng/khuwngX paeX	# Middle Chinese reading.
+nii kii kin kuung pä 	# North Finnic reading.
+nii kii kin kuung pä	# Finnish reading, early borrowing.
+nii kii kin kuung pä	# Finnish reading, late borrowing.
+
+岩山両斬波		# Ganzan Ryōzan Ha, Boulder Splitting Wave
+ngaem srean ljangX tsreamX pa	# Middle Chinese reading.
+näm sän lang cäm pa 	# North Finnic reading.
+näm sän lang säm pa	# Finnish reading, early borrowing.
+näm sän liang tsäm pa	# Finnish reading, late borrowing.
+
+北斗残悔拳		# Hokuto Zankai Ken, North Star Remorse Fist
+pok tuwX/tsyuX dzan xwojX gjwen	# Middle Chinese reading.
+pok tuu/ju can koi ken 	# North Finnic reading.
+pok tuu/ju san koi ken	# Finnish reading, early borrowing.
+pok tuu/kiu tsan kuo kuen	# Finnish reading, late borrowing.
+
+交首破顔拳
+kaew syuwX/syuwH phaH ngaen gjwen	# Middle Chinese reading.
+käü siu pa nän ken 	# North Finnic reading.
+käy siu pa nän ken	# Finnish reading, early borrowing.
+käy siu pa nän kuen	# Finnish reading, late borrowing.
+
+北斗柔破斬
+pok tuwX/tsyuX nyuw phaH tsreamX	# Middle Chinese reading.
+pok tuu/ju niu pa cäm 	# North Finnic reading.
+pok tuu/ju niu pa säm	# Finnish reading, early borrowing.
+pok tuu/kiu niu pa tsäm	# Finnish reading, late borrowing.
+
+北斗飛衛拳
+pok tuwX/tsyuX pj+j hjwejH gjwen	# Middle Chinese reading.
+pok tuu/ju püi vei ken 	# North Finnic reading.
+pok tuu/ju pyi vei ken	# Finnish reading, early borrowing.
+pok tuu/kiu piy jue kuen	# Finnish reading, late borrowing.
+
+北斗十字斬
+pok tuwX/tsyuX dzyip dziH tsreamX	# Middle Chinese reading.
+pok tuu/ju kip ci cäm 	# North Finnic reading.
+pok tuu/ju kip si säm	# Finnish reading, early borrowing.
+pok tuu/kiu kip tsi tsäm	# Finnish reading, late borrowing.
+
+北斗鋼筋分断脚
+pok tuwX/tsyuX kang kj+n pjun/bjunH dwanX/twanX/twanH kjak	# Middle Chinese reading.
+pok tuu/ju kang kün piun tan kak 	# North Finnic reading.
+pok tuu/ju kang kyn piun tan kak	# Finnish reading, early borrowing.
+pok tuu/kiu kang kiyn piun tuan kiak	# Finnish reading, late borrowing.
+
+北斗繰筋自在脚
+pok tuwX/tsyuX tsawX kj+n dzijH dzojX kjak	# Middle Chinese reading.
+pok tuu/ju cau kün cii coi kak 	# North Finnic reading.
+pok tuu/ju sau kyn sii soi kak	# Finnish reading, early borrowing.
+pok tuu/kiu tsau kiyn tsii tsoi kiak	# Finnish reading, late borrowing.
+
+北斗連環組手		# Hokuto Renkan Kumite
+pok tuwX/tsyuX ljen hwaen tsuX syuwX	# Middle Chinese reading.
+pok tuu/ju len vän cu siu 	# North Finnic reading.
+pok tuu/ju len vän su siu	# Finnish reading, early borrowing.
+pok tuu/kiu lien hyän tsu siu	# Finnish reading, late borrowing.
+
+空極流舞
+khuwng/khuwngX gik ljuw mjuX	# Middle Chinese reading.
+kuung kik liu miu 	# North Finnic reading.
+kuung kik liu miu	# Finnish reading, early borrowing.
+kuung kik liu miu	# Finnish reading, late borrowing.
+
+北斗壊骨拳
+pok tuwX/tsyuX hweajH/hwojX/kweajH kwot gjwen	# Middle Chinese reading.
+pok tuu/ju väi/voi/käi kot ken 	# North Finnic reading.
+pok tuu/ju väi/voi/käi kot ken	# Finnish reading, early borrowing.
+pok tuu/kiu hyä/huo/kyä kuot kuen	# Finnish reading, late borrowing.
+
+北斗虚無指弾
+pok tuwX/tsyuX khjo mju tsyijX danH	# Middle Chinese reading.
+pok tuu/ju ko miu kii tan 	# North Finnic reading.
+pok tuu/ju ko miu kii tan	# Finnish reading, early borrowing.
+pok tuu/kiu kio miu kii tan	# Finnish reading, late borrowing.
+
+北斗断骨筋
+pok tuwX/tsyuX dwanX/twanX/twanH kwot kj+n	# Middle Chinese reading.
+pok tuu/ju tan kot kün 	# North Finnic reading.
+pok tuu/ju tan kot kyn	# Finnish reading, early borrowing.
+pok tuu/kiu tuan kuot kiyn	# Finnish reading, late borrowing.
+
+転龍呼吸法
+trjwenX ljowng/maewng xu/xuH xip pjop	# Middle Chinese reading.
+ten loung/mäüng ku kip pop 	# North Finnic reading.
+ten loung/mäyng ku kip pop	# Finnish reading, early borrowing.
+tuen liong/mäyng ku kip piop	# Finnish reading, late borrowing.
+
+北斗七死星点
+pok tuwX/tsyuX tshit sijX seng temX	# Middle Chinese reading.
+pok tuu/ju cit sii seng tem 	# North Finnic reading.
+pok tuu/ju sit sii seng tem	# Finnish reading, early borrowing.
+pok tuu/kiu tsit sii seng tem	# Finnish reading, late borrowing.
+
+北斗千手壊拳
+pok tuwX/tsyuX tshen syuwX hweajH/hwojX/kweajH gjwen	# Middle Chinese reading.
+pok tuu/ju cen siu väi/voi/käi ken 	# North Finnic reading.
+pok tuu/ju sen siu väi/voi/käi ken	# Finnish reading, early borrowing.
+pok tuu/kiu tsen siu hyä/huo/kyä kuen	# Finnish reading, late borrowing.
+
+北斗破顔拳
+pok tuwX/tsyuX phaH ngaen gjwen	# Middle Chinese reading.
+pok tuu/ju pa nän ken 	# North Finnic reading.
+pok tuu/ju pa nän ken	# Finnish reading, early borrowing.
+pok tuu/kiu pa nän kuen	# Finnish reading, late borrowing.
+
+聖極輪
+syengH gik lwin	# Middle Chinese reading.
+seng kik luin 	# North Finnic reading.
+seng kik luin	# Finnish reading, early borrowing.
+sieng kik luin	# Finnish reading, late borrowing.
+
+北斗龍撃虎
+pok tuwX/tsyuX ljowng/maewng kek xuX	# Middle Chinese reading.
+pok tuu/ju loung/mäüng kek ku 	# North Finnic reading.
+pok tuu/ju loung/mäyng kek ku	# Finnish reading, early borrowing.
+pok tuu/kiu liong/mäyng kek ku	# Finnish reading, late borrowing.
+
+北斗千手殺
+pok tuwX/tsyuX tshen syuwX sreat/sreajH	# Middle Chinese reading.
+pok tuu/ju cen siu sät/säi 	# North Finnic reading.
+pok tuu/ju sen siu sät/säi	# Finnish reading, early borrowing.
+pok tuu/kiu tsen siu sät/säi	# Finnish reading, late borrowing.
+
+北斗八悶九断
+pok tuwX/tsyuX peat mwonH kjuwX dwanX/twanX/twanH	# Middle Chinese reading.
+pok tuu/ju pät mon kiu tan 	# North Finnic reading.
+pok tuu/ju pät mon kiu tan	# Finnish reading, early borrowing.
+pok tuu/kiu pät muon kiu tuan	# Finnish reading, late borrowing.
+
+北斗羅漢撃
+pok tuwX/tsyuX la xanH kek	# Middle Chinese reading.
+pok tuu/ju la kan kek 	# North Finnic reading.
+pok tuu/ju la kan kek	# Finnish reading, early borrowing.
+pok tuu/kiu la kan kek	# Finnish reading, late borrowing.
+
+醒鋭孔
+sengX ywejH khuwngX	# Middle Chinese reading.
+seng jei kuung 	# North Finnic reading.
+seng jei kuung	# Finnish reading, early borrowing.
+seng jue kuung	# Finnish reading, late borrowing.
+
+秘孔封
+pijH khuwngX pjowng	# Middle Chinese reading.
+pii kuung poung 	# North Finnic reading.
+pii kuung poung	# Finnish reading, early borrowing.
+pii kuung piong	# Finnish reading, late borrowing.
+
+残悔積歩拳
+dzan xwojX tsjek buH gjwen	# Middle Chinese reading.
+can koi cek pu ken 	# North Finnic reading.
+san koi sek pu ken	# Finnish reading, early borrowing.
+tsan kuo tsiek pu kuen	# Finnish reading, late borrowing.
+
+北斗鋼裂把
+pok tuwX/tsyuX kang ljet paeX	# Middle Chinese reading.
+pok tuu/ju kang let pä 	# North Finnic reading.
+pok tuu/ju kang let pä	# Finnish reading, early borrowing.
+pok tuu/kiu kang liet pä	# Finnish reading, late borrowing.
+
+北斗有情拳		# Hokuto Ujō Ken
+pok tuwX/tsyuX hjuwX dzjeng gjwen	# Middle Chinese reading.
+pok tuu/ju juu ceng ken 	# North Finnic reading.
+pok tuu/ju juu seng ken	# Finnish reading, early borrowing.
+pok tuu/kiu hiu tsieng kuen	# Finnish reading, late borrowing.
+
+北斗有情破顔拳		# Hokuto Ujō Hagan Ken
+pok tuwX/tsyuX hjuwX dzjeng phaH ngaen gjwen	# Middle Chinese reading.
+pok tuu/ju juu ceng pa nän ken 	# North Finnic reading.
+pok tuu/ju juu seng pa nän ken	# Finnish reading, early borrowing.
+pok tuu/kiu hiu tsieng pa nän kuen	# Finnish reading, late borrowing.
+
+北斗七死闘気断
+pok tuwX/tsyuX tshit sijX tuwH khj+jH/xj+jH dwanX/twanX/twanH	# Middle Chinese reading.
+pok tuu/ju cit sii tuu küi tan 	# North Finnic reading.
+pok tuu/ju sit sii tuu kyi tan	# Finnish reading, early borrowing.
+pok tuu/kiu tsit sii tuu kiy tuan	# Finnish reading, late borrowing.
+
+北斗七死騎兵斬
+pok tuwX/tsyuX tshit sijX gje/gjeH pjaeng tsreamX	# Middle Chinese reading.
+pok tuu/ju cit sii ke päng cäm 	# North Finnic reading.
+pok tuu/ju sit sii ke päng säm	# Finnish reading, early borrowing.
+pok tuu/kiu tsit sii kie piäng tsäm	# Finnish reading, late borrowing.
+
+七星点心
+tshit seng temX sim	# Middle Chinese reading.
+cit seng tem sim 	# North Finnic reading.
+sit seng tem sim	# Finnish reading, early borrowing.
+tsit seng tem sim	# Finnish reading, late borrowing.
+
+水影心
+sywijX 'jaengX sim	# Middle Chinese reading.
+sui jäng sim 	# North Finnic reading.
+sui jäng sim	# Finnish reading, early borrowing.
+sui jäng sim	# Finnish reading, late borrowing.
+
+北斗有情断迅拳
+pok tuwX/tsyuX hjuwX dzjeng dwanX/twanX/twanH sinH/swinH gjwen	# Middle Chinese reading.
+pok tuu/ju juu ceng tan sin/suin ken 	# North Finnic reading.
+pok tuu/ju juu seng tan sin/suin ken	# Finnish reading, early borrowing.
+pok tuu/kiu hiu tsieng tuan sin/suin kuen	# Finnish reading, late borrowing.
+
+天破活殺		# Tenha Kassatsu
+then/xen phaH hwat sreat/sreajH	# Middle Chinese reading.
+ten/ken pa vat sät/säi 	# North Finnic reading.
+ten/ken pa vat sät/säi	# Finnish reading, early borrowing.
+ten/ken pa huat sät/säi	# Finnish reading, late borrowing.
+
+北斗有情猛翔破
+pok tuwX/tsyuX hjuwX dzjeng hak zjang phaH	# Middle Chinese reading.
+pok tuu/ju juu ceng hak sang pa 	# North Finnic reading.
+pok tuu/ju juu seng hak sang pa	# Finnish reading, early borrowing.
+pok tuu/kiu hiu tsieng hak siang pa	# Finnish reading, late borrowing.
+
+七星抹殺
+tshit seng mat sreat/sreajH	# Middle Chinese reading.
+cit seng mat sät/säi 	# North Finnic reading.
+sit seng mat sät/säi	# Finnish reading, early borrowing.
+tsit seng mat sät/säi	# Finnish reading, late borrowing.
+
+北斗天帰掌
+pok tuwX/tsyuX then/xen kjw+j tsyangX	# Middle Chinese reading.
+pok tuu/ju ten/ken küi kang 	# North Finnic reading.
+pok tuu/ju ten/ken kyi kang	# Finnish reading, early borrowing.
+pok tuu/kiu ten/ken kyy kiang	# Finnish reading, late borrowing.
+
+無想陰殺
+mju sjangX 'im sreat/sreajH	# Middle Chinese reading.
+miu sang im sät/säi 	# North Finnic reading.
+miu sang im sät/säi	# Finnish reading, early borrowing.
+miu siang im sät/säi	# Finnish reading, late borrowing.
+
+闘勁呼法
+tuwH kjiengH xu/xuH pjop	# Middle Chinese reading.
+tuu keng ku pop 	# North Finnic reading.
+tuu keng ku pop	# Finnish reading, early borrowing.
+tuu kieng ku piop	# Finnish reading, late borrowing.
+
+天翔百裂拳
+then/xen zjang paek ljet gjwen	# Middle Chinese reading.
+ten/ken sang päk let ken 	# North Finnic reading.
+ten/ken sang päk let ken	# Finnish reading, early borrowing.
+ten/ken siang päk liet kuen	# Finnish reading, late borrowing.
+
+北斗剛掌波
+pok tuwX/tsyuX kang tsyangX pa	# Middle Chinese reading.
+pok tuu/ju kang kang pa 	# North Finnic reading.
+pok tuu/ju kang kang pa	# Finnish reading, early borrowing.
+pok tuu/kiu kang kiang pa	# Finnish reading, late borrowing.
+
+無想転生		# Musō Tensei, Unconscious Transmigration of Souls
+mju sjangX trjwenX sraeng/srjaeng	# Middle Chinese reading.
+miu sang ten säng 	# North Finnic reading.
+miu sang ten säng	# Finnish reading, early borrowing.
+miu siang tuen säng/siäng	# Finnish reading, late borrowing.
+
+天将奔烈		# Tenshō Honretsu, Heaven's Command Charge
+then/xen tsjang/tsjangH pwon ljet	# Middle Chinese reading.
+ten/ken cang pon let 	# North Finnic reading.
+ten/ken sang pon let	# Finnish reading, early borrowing.
+ten/ken tsiang puon liet	# Finnish reading, late borrowing.
+
+北斗仙気雷弾
+pok tuwX/tsyuX sjen khj+jH/xj+jH lwoj danH	# Middle Chinese reading.
+pok tuu/ju sen küi loi tan 	# North Finnic reading.
+pok tuu/ju sen kyi loi tan	# Finnish reading, early borrowing.
+pok tuu/kiu sien kiy luo tan	# Finnish reading, late borrowing.
+
+拳盗捨断
+gjwen dawH syaeX dwanX/twanX/twanH	# Middle Chinese reading.
+ken tau sä tan 	# North Finnic reading.
+ken tau sä tan	# Finnish reading, early borrowing.
+kuen tau siä tuan	# Finnish reading, late borrowing.
+
+七点掌
+tshit temX tsyangX	# Middle Chinese reading.
+cit tem kang 	# North Finnic reading.
+sit tem kang	# Finnish reading, early borrowing.
+tsit tem kiang	# Finnish reading, late borrowing.
+
+残影蠍拳
+dzan 'jaengX xjet gjwen	# Middle Chinese reading.
+can jäng ket ken 	# North Finnic reading.
+san jäng ket ken	# Finnish reading, early borrowing.
+tsan jäng kiet kuen	# Finnish reading, late borrowing.
+
+北斗四方斬
+pok tuwX/tsyuX sijH pjang tsreamX	# Middle Chinese reading.
+pok tuu/ju sii pang cäm 	# North Finnic reading.
+pok tuu/ju sii pang säm	# Finnish reading, early borrowing.
+pok tuu/kiu sii piang tsäm	# Finnish reading, late borrowing.
+
+北斗百方斬
+pok tuwX/tsyuX paek pjang tsreamX	# Middle Chinese reading.
+pok tuu/ju päk pang cäm 	# North Finnic reading.
+pok tuu/ju päk pang säm	# Finnish reading, early borrowing.
+pok tuu/kiu päk piang tsäm	# Finnish reading, late borrowing.
+
+交首破頭拳
+kaew syuwX/syuwH phaH duw gjwen	# Middle Chinese reading.
+käü siu pa tuu ken 	# North Finnic reading.
+käy siu pa tuu ken	# Finnish reading, early borrowing.
+käy siu pa tuu kuen	# Finnish reading, late borrowing.
+
+飛鳥空斬波
+pj+j tewX khuwng/khuwngX tsreamX pa	# Middle Chinese reading.
+püi teu kuung cäm pa 	# North Finnic reading.
+pyi teu kuung säm pa	# Finnish reading, early borrowing.
+piy teu kuung tsäm pa	# Finnish reading, late borrowing.
+
+烈火逆流拳
+ljet xwaX ngjaek ljuw gjwen	# Middle Chinese reading.
+let ka näk liu ken 	# North Finnic reading.
+let ka näk liu ken	# Finnish reading, early borrowing.
+liet kua niäk liu kuen	# Finnish reading, late borrowing.
+
+命奪崩壊拳
+mjaengH dwat pong hweajH/hwojX/kweajH gjwen	# Middle Chinese reading.
+mäng tat pong väi/voi/käi ken 	# North Finnic reading.
+mäng tat pong väi/voi/käi ken	# Finnish reading, early borrowing.
+miäng tuat pong hyä/huo/kyä kuen	# Finnish reading, late borrowing.
+
+北斗翻車爆裂拳
+pok tuwX/tsyuX phjwon tsyhjae/kjo paewH ljet gjwen	# Middle Chinese reading.
+pok tuu/ju pon kä/ko päü let ken 	# North Finnic reading.
+pok tuu/ju pon kä/ko päy let ken	# Finnish reading, early borrowing.
+pok tuu/kiu puon kiä/kio päy liet kuen	# Finnish reading, late borrowing.
+
+北斗繰筋自在拳
+pok tuwX/tsyuX tsawX kj+n dzijH dzojX gjwen	# Middle Chinese reading.
+pok tuu/ju cau kün cii coi ken 	# North Finnic reading.
+pok tuu/ju sau kyn sii soi ken	# Finnish reading, early borrowing.
+pok tuu/kiu tsau kiyn tsii tsoi kuen	# Finnish reading, late borrowing.
+
+北斗千連脚
+pok tuwX/tsyuX tshen ljen kjak	# Middle Chinese reading.
+pok tuu/ju cen len kak 	# North Finnic reading.
+pok tuu/ju sen len kak	# Finnish reading, early borrowing.
+pok tuu/kiu tsen lien kiak	# Finnish reading, late borrowing.
+
+北斗虚空斬
+pok tuwX/tsyuX khjo khuwng/khuwngX tsreamX	# Middle Chinese reading.
+pok tuu/ju ko kuung cäm 	# North Finnic reading.
+pok tuu/ju ko kuung säm	# Finnish reading, early borrowing.
+pok tuu/kiu kio kuung tsäm	# Finnish reading, late borrowing.
+
+北斗縦列破
+pok tuwX/tsyuX tsjowngH ljet phaH	# Middle Chinese reading.
+pok tuu/ju coung let pa 	# North Finnic reading.
+pok tuu/ju soung let pa	# Finnish reading, early borrowing.
+pok tuu/kiu tsiong liet pa	# Finnish reading, late borrowing.
+
+発勁法
+pjot kjiengH pjop	# Middle Chinese reading.
+pot keng pop 	# North Finnic reading.
+pot keng pop	# Finnish reading, early borrowing.
+piot kieng piop	# Finnish reading, late borrowing.
+
+北斗旋風連撃
+pok tuwX/tsyuX zjwen/zjwenH pjuwng/pjuwngH ljen kek	# Middle Chinese reading.
+pok tuu/ju sen piung len kek 	# North Finnic reading.
+pok tuu/ju sen piung len kek	# Finnish reading, early borrowing.
+pok tuu/kiu suen piung lien kek	# Finnish reading, late borrowing.
+
+北斗胸殺刺突拳
+pok tuwX/tsyuX xjowng sreat/sreajH tshjeH/tshjek dwot/thwot gjwen	# Middle Chinese reading.
+pok tuu/ju koung sät/säi ce/cek tot ken 	# North Finnic reading.
+pok tuu/ju koung sät/säi se/sek tot ken	# Finnish reading, early borrowing.
+pok tuu/kiu kiong sät/säi tsie/tsiek tuot kuen	# Finnish reading, late borrowing.
+
+北斗撃墜指
+pok tuwX/tsyuX kek drwijH tsyijX	# Middle Chinese reading.
+pok tuu/ju kek tui kii 	# North Finnic reading.
+pok tuu/ju kek tui kii	# Finnish reading, early borrowing.
+pok tuu/kiu kek tui kii	# Finnish reading, late borrowing.
+
+北斗円環斬襲脚
+pok tuwX/tsyuX hjwen hwaen tsreamX zip kjak	# Middle Chinese reading.
+pok tuu/ju ven vän cäm sip kak 	# North Finnic reading.
+pok tuu/ju ven vän säm sip kak	# Finnish reading, early borrowing.
+pok tuu/kiu juen hyän tsäm sip kiak	# Finnish reading, late borrowing.
+
+解毒術
+keaX/heaX dowk zywit	# Middle Chinese reading.
+kä/hä touk suit 	# North Finnic reading.
+kä/hä touk suit	# Finnish reading, early borrowing.
+kä/hä touk suit	# Finnish reading, late borrowing.
+
+当門穴破指挿
+tang/tangH mwon hwet phaH tsyijX tsrheap	# Middle Chinese reading.
+tang mon vet pa kii cäp 	# North Finnic reading.
+tang mon vet pa kii säp	# Finnish reading, early borrowing.
+tang muon huet pa kii tsäp	# Finnish reading, late borrowing.
+
+雷暴神脚
+lwoj bawH/buwk zyin kjak	# Middle Chinese reading.
+loi pau/puuk sin kak 	# North Finnic reading.
+loi pau/puuk sin kak	# Finnish reading, early borrowing.
+luo pau/puuk sin kiak	# Finnish reading, late borrowing.
+
+調気呼吸術
+dew khj+jH/xj+jH xu/xuH xip zywit	# Middle Chinese reading.
+teu küi ku kip suit 	# North Finnic reading.
+teu kyi ku kip suit	# Finnish reading, early borrowing.
+teu kiy ku kip suit	# Finnish reading, late borrowing.
+
+北斗円掌波
+pok tuwX/tsyuX hjwen tsyangX pa	# Middle Chinese reading.
+pok tuu/ju ven kang pa 	# North Finnic reading.
+pok tuu/ju ven kang pa	# Finnish reading, early borrowing.
+pok tuu/kiu juen kiang pa	# Finnish reading, late borrowing.
+
+北斗輯連打
+pok tuwX/tsyuX dzip/tsrip ljen tengX	# Middle Chinese reading.
+pok tuu/ju cip len teng 	# North Finnic reading.
+pok tuu/ju sip len teng	# Finnish reading, early borrowing.
+pok tuu/kiu tsip lien teng	# Finnish reading, late borrowing.
+
+北斗一点鐘
+pok tuwX/tsyuX 'jit temX tsyowng	# Middle Chinese reading.
+pok tuu/ju jit tem joung 	# North Finnic reading.
+pok tuu/ju jit tem joung	# Finnish reading, early borrowing.
+pok tuu/kiu jit tem kiong	# Finnish reading, late borrowing.
+
+北斗天魁千烈掌
+pok tuwX/tsyuX then/xen khwoj tshen ljet tsyangX	# Middle Chinese reading.
+pok tuu/ju ten/ken koi cen let kang 	# North Finnic reading.
+pok tuu/ju ten/ken koi sen let kang	# Finnish reading, early borrowing.
+pok tuu/kiu ten/ken kuo tsen liet kiang	# Finnish reading, late borrowing.
+

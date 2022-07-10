@@ -1,0 +1,87 @@
+[Yojijukugo]:
+七生報國		# "Shichisei houkoku", last words of Kusunoki Masashige
+tshit sraeng/srjaeng pawH kwok	# Middle Chinese reading.
+cit säng pau kok 	# North Finnic reading.
+sit säng pau kok	# Finnish reading, early borrowing.
+tsit säng/siäng pau kuok	# Finnish reading, late borrowing.
+
+風林火山		# Fuurinkazan
+pjuwng/pjuwngH lim xwaX srean	# Middle Chinese reading.
+piung lim ka sän 	# North Finnic reading.
+piung lim ka sän	# Finnish reading, early borrowing.
+piung lim kua sän	# Finnish reading, late borrowing.
+
+一期一会		# Ichigo ichie
+'jit gi 'jit hwajH/kwajH	# Middle Chinese reading.
+jit ki jit vai/kai 	# North Finnic reading.
+jit ki jit vai/kai	# Finnish reading, early borrowing.
+jit ki jit hua/kua	# Finnish reading, late borrowing.
+
+天下無双		# Tenka musou
+then/xen haeX/haeH mju sraewng	# Middle Chinese reading.
+ten/ken hä miu säüng 	# North Finnic reading.
+ten/ken hä miu säyng	# Finnish reading, early borrowing.
+ten/ken hä miu säyng	# Finnish reading, late borrowing.
+
+天下無敵		# Tenka muteki
+then/xen haeX/haeH mju dek	# Middle Chinese reading.
+ten/ken hä miu tek 	# North Finnic reading.
+ten/ken hä miu tek	# Finnish reading, early borrowing.
+ten/ken hä miu tek	# Finnish reading, late borrowing.
+
+天下統一		# Tenka touitsu, "All under Heaven governed by one"
+then/xen haeX/haeH thowngH 'jit	# Middle Chinese reading.
+ten/ken hä toung jit 	# North Finnic reading.
+ten/ken hä toung jit	# Finnish reading, early borrowing.
+ten/ken hä toung jit	# Finnish reading, late borrowing.
+
+天下布武		# Tenka fubu, "Rule the land with military force"
+then/xen haeX/haeH puH mjuX	# Middle Chinese reading.
+ten/ken hä pu miu 	# North Finnic reading.
+ten/ken hä pu miu	# Finnish reading, early borrowing.
+ten/ken hä pu miu	# Finnish reading, late borrowing.
+
+逢仏殺仏		# Meet the Buddha, kill the Buddha
+bjowng/buwng bjut sreat/sreajH bjut	# Middle Chinese reading.
+poung/puung piut sät/säi piut 	# North Finnic reading.
+poung/puung piut sät/säi piut	# Finnish reading, early borrowing.
+piong/puung piut sät/säi piut	# Finnish reading, late borrowing.
+
+
+[Omia]:
+救芬滅魯
+kjuwH phjun mjiet luX	# Middle Chinese reading.
+kiu piun met lu 	# North Finnic reading.
+kiu piun met lu	# Finnish reading, early borrowing.
+kiu piun miet lu	# Finnish reading, late borrowing.
+
+救芬滅露
+kjuwH phjun mjiet luH	# Middle Chinese reading.
+kiu piun met lu 	# North Finnic reading.
+kiu piun met lu	# Finnish reading, early borrowing.
+kiu piun miet lu	# Finnish reading, late borrowing.
+
+一芬十露
+'jit phjun dzyip luH	# Middle Chinese reading.
+jit piun kip lu 	# North Finnic reading.
+jit piun kip lu	# Finnish reading, early borrowing.
+jit piun kip lu	# Finnish reading, late borrowing.
+
+栄烏誉勇		# "Slava Ukraini, geroiam slava"
+hjwaeng 'u yo/yoH yowngX	# Middle Chinese reading.
+väng uu jo joung 	# North Finnic reading.
+väng uu jo joung	# Finnish reading, early borrowing.
+jyäng u jo joung	# Finnish reading, late borrowing.
+
+榮烏譽勇
+hjwaeng 'u yo/yoH yowngX	# Middle Chinese reading.
+väng uu jo joung 	# North Finnic reading.
+väng uu jo joung	# Finnish reading, early borrowing.
+jyäng u jo joung	# Finnish reading, late borrowing.
+
+一瞬永敬		# One moment, eternal glory
+'jit sywinH hjwaengX kjaengH	# Middle Chinese reading.
+jit suin väng käng 	# North Finnic reading.
+jit suin väng käng	# Finnish reading, early borrowing.
+jit suin jyäng kiäng	# Finnish reading, late borrowing.
+

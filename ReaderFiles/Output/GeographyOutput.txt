@@ -1,0 +1,367 @@
+[Countries]:
+芬蘭土		# "Finland"
+phjun lan thuX	# Middle Chinese reading.
+piun lan tu 	# North Finnic reading.
+piun lan tu	# Finnish reading, early borrowing.
+piun lan tu	# Finnish reading, late borrowing.
+
+日本		# Japan
+nyit pwonX	# Middle Chinese reading.
+nit pon 	# North Finnic reading.
+nit pon	# Finnish reading, early borrowing.
+nit puon	# Finnish reading, late borrowing.
+
+韓国		# (South) Korea
+han kwok	# Middle Chinese reading.
+han kok 	# North Finnic reading.
+han kok	# Finnish reading, early borrowing.
+han kuok	# Finnish reading, late borrowing.
+
+中国		# China
+trjuwng/trjuwngH kwok	# Middle Chinese reading.
+tiung kok 	# North Finnic reading.
+tiung kok	# Finnish reading, early borrowing.
+tiung kuok	# Finnish reading, late borrowing.
+
+越南		# Vietnam
+hjwot nom	# Middle Chinese reading.
+vot nom 	# North Finnic reading.
+vot nom	# Finnish reading, early borrowing.
+juot nom	# Finnish reading, late borrowing.
+
+米国		# America (in Japanese)
+mejX kwok	# Middle Chinese reading.
+mei kok 	# North Finnic reading.
+mei kok	# Finnish reading, early borrowing.
+mei kuok	# Finnish reading, late borrowing.
+
+美国		# America (in Chinese)
+mijX kwok	# Middle Chinese reading.
+mii kok 	# North Finnic reading.
+mii kok	# Finnish reading, early borrowing.
+mii kuok	# Finnish reading, late borrowing.
+
+英吉利		# The UK, jpn. Igirisu
+'jaeng kjit lijH	# Middle Chinese reading.
+jäng kit lii 	# North Finnic reading.
+jäng kit lii	# Finnish reading, early borrowing.
+jäng kiit lii	# Finnish reading, late borrowing.
+
+
+[Chinese places]:
+北京		# Beijing
+pok kjaeng	# Middle Chinese reading.
+pok käng 	# North Finnic reading.
+pok käng	# Finnish reading, early borrowing.
+pok kiäng	# Finnish reading, late borrowing.
+
+上海		# Shanghai
+dzyangX/dzyangH xojX	# Middle Chinese reading.
+kang koi 	# North Finnic reading.
+kang koi	# Finnish reading, early borrowing.
+kiang koi	# Finnish reading, late borrowing.
+
+香港		# Hong Kong
+xjang kaewngX/huwngH	# Middle Chinese reading.
+kang käüng/huung 	# North Finnic reading.
+kang käyng/huung	# Finnish reading, early borrowing.
+kiang käyng/huung	# Finnish reading, late borrowing.
+
+臺灣		# Taiwan
+doj 'waen	# Middle Chinese reading.
+toi vän 	# North Finnic reading.
+toi vän	# Finnish reading, early borrowing.
+toi vän	# Finnish reading, late borrowing.
+
+台灣		# Also Taiwan
+yi 'waen	# Middle Chinese reading.
+ji vän 	# North Finnic reading.
+ji vän	# Finnish reading, early borrowing.
+ji vän	# Finnish reading, late borrowing.
+
+
+[Chinese provinces]:
+广东		# Guangdong
+ngjemX/memH tuwng	# Middle Chinese reading.
+nem/mem tuung 	# North Finnic reading.
+nem/mem tuung	# Finnish reading, early borrowing.
+niem/mem tuung	# Finnish reading, late borrowing.
+
+山东		# Shangdong
+srean tuwng	# Middle Chinese reading.
+sän tuung 	# North Finnic reading.
+sän tuung	# Finnish reading, early borrowing.
+sän tuung	# Finnish reading, late borrowing.
+
+河南		# Henan
+ha nom	# Middle Chinese reading.
+ha nom 	# North Finnic reading.
+ha nom	# Finnish reading, early borrowing.
+ha nom	# Finnish reading, late borrowing.
+
+江苏		# Jiangsu
+kaewng su	# Middle Chinese reading.
+käüng su 	# North Finnic reading.
+käyng su	# Finnish reading, early borrowing.
+käyng su	# Finnish reading, late borrowing.
+
+四川		# Sichuan
+sijH tsyhjwen	# Middle Chinese reading.
+sii ken 	# North Finnic reading.
+sii ken	# Finnish reading, early borrowing.
+sii juen	# Finnish reading, late borrowing.
+
+河北		# Hebei
+ha pok	# Middle Chinese reading.
+ha pok 	# North Finnic reading.
+ha pok	# Finnish reading, early borrowing.
+ha pok	# Finnish reading, late borrowing.
+
+湖南		# Hunan
+hu nom	# Middle Chinese reading.
+hu nom 	# North Finnic reading.
+hu nom	# Finnish reading, early borrowing.
+hu nom	# Finnish reading, late borrowing.
+
+浙江		# Zhejiang
+tsyet kaewng	# Middle Chinese reading.
+ket käüng 	# North Finnic reading.
+ket käyng	# Finnish reading, early borrowing.
+kiet käyng	# Finnish reading, late borrowing.
+
+安徽		# Anhui
+'an xjw+j	# Middle Chinese reading.
+an küi 	# North Finnic reading.
+an kyi	# Finnish reading, early borrowing.
+an kyy	# Finnish reading, late borrowing.
+
+湖北		# Hubei
+hu pok	# Middle Chinese reading.
+hu pok 	# North Finnic reading.
+hu pok	# Finnish reading, early borrowing.
+hu pok	# Finnish reading, late borrowing.
+
+广西壮族自治区		# Guangxi Zhuang (people) Autonomous Region
+ngjemX/memH sej tsrjangH dzuwk dzijH dri/driH 'uw	# Middle Chinese reading.
+nem/mem sei cang cuuk cii ti uu 	# North Finnic reading.
+nem/mem sei sang suuk sii ti uu	# Finnish reading, early borrowing.
+niem/mem sei tsiang tsuuk tsii ti uu	# Finnish reading, late borrowing.
+
+云南		# Yunnan
+hjun nom	# Middle Chinese reading.
+jun nom 	# North Finnic reading.
+jun nom	# Finnish reading, early borrowing.
+hiun nom	# Finnish reading, late borrowing.
+
+江西		# Jiangxi
+kaewng sej	# Middle Chinese reading.
+käüng sei 	# North Finnic reading.
+käyng sei	# Finnish reading, early borrowing.
+käyng sei	# Finnish reading, late borrowing.
+
+辽宁		# Liaoning
+lew drjo/drjoX	# Middle Chinese reading.
+leu to 	# North Finnic reading.
+leu to	# Finnish reading, early borrowing.
+leu tio	# Finnish reading, late borrowing.
+
+福建		# Fujian
+pjuwk kjonH	# Middle Chinese reading.
+piuk kon 	# North Finnic reading.
+piuk kon	# Finnish reading, early borrowing.
+piuk kion	# Finnish reading, late borrowing.
+
+陕西		# Shaanxi
+sej	# Middle Chinese reading.
+ sei 	# North Finnic reading.
+sei	# Finnish reading, early borrowing.
+sei	# Finnish reading, late borrowing.
+
+贵州		# Guizhou
+kjw+jH tsyuw	# Middle Chinese reading.
+küi juu 	# North Finnic reading.
+kyi juu	# Finnish reading, early borrowing.
+kyy kiu	# Finnish reading, late borrowing.
+
+山西		# Shangxi
+srean sej	# Middle Chinese reading.
+sän sei 	# North Finnic reading.
+sän sei	# Finnish reading, early borrowing.
+sän sei	# Finnish reading, late borrowing.
+
+重庆		# Chóngqìng
+drjowng/drjowngX/drjowngH khjaengH	# Middle Chinese reading.
+toung käng 	# North Finnic reading.
+toung käng	# Finnish reading, early borrowing.
+tiong kiäng	# Finnish reading, late borrowing.
+
+黑龙江		# Heilongjiang
+xok ljowng/maewng kaewng	# Middle Chinese reading.
+kok loung/mäüng käüng 	# North Finnic reading.
+kok loung/mäyng käyng	# Finnish reading, early borrowing.
+kok liong/mäyng käyng	# Finnish reading, late borrowing.
+
+新疆维吾尔自治区		# Xinjiang Uyghur Autonomous Region
+sin kjang ywij ngu nyeX dzijH dri/driH 'uw	# Middle Chinese reading.
+sin kang jui nu ne cii ti uu 	# North Finnic reading.
+sin kang jui nu ne sii ti uu	# Finnish reading, early borrowing.
+sin kiang jui nu nie tsii ti uu	# Finnish reading, late borrowing.
+
+甘肃		# Gansu
+kam sjuwk	# Middle Chinese reading.
+kam siuk 	# North Finnic reading.
+kam siuk	# Finnish reading, early borrowing.
+kam siuk	# Finnish reading, late borrowing.
+
+上海		# Shanghai
+dzyangX/dzyangH xojX	# Middle Chinese reading.
+kang koi 	# North Finnic reading.
+kang koi	# Finnish reading, early borrowing.
+kiang koi	# Finnish reading, late borrowing.
+
+吉林		# Jilin
+kjit lim	# Middle Chinese reading.
+kit lim 	# North Finnic reading.
+kit lim	# Finnish reading, early borrowing.
+kiit lim	# Finnish reading, late borrowing.
+
+内蒙古自		# Inner Mongolia
+nop/nwojH muwng kuX dzijH	# Middle Chinese reading.
+nop/noi muung ku cii 	# North Finnic reading.
+nop/noi muung ku sii	# Finnish reading, early borrowing.
+nop/nuo muung ku tsii	# Finnish reading, late borrowing.
+
+北京		# Beijing
+pok kjaeng	# Middle Chinese reading.
+pok käng 	# North Finnic reading.
+pok käng	# Finnish reading, early borrowing.
+pok kiäng	# Finnish reading, late borrowing.
+
+海南		# Hainan
+xojX nom	# Middle Chinese reading.
+koi nom 	# North Finnic reading.
+koi nom	# Finnish reading, early borrowing.
+koi nom	# Finnish reading, late borrowing.
+
+宁夏回族自治区		# Ningxia Hui Autonomous Region
+drjo/drjoX haeX/haeH hwoj dzuwk dzijH dri/driH 'uw	# Middle Chinese reading.
+to hä voi cuuk cii ti uu 	# North Finnic reading.
+to hä voi suuk sii ti uu	# Finnish reading, early borrowing.
+tio hä huo tsuuk tsii ti uu	# Finnish reading, late borrowing.
+
+香港特别行政区		# Hong Kong Special Administrative Region
+xjang kaewngX/huwngH dok bjet/pjet hang/haeng/haengH tsyengH 'uw	# Middle Chinese reading.
+kang käüng/huung tok pet hang/häng keng uu 	# North Finnic reading.
+kang käyng/huung tok pet hang/häng keng uu	# Finnish reading, early borrowing.
+kiang käyng/huung tok piet hang/häng kieng uu	# Finnish reading, late borrowing.
+
+青海		# Qinghai, population approximate to that of Finland
+tsheng xojX	# Middle Chinese reading.
+ceng koi 	# North Finnic reading.
+seng koi	# Finnish reading, early borrowing.
+tseng koi	# Finnish reading, late borrowing.
+
+西藏自治区		# Tibet Autonomous Region
+sej dzang/dzangH dzijH dri/driH 'uw	# Middle Chinese reading.
+sei cang cii ti uu 	# North Finnic reading.
+sei sang sii ti uu	# Finnish reading, early borrowing.
+sei tsang tsii ti uu	# Finnish reading, late borrowing.
+
+澳门特别行政区		# Macau Special Administrative Region
+'awH mwon dok bjet/pjet hang/haeng/haengH tsyengH 'uw	# Middle Chinese reading.
+au mon tok pet hang/häng keng uu 	# North Finnic reading.
+au mon tok pet hang/häng keng uu	# Finnish reading, early borrowing.
+au muon tok piet hang/häng kieng uu	# Finnish reading, late borrowing.
+
+
+[Japanese places]:
+東京		# Tokyo
+tuwng kjaeng	# Middle Chinese reading.
+tuung käng 	# North Finnic reading.
+tuung käng	# Finnish reading, early borrowing.
+tuung kiäng	# Finnish reading, late borrowing.
+
+京都		# Kyoto
+kjaeng tu	# Middle Chinese reading.
+käng tu 	# North Finnic reading.
+käng tu	# Finnish reading, early borrowing.
+kiäng tu	# Finnish reading, late borrowing.
+
+奈良		# Nara
+najH ljang	# Middle Chinese reading.
+nai lang 	# North Finnic reading.
+nai lang	# Finnish reading, early borrowing.
+nai liang	# Finnish reading, late borrowing.
+
+
+[Korean places]:
+釜山		# Busan, "Patavuori
+bjuH srean	# Middle Chinese reading.
+piu sän 	# North Finnic reading.
+piu sän	# Finnish reading, early borrowing.
+piu sän	# Finnish reading, late borrowing.
+
+徐羅伐		# Ancient form of Seoul, no other hanja exist. Read: Seorabeol
+zjo la bjot	# Middle Chinese reading.
+so la pot 	# North Finnic reading.
+so la pot	# Finnish reading, early borrowing.
+sio la piot	# Finnish reading, late borrowing.
+
+
+[Korean Three Kingdoms]:
+新羅		# Silla
+sin la	# Middle Chinese reading.
+sin la 	# North Finnic reading.
+sin la	# Finnish reading, early borrowing.
+sin la	# Finnish reading, late borrowing.
+
+百濟		# Baekje
+paek tsejX/tsejH	# Middle Chinese reading.
+päk cei 	# North Finnic reading.
+päk sei	# Finnish reading, early borrowing.
+päk tsei	# Finnish reading, late borrowing.
+
+高句麗		# Gogureyo
+kaw kuw/kuwH/kjuH lejH	# Middle Chinese reading.
+kau kuu/kiu lei 	# North Finnic reading.
+kau kuu/kiu lei	# Finnish reading, early borrowing.
+kau kuu/kiu lei	# Finnish reading, late borrowing.
+
+
+[Vietnamese places]:
+河內		# Hanoi
+ha nop/nwojH	# Middle Chinese reading.
+ha nop/noi 	# North Finnic reading.
+ha nop/noi	# Finnish reading, early borrowing.
+ha nop/nuo	# Finnish reading, late borrowing.
+
+甌貉		# Âu Lạc
+'uw maek	# Middle Chinese reading.
+uu mäk 	# North Finnic reading.
+uu mäk	# Finnish reading, early borrowing.
+uu mäk	# Finnish reading, late borrowing.
+
+甌駱		# also Âu Lạc
+'uw lak	# Middle Chinese reading.
+uu lak 	# North Finnic reading.
+uu lak	# Finnish reading, early borrowing.
+uu lak	# Finnish reading, late borrowing.
+
+柴棍		# Saigon, aka Ho Chi Minh City
+dzrea hwonX	# Middle Chinese reading.
+ce von 	# North Finnic reading.
+se von	# Finnish reading, early borrowing.
+tsä huon	# Finnish reading, late borrowing.
+
+胡志明		# Ho Chi Minh
+hu tsyiH mjaeng	# Middle Chinese reading.
+hu ki mäng 	# North Finnic reading.
+hu ki mäng	# Finnish reading, early borrowing.
+hu ki miäng	# Finnish reading, late borrowing.
+
+馮興		# Phung Hung, national hero of Vietnam
+bing/bjuwng xing	# Middle Chinese reading.
+ping/piung king 	# North Finnic reading.
+ping/piung king	# Finnish reading, early borrowing.
+ping/piung king	# Finnish reading, late borrowing.
+

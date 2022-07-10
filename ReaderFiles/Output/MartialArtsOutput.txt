@@ -1,0 +1,213 @@
+[Martial Arts]:
+格闘技		# Kakutougi, kamppailulajit
+kaek tuwH gjeX	# Middle Chinese reading.
+käk tuu ke 	# North Finnic reading.
+käk tuu ke	# Finnish reading, early borrowing.
+käk tuu kie	# Finnish reading, late borrowing.
+
+合気道		# Aikido, Hapkido
+kop/hop khj+jH/xj+jH dawH/dawX	# Middle Chinese reading.
+kop/hop küi tau 	# North Finnic reading.
+kop/hop kyi tau	# Finnish reading, early borrowing.
+kop/hop kiy tau	# Finnish reading, late borrowing.
+
+截拳道		# Jeet Kune Do
+dzet gjwen dawH/dawX	# Middle Chinese reading.
+cet ken tau 	# North Finnic reading.
+set ken tau	# Finnish reading, early borrowing.
+tset kuen tau	# Finnish reading, late borrowing.
+
+李小龍		# Lee Jun-fan, Bruce Lee
+liX sjewX ljowng/maewng	# Middle Chinese reading.
+li seu loung/mäüng 	# North Finnic reading.
+li seu loung/mäyng	# Finnish reading, early borrowing.
+li sie liong/mäyng	# Finnish reading, late borrowing.
+
+
+[Karate]:
+空手		# Karate, Empty Hand, "Tyhjäkäsi"
+khuwng/khuwngX syuwX	# Middle Chinese reading.
+kuung siu 	# North Finnic reading.
+kuung siu	# Finnish reading, early borrowing.
+kuung siu	# Finnish reading, late borrowing.
+
+和道流		# Wadoryu (karate)
+hwa/hwaH dawH/dawX ljuw	# Middle Chinese reading.
+va tau liu 	# North Finnic reading.
+va tau liu	# Finnish reading, early borrowing.
+hua tau liu	# Finnish reading, late borrowing.
+
+極真		# Kyokushin
+gik tsyin	# Middle Chinese reading.
+kik kin 	# North Finnic reading.
+kik kin	# Finnish reading, early borrowing.
+kik kin	# Finnish reading, late borrowing.
+
+松濤館		# Shoutoukan
+zjowng daw kwanH	# Middle Chinese reading.
+soung tau kan 	# North Finnic reading.
+soung tau kan	# Finnish reading, early borrowing.
+siong tau kuan	# Finnish reading, late borrowing.
+
+
+[Japanese]:
+武道		# Budou
+mjuX dawH/dawX	# Middle Chinese reading.
+miu tau 	# North Finnic reading.
+miu tau	# Finnish reading, early borrowing.
+miu tau	# Finnish reading, late borrowing.
+
+武術		# Bujutsu
+mjuX zywit	# Middle Chinese reading.
+miu suit 	# North Finnic reading.
+miu suit	# Finnish reading, early borrowing.
+miu suit	# Finnish reading, late borrowing.
+
+道場		# Dojo
+dawH/dawX drjang	# Middle Chinese reading.
+tau tang 	# North Finnic reading.
+tau tang	# Finnish reading, early borrowing.
+tau tiang	# Finnish reading, late borrowing.
+
+剣術		# Kenjutsu
+kjaemH zywit	# Middle Chinese reading.
+käm suit 	# North Finnic reading.
+käm suit	# Finnish reading, early borrowing.
+kiäm suit	# Finnish reading, late borrowing.
+
+劍術		# Kenjutsu, archaic sword letter.
+kjaemH zywit	# Middle Chinese reading.
+käm suit 	# North Finnic reading.
+käm suit	# Finnish reading, early borrowing.
+kiäm suit	# Finnish reading, late borrowing.
+
+劍道		# Kendo
+kjaemH dawH/dawX	# Middle Chinese reading.
+käm tau 	# North Finnic reading.
+käm tau	# Finnish reading, early borrowing.
+kiäm tau	# Finnish reading, late borrowing.
+
+柔道		# Judo
+nyuw dawH/dawX	# Middle Chinese reading.
+niu tau 	# North Finnic reading.
+niu tau	# Finnish reading, early borrowing.
+niu tau	# Finnish reading, late borrowing.
+
+拳法		# Kenpo
+gjwen pjop	# Middle Chinese reading.
+ken pop 	# North Finnic reading.
+ken pop	# Finnish reading, early borrowing.
+kuen piop	# Finnish reading, late borrowing.
+
+格闘		# Kakutou
+kaek tuwH	# Middle Chinese reading.
+käk tuu 	# North Finnic reading.
+käk tuu	# Finnish reading, early borrowing.
+käk tuu	# Finnish reading, late borrowing.
+
+武道館		# Budoukan
+mjuX dawH/dawX kwanH	# Middle Chinese reading.
+miu tau kan 	# North Finnic reading.
+miu tau kan	# Finnish reading, early borrowing.
+miu tau kuan	# Finnish reading, late borrowing.
+
+武徳会		# Butokukai
+mjuX tok hwajH/kwajH	# Middle Chinese reading.
+miu tok vai/kai 	# North Finnic reading.
+miu tok vai/kai	# Finnish reading, early borrowing.
+miu tok hua/kua	# Finnish reading, late borrowing.
+
+急所術		# Kyuushojutsu, pressure point techniques
+kip srjoX/xuX zywit	# Middle Chinese reading.
+kip so/ku suit 	# North Finnic reading.
+kip so/ku suit	# Finnish reading, early borrowing.
+kip sio/ku suit	# Finnish reading, late borrowing.
+
+
+[Korean]:
+托肩		# Taekkyeon
+thak ken	# Middle Chinese reading.
+tak ken 	# North Finnic reading.
+tak ken	# Finnish reading, early borrowing.
+tak ken	# Finnish reading, late borrowing.
+
+跆拳道		# Taekwondo
+doj gjwen dawH/dawX	# Middle Chinese reading.
+toi ken tau 	# North Finnic reading.
+toi ken tau	# Finnish reading, early borrowing.
+toi kuen tau	# Finnish reading, late borrowing.
+
+
+[Wushu]:
+武術		# Wushu
+mjuX zywit	# Middle Chinese reading.
+miu suit 	# North Finnic reading.
+miu suit	# Finnish reading, early borrowing.
+miu suit	# Finnish reading, late borrowing.
+
+功夫		# Kungfu
+kuwng pju/bju	# Middle Chinese reading.
+kuung piu 	# North Finnic reading.
+kuung piu	# Finnish reading, early borrowing.
+kuung piu	# Finnish reading, late borrowing.
+
+師傅		# Sifu
+srij bjuH/pjuH	# Middle Chinese reading.
+sii piu 	# North Finnic reading.
+sii piu	# Finnish reading, early borrowing.
+sii piu	# Finnish reading, late borrowing.
+
+氣功		# Qigong
+khj+jH/xj+jH kuwng	# Middle Chinese reading.
+küi kuung 	# North Finnic reading.
+kyi kuung	# Finnish reading, early borrowing.
+kiy kuung	# Finnish reading, late borrowing.
+
+太極		# Tai Chi
+thajH gik	# Middle Chinese reading.
+tai kik 	# North Finnic reading.
+tai kik	# Finnish reading, early borrowing.
+tai kik	# Finnish reading, late borrowing.
+
+咏春拳		# Wing Chun Kuen
+hjwaengH tsyhwin gjwen	# Middle Chinese reading.
+väng juin ken 	# North Finnic reading.
+väng juin ken	# Finnish reading, early borrowing.
+jyäng juin kuen	# Finnish reading, late borrowing.
+
+八極拳		# Bajiquan
+peat gik gjwen	# Middle Chinese reading.
+pät kik ken 	# North Finnic reading.
+pät kik ken	# Finnish reading, early borrowing.
+pät kik kuen	# Finnish reading, late borrowing.
+
+點脈		# Dim Mak, "Death Touch", lit. 'press artery'
+temX meak	# Middle Chinese reading.
+tem mäk 	# North Finnic reading.
+tem mäk	# Finnish reading, early borrowing.
+tem mäk	# Finnish reading, late borrowing.
+
+點穴		# diǎnxué, same as Dim Mak
+temX hwet	# Middle Chinese reading.
+tem vet 	# North Finnic reading.
+tem vet	# Finnish reading, early borrowing.
+tem huet	# Finnish reading, late borrowing.
+
+少林寺		# Shaolin Temple
+syewX/syewH lim ziH	# Middle Chinese reading.
+seu lim si 	# North Finnic reading.
+seu lim si	# Finnish reading, early borrowing.
+sie lim si	# Finnish reading, late borrowing.
+
+武當山		# Wudang Mountain
+mjuX tang/tangH srean	# Middle Chinese reading.
+miu tang sän 	# North Finnic reading.
+miu tang sän	# Finnish reading, early borrowing.
+miu tang sän	# Finnish reading, late borrowing.
+
+五仙庙		# Temple of the Five Immortals
+nguX sjen mjewH	# Middle Chinese reading.
+nu sen meu 	# North Finnic reading.
+nu sen meu	# Finnish reading, early borrowing.
+nu sien mie	# Finnish reading, late borrowing.
+

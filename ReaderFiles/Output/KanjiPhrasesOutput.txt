@@ -1,0 +1,407 @@
+[Kanji Phrases]:
+漢字		# Kanji
+xanH dziH	# Middle Chinese reading.
+kan ci 	# North Finnic reading.
+kan si	# Finnish reading, early borrowing.
+kan tsi	# Finnish reading, late borrowing.
+
+電話		# Denwa, a phone call
+denH hwaejH	# Middle Chinese reading.
+ten väi 	# North Finnic reading.
+ten väi	# Finnish reading, early borrowing.
+ten hyä	# Finnish reading, late borrowing.
+
+電子		# Denshi, electricity
+denH tsiX	# Middle Chinese reading.
+ten ci 	# North Finnic reading.
+ten si	# Finnish reading, early borrowing.
+ten tsi	# Finnish reading, late borrowing.
+
+伝説		# Densetsu, legend
+drjwen/drjwenH/trjwenH sywejH/sywet	# Middle Chinese reading.
+ten sei/set/jet 	# North Finnic reading.
+ten sei/set/jet	# Finnish reading, early borrowing.
+tuen sue/suet/juet	# Finnish reading, late borrowing.
+
+元氣		# Genki, "O-genki desu ka?"
+ngjwon khj+jH/xj+jH	# Middle Chinese reading.
+non küi 	# North Finnic reading.
+non kyi	# Finnish reading, early borrowing.
+nuon kiy	# Finnish reading, late borrowing.
+
+意味		# Imi, meaning
+'iH mj+jH	# Middle Chinese reading.
+ii müi 	# North Finnic reading.
+ii myi	# Finnish reading, early borrowing.
+i miy	# Finnish reading, late borrowing.
+
+無事		# Buji
+mju dzriH	# Middle Chinese reading.
+miu ci 	# North Finnic reading.
+miu si	# Finnish reading, early borrowing.
+miu tsi	# Finnish reading, late borrowing.
+
+注意		# Chuui, attention
+trjuH 'iH	# Middle Chinese reading.
+tiu ii 	# North Finnic reading.
+tiu ii	# Finnish reading, early borrowing.
+tiu i	# Finnish reading, late borrowing.
+
+注文		# Chuumon, an order (at a restaurant, etc.)
+trjuH mjun	# Middle Chinese reading.
+tiu miun 	# North Finnic reading.
+tiu miun	# Finnish reading, early borrowing.
+tiu miun	# Finnish reading, late borrowing.
+
+注目		# Chuumoku, attention, highlight
+trjuH mjuwk	# Middle Chinese reading.
+tiu miuk 	# North Finnic reading.
+tiu miuk	# Finnish reading, early borrowing.
+tiu miuk	# Finnish reading, late borrowing.
+
+特殊性		# Tokushusei, specialty
+dok dzyu sjengH	# Middle Chinese reading.
+tok ju seng 	# North Finnic reading.
+tok ju seng	# Finnish reading, early borrowing.
+tok kiu sieng	# Finnish reading, late borrowing.
+
+社会		# Shakai, society
+dzyaeX hwajH/kwajH	# Middle Chinese reading.
+kä vai/kai 	# North Finnic reading.
+kä vai/kai	# Finnish reading, early borrowing.
+kiä hua/kua	# Finnish reading, late borrowing.
+
+会社		# Kaisha, a company
+hwajH/kwajH dzyaeX	# Middle Chinese reading.
+vai/kai kä 	# North Finnic reading.
+vai/kai kä	# Finnish reading, early borrowing.
+hua/kua kiä	# Finnish reading, late borrowing.
+
+自由		# Jiyuu, freedom
+dzijH yuw	# Middle Chinese reading.
+cii juu 	# North Finnic reading.
+sii juu	# Finnish reading, early borrowing.
+tsii juu	# Finnish reading, late borrowing.
+
+社会主義		# Shakai-shugi, socialism
+dzyaeX hwajH/kwajH tsyuX ngjeH	# Middle Chinese reading.
+kä vai/kai ju ne 	# North Finnic reading.
+kä vai/kai ju ne	# Finnish reading, early borrowing.
+kiä hua/kua kiu nie	# Finnish reading, late borrowing.
+
+無用		# muyou, "no use"
+mju yowngH	# Middle Chinese reading.
+miu joung 	# North Finnic reading.
+miu joung	# Finnish reading, early borrowing.
+miu joung	# Finnish reading, late borrowing.
+
+無論		# muron, no debate, "obvious"
+mju lwin/lwon/lwonH	# Middle Chinese reading.
+miu luin/lon 	# North Finnic reading.
+miu luin/lon	# Finnish reading, early borrowing.
+miu luin/luon	# Finnish reading, late borrowing.
+
+運命		# Destiny.
+hjunH mjaengH	# Middle Chinese reading.
+jun mäng 	# North Finnic reading.
+jun mäng	# Finnish reading, early borrowing.
+hiun miäng	# Finnish reading, late borrowing.
+
+馬鹿		# Baka, idiot
+maeX luwk	# Middle Chinese reading.
+mä luuk 	# North Finnic reading.
+mä luuk	# Finnish reading, early borrowing.
+mä luuk	# Finnish reading, late borrowing.
+
+極道		# Gokudou, Japanese alternate word for "Yakuza"
+gik dawH/dawX	# Middle Chinese reading.
+kik tau 	# North Finnic reading.
+kik tau	# Finnish reading, early borrowing.
+kik tau	# Finnish reading, late borrowing.
+
+大学		# University
+daH/dajH haewk	# Middle Chinese reading.
+ta/tai häük 	# North Finnic reading.
+ta/tai häyk	# Finnish reading, early borrowing.
+ta/tai häyk	# Finnish reading, late borrowing.
+
+学校		# School
+haewk haewH/kaewH	# Middle Chinese reading.
+häük häü/käü 	# North Finnic reading.
+häyk häy/käy	# Finnish reading, early borrowing.
+häyk häy/käy	# Finnish reading, late borrowing.
+
+様子		# yousu, situation, condition
+tsiX	# Middle Chinese reading.
+ ci 	# North Finnic reading.
+si	# Finnish reading, early borrowing.
+tsi	# Finnish reading, late borrowing.
+
+承知		# shouchi, knowledge; awareness, acceptance; consent
+dzying trje	# Middle Chinese reading.
+king te 	# North Finnic reading.
+king te	# Finnish reading, early borrowing.
+king tie	# Finnish reading, late borrowing.
+
+納得		# consent
+nop tok	# Middle Chinese reading.
+nop tok 	# North Finnic reading.
+nop tok	# Finnish reading, early borrowing.
+nop tok	# Finnish reading, late borrowing.
+
+了解		# Ryoukai
+kjowngX/lewX/kjwot keaX/heaX	# Middle Chinese reading.
+koung/leu/kot kä/hä 	# North Finnic reading.
+koung/leu/kot kä/hä	# Finnish reading, early borrowing.
+kiong/leu/kuot kä/hä	# Finnish reading, late borrowing.
+
+満足		# manzoku, satisfaction
+manX tsjuH/tsjowk	# Middle Chinese reading.
+man ciu/couk 	# North Finnic reading.
+man siu/souk	# Finnish reading, early borrowing.
+man tsiu/tsiok	# Finnish reading, late borrowing.
+
+情報		# jouhou, information
+dzjeng pawH	# Middle Chinese reading.
+ceng pau 	# North Finnic reading.
+seng pau	# Finnish reading, early borrowing.
+tsieng pau	# Finnish reading, late borrowing.
+
+家族		# kazoku, family
+kae dzuwk	# Middle Chinese reading.
+kä cuuk 	# North Finnic reading.
+kä suuk	# Finnish reading, early borrowing.
+kä tsuuk	# Finnish reading, late borrowing.
+
+一族		# Ichizoku, clan
+'jit dzuwk	# Middle Chinese reading.
+jit cuuk 	# North Finnic reading.
+jit suuk	# Finnish reading, early borrowing.
+jit tsuuk	# Finnish reading, late borrowing.
+
+氏族		# shizoku, also clan?
+dzyeX dzuwk	# Middle Chinese reading.
+ke cuuk 	# North Finnic reading.
+ke suuk	# Finnish reading, early borrowing.
+kie tsuuk	# Finnish reading, late borrowing.
+
+主人		# Owner, master, husband
+tsyuX nyin	# Middle Chinese reading.
+ju nin 	# North Finnic reading.
+ju nin	# Finnish reading, early borrowing.
+kiu nin	# Finnish reading, late borrowing.
+
+面子		# "face", Jpn. "menzu", Mandarin "mianzu"
+mjienH tsiX	# Middle Chinese reading.
+men ci 	# North Finnic reading.
+men si	# Finnish reading, early borrowing.
+mien tsi	# Finnish reading, late borrowing.
+
+有名		# "famous", jpn. "yuumei"
+hjuwX mjieng	# Middle Chinese reading.
+juu meng 	# North Finnic reading.
+juu meng	# Finnish reading, early borrowing.
+hiu mieng	# Finnish reading, late borrowing.
+
+殺気		# "killing intent, murderous air (about you)", jpn. "sakki"
+sreat/sreajH khj+jH/xj+jH	# Middle Chinese reading.
+sät/säi küi 	# North Finnic reading.
+sät/säi kyi	# Finnish reading, early borrowing.
+sät/säi kiy	# Finnish reading, late borrowing.
+
+正座		# "seiza"
+tsyeng/tsyengH dzwaH	# Middle Chinese reading.
+keng ca 	# North Finnic reading.
+keng sa	# Finnish reading, early borrowing.
+kieng tsua	# Finnish reading, late borrowing.
+
+復習		# review (of learned material); revision
+bjuwH/bjuwk zip	# Middle Chinese reading.
+piu/piuk sip 	# North Finnic reading.
+piu/piuk sip	# Finnish reading, early borrowing.
+piu/piuk sip	# Finnish reading, late borrowing.
+
+復讐		# vengeance
+bjuwH/bjuwk dzyuw	# Middle Chinese reading.
+piu/piuk juu 	# North Finnic reading.
+piu/piuk juu	# Finnish reading, early borrowing.
+piu/piuk kiu	# Finnish reading, late borrowing.
+
+正直		# shoujiki, "honestly"
+tsyeng/tsyengH drik	# Middle Chinese reading.
+keng tik 	# North Finnic reading.
+keng tik	# Finnish reading, early borrowing.
+kieng tik	# Finnish reading, late borrowing.
+
+矛盾		# paradox, contradiction, Jpn. mujun, "spear (and) shield"
+mjuw dwonX	# Middle Chinese reading.
+miu ton 	# North Finnic reading.
+miu ton	# Finnish reading, early borrowing.
+miu tuon	# Finnish reading, late borrowing.
+
+先生		# sensei
+sen/senH sraeng/srjaeng	# Middle Chinese reading.
+sen säng 	# North Finnic reading.
+sen säng	# Finnish reading, early borrowing.
+sen säng/siäng	# Finnish reading, late borrowing.
+
+英雄		# hero, brave
+'jaeng hjuwng	# Middle Chinese reading.
+jäng juung 	# North Finnic reading.
+jäng juung	# Finnish reading, early borrowing.
+jäng hiung	# Finnish reading, late borrowing.
+
+勇者		# also hero, brave
+yowngX tsyaeX	# Middle Chinese reading.
+joung kä 	# North Finnic reading.
+joung kä	# Finnish reading, early borrowing.
+joung kiä	# Finnish reading, late borrowing.
+
+調和		# harmony, jpn. "chouwa"
+dew hwa/hwaH	# Middle Chinese reading.
+teu va 	# North Finnic reading.
+teu va	# Finnish reading, early borrowing.
+teu hua	# Finnish reading, late borrowing.
+
+決戦		# decisive battle
+kwet tsyenH	# Middle Chinese reading.
+ket ken 	# North Finnic reading.
+ket ken	# Finnish reading, early borrowing.
+kuet kien	# Finnish reading, late borrowing.
+
+決意		# determination, decisive intent
+kwet 'iH	# Middle Chinese reading.
+ket ii 	# North Finnic reading.
+ket ii	# Finnish reading, early borrowing.
+kuet i	# Finnish reading, late borrowing.
+
+奴隷		# slave
+nu lejH	# Middle Chinese reading.
+nu lei 	# North Finnic reading.
+nu lei	# Finnish reading, early borrowing.
+nu lei	# Finnish reading, late borrowing.
+
+階段		# stairs
+keaj twanH	# Middle Chinese reading.
+käi tan 	# North Finnic reading.
+käi tan	# Finnish reading, early borrowing.
+käi tuan	# Finnish reading, late borrowing.
+
+段階		# a step (on the stairs)
+twanH keaj	# Middle Chinese reading.
+tan käi 	# North Finnic reading.
+tan käi	# Finnish reading, early borrowing.
+tuan käi	# Finnish reading, late borrowing.
+
+剣士		# kenshi, miekkamies
+kjaemH dzriX	# Middle Chinese reading.
+käm ci 	# North Finnic reading.
+käm si	# Finnish reading, early borrowing.
+kiäm tsi	# Finnish reading, late borrowing.
+
+生命		# life force, jpn. seimei
+sraeng/srjaeng mjaengH	# Middle Chinese reading.
+säng mäng 	# North Finnic reading.
+säng mäng	# Finnish reading, early borrowing.
+säng/siäng miäng	# Finnish reading, late borrowing.
+
+雷神		# Raijin
+lwoj zyin	# Middle Chinese reading.
+loi sin 	# North Finnic reading.
+loi sin	# Finnish reading, early borrowing.
+luo sin	# Finnish reading, late borrowing.
+
+雷電		# Raiden
+lwoj denH	# Middle Chinese reading.
+loi ten 	# North Finnic reading.
+loi ten	# Finnish reading, early borrowing.
+luo ten	# Finnish reading, late borrowing.
+
+雷公		# Raikou
+lwoj kuwng	# Middle Chinese reading.
+loi kuung 	# North Finnic reading.
+loi kuung	# Finnish reading, early borrowing.
+luo kuung	# Finnish reading, late borrowing.
+
+任務完了		# nimmu kanryou, mission accomplished
+nyimH mjuH hwan kjowngX/lewX/kjwot	# Middle Chinese reading.
+nim miu van koung/leu/kot 	# North Finnic reading.
+nim miu van koung/leu/kot	# Finnish reading, early borrowing.
+nim miu huan kiong/leu/kuot	# Finnish reading, late borrowing.
+
+
+[One Punch Man]:
+参上		# sanjou, "present"
+tshom/tsrhim/sam/srim dzyangX/dzyangH	# Middle Chinese reading.
+com/cim/sam/sim kang 	# North Finnic reading.
+som/sim/sam kang	# Finnish reading, early borrowing.
+tsom/tsim/sam/sim kiang	# Finnish reading, late borrowing.
+
+必勝		# certain victory
+pjit sying/syingH	# Middle Chinese reading.
+pit sing 	# North Finnic reading.
+pit sing	# Finnish reading, early borrowing.
+piit sing	# Finnish reading, late borrowing.
+
+至上最強		# Strongest in history
+tsyijH dzyangX/dzyangH tswajH gjang	# Middle Chinese reading.
+kii kang cai kang 	# North Finnic reading.
+kii kang sai kang	# Finnish reading, early borrowing.
+kii kiang tsua kiang	# Finnish reading, late borrowing.
+
+連戦連勝		# Consecutive fights, consecutive wins
+ljen tsyenH ljen sying/syingH	# Middle Chinese reading.
+len ken len sing 	# North Finnic reading.
+len ken len sing	# Finnish reading, early borrowing.
+lien kien lien sing	# Finnish reading, late borrowing.
+
+圧勝
+'aep sying/syingH	# Middle Chinese reading.
+äp sing 	# North Finnic reading.
+äp sing	# Finnish reading, early borrowing.
+äp sing	# Finnish reading, late borrowing.
+
+孤独		# kodoku, loneliness
+ku duwk	# Middle Chinese reading.
+ku tuuk 	# North Finnic reading.
+ku tuuk	# Finnish reading, early borrowing.
+ku tuuk	# Finnish reading, late borrowing.
+
+
+[Keigo Expressions]:
+敬語		# keigo
+kjaengH ngjoX/ngjoH	# Middle Chinese reading.
+käng no 	# North Finnic reading.
+käng no	# Finnish reading, early borrowing.
+kiäng nio	# Finnish reading, late borrowing.
+
+尊敬語		# sonkeigo
+tswon kjaengH ngjoX/ngjoH	# Middle Chinese reading.
+con käng no 	# North Finnic reading.
+son käng no	# Finnish reading, early borrowing.
+tsuon kiäng nio	# Finnish reading, late borrowing.
+
+謙譲語		# kenjougo
+khem nyangH ngjoX/ngjoH	# Middle Chinese reading.
+kem nang no 	# North Finnic reading.
+kem nang no	# Finnish reading, early borrowing.
+kem niang nio	# Finnish reading, late borrowing.
+
+御依賴		# Your honorable request
+ngjoX/ngjoH 'j+j lajH	# Middle Chinese reading.
+no jüi lai 	# North Finnic reading.
+no jyi lai	# Finnish reading, early borrowing.
+nio jyi lai	# Finnish reading, late borrowing.
+
+御案內		# Guidance to your esteemed person
+ngjoX/ngjoH 'anH nop/nwojH	# Middle Chinese reading.
+no an nop/noi 	# North Finnic reading.
+no an nop/noi	# Finnish reading, early borrowing.
+nio an nop/nuo	# Finnish reading, late borrowing.
+
+御注意		# Your attention
+ngjoX/ngjoH trjuH 'iH	# Middle Chinese reading.
+no tiu ii 	# North Finnic reading.
+no tiu ii	# Finnish reading, early borrowing.
+nio tiu i	# Finnish reading, late borrowing.
+

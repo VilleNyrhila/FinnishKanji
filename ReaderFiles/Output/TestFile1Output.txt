@@ -1,0 +1,361 @@
+[Dragon Ball]:
+孫悟空		# Son Goku
+swon nguH khuwng/khuwngX	# Middle Chinese reading.
+son nu kuung 	# North Finnic reading.
+son nu kuung	# Finnish reading, early borrowing.
+suon nu kuung	# Finnish reading, late borrowing.
+
+孫悟飯
+swon nguH bjonX/bjonH	# Middle Chinese reading.
+son nu pon 	# North Finnic reading.
+son nu pon	# Finnish reading, early borrowing.
+suon nu pion	# Finnish reading, late borrowing.
+
+亀仙人
+kjuw/kwij sjen nyin	# Middle Chinese reading.
+kiu/kui sen nin 	# North Finnic reading.
+kiu/kui sen nin	# Finnish reading, early borrowing.
+kiu/kui sien nin	# Finnish reading, late borrowing.
+
+龜仙人
+kjuw/kwij sjen nyin	# Middle Chinese reading.
+kiu/kui sen nin 	# North Finnic reading.
+kiu/kui sen nin	# Finnish reading, early borrowing.
+kiu/kui sien nin	# Finnish reading, late borrowing.
+
+武天老師
+mjuX then/xen lawX srij	# Middle Chinese reading.
+miu ten/ken lau sii 	# North Finnic reading.
+miu ten/ken lau sii	# Finnish reading, early borrowing.
+miu ten/ken lau sii	# Finnish reading, late borrowing.
+
+気功砲		# Kikouhou
+khj+jH/xj+jH kuwng paew	# Middle Chinese reading.
+küi kuung päü 	# North Finnic reading.
+kyi kuung päy	# Finnish reading, early borrowing.
+kiy kuung päy	# Finnish reading, late borrowing.
+
+魔貫光殺砲		# Makankousappo
+ma kwan/kwanH kwang sreat/sreajH paew	# Middle Chinese reading.
+ma kan kang sät/säi päü 	# North Finnic reading.
+ma kan kang sät/säi päy	# Finnish reading, early borrowing.
+ma kuan kuang sät/säi päy	# Finnish reading, late borrowing.
+
+
+[Street Fighter]:
+昇竜拳		# Shouryuuken
+sying ljowng/maewng gjwen	# Middle Chinese reading.
+sing loung/mäüng ken 	# North Finnic reading.
+sing loung/mäyng ken	# Finnish reading, early borrowing.
+sing liong/mäyng kuen	# Finnish reading, late borrowing.
+
+波動拳		# Hadouken
+pa duwngX gjwen	# Middle Chinese reading.
+pa tuung ken 	# North Finnic reading.
+pa tuung ken	# Finnish reading, early borrowing.
+pa tuung kuen	# Finnish reading, late borrowing.
+
+豪気		# Gouki
+haw khj+jH/xj+jH	# Middle Chinese reading.
+hau küi 	# North Finnic reading.
+hau kyi	# Finnish reading, early borrowing.
+hau kiy	# Finnish reading, late borrowing.
+
+悪魔		# Akuma
+'ak/'uH ma	# Middle Chinese reading.
+ak/uu ma 	# North Finnic reading.
+ak/uu ma	# Finnish reading, early borrowing.
+ak/u ma	# Finnish reading, late borrowing.
+
+豪拳		# Gouken
+haw gjwen	# Middle Chinese reading.
+hau ken 	# North Finnic reading.
+hau ken	# Finnish reading, early borrowing.
+hau kuen	# Finnish reading, late borrowing.
+
+轟鉄		# Goutetsu, Teacher of Gouken and Gouki
+xweang/xeangH thet	# Middle Chinese reading.
+käng tet 	# North Finnic reading.
+käng tet	# Finnish reading, early borrowing.
+kyäng/käng tet	# Finnish reading, late borrowing.
+
+瞬獄殺		# Shun Goku Satsu
+sywinH ngjowk sreat/sreajH	# Middle Chinese reading.
+suin nouk sät/säi 	# North Finnic reading.
+suin nouk sät/säi	# Finnish reading, early borrowing.
+suin niok sät/säi	# Finnish reading, late borrowing.
+
+殺意波動		# Satsui (no) Hadou
+sreat/sreajH 'iH pa duwngX	# Middle Chinese reading.
+sät/säi ii pa tuung 	# North Finnic reading.
+sät/säi ii pa tuung	# Finnish reading, early borrowing.
+sät/säi i pa tuung	# Finnish reading, late borrowing.
+
+笑止		# Shoushi!
+sjewH tsyiX	# Middle Chinese reading.
+seu ki 	# North Finnic reading.
+seu ki	# Finnish reading, early borrowing.
+sie ki	# Finnish reading, late borrowing.
+
+滅殺		# Messatsu
+mjiet sreat/sreajH	# Middle Chinese reading.
+met sät/säi 	# North Finnic reading.
+met sät/säi	# Finnish reading, early borrowing.
+miet sät/säi	# Finnish reading, late borrowing.
+
+滅怒		# Evil Ryu vs Asura
+mjiet nuX/nuH	# Middle Chinese reading.
+met nu 	# North Finnic reading.
+met nu	# Finnish reading, early borrowing.
+miet nu	# Finnish reading, late borrowing.
+
+
+[Mythology]:
+四象		# The Four Symbols
+sijH zjangX	# Middle Chinese reading.
+sii sang 	# North Finnic reading.
+sii sang	# Finnish reading, early borrowing.
+sii siang	# Finnish reading, late borrowing.
+
+四神		# The Four Gods
+sijH zyin	# Middle Chinese reading.
+sii sin 	# North Finnic reading.
+sii sin	# Finnish reading, early borrowing.
+sii sin	# Finnish reading, late borrowing.
+
+青龍		# Azure Dragon
+tsheng ljowng/maewng	# Middle Chinese reading.
+ceng loung/mäüng 	# North Finnic reading.
+seng loung/mäyng	# Finnish reading, early borrowing.
+tseng liong/mäyng	# Finnish reading, late borrowing.
+
+青竜		# jpn. Seiryuu
+tsheng ljowng/maewng	# Middle Chinese reading.
+ceng loung/mäüng 	# North Finnic reading.
+seng loung/mäyng	# Finnish reading, early borrowing.
+tseng liong/mäyng	# Finnish reading, late borrowing.
+
+朱雀		# Vermilion Bird, jpn. Suzaku
+tsyu tsjak	# Middle Chinese reading.
+ju cak 	# North Finnic reading.
+ju sak	# Finnish reading, early borrowing.
+kiu tsiak	# Finnish reading, late borrowing.
+
+白虎		# White Tiger, jpn. Byakko
+baek xuX	# Middle Chinese reading.
+päk ku 	# North Finnic reading.
+päk ku	# Finnish reading, early borrowing.
+päk ku	# Finnish reading, late borrowing.
+
+西方白虎		# White Tiger of the West
+sej pjang baek xuX	# Middle Chinese reading.
+sei pang päk ku 	# North Finnic reading.
+sei pang päk ku	# Finnish reading, early borrowing.
+sei piang päk ku	# Finnish reading, late borrowing.
+
+玄武		# Black Tortoise, jpn. Genbu
+hwen mjuX	# Middle Chinese reading.
+ven miu 	# North Finnic reading.
+ven miu	# Finnish reading, early borrowing.
+huen miu	# Finnish reading, late borrowing.
+
+北方玄武		# lit. Black Warrior of the North
+pok pjang hwen mjuX	# Middle Chinese reading.
+pok pang ven miu 	# North Finnic reading.
+pok pang ven miu	# Finnish reading, early borrowing.
+pok piang huen miu	# Finnish reading, late borrowing.
+
+黄龙		# Yellow Dragon
+hwang ljowng/maewng	# Middle Chinese reading.
+vang loung/mäüng 	# North Finnic reading.
+vang loung/mäyng	# Finnish reading, early borrowing.
+huang liong/mäyng	# Finnish reading, late borrowing.
+
+麒麟		# Kirin
+gi lin	# Middle Chinese reading.
+ki lin 	# North Finnic reading.
+ki lin	# Finnish reading, early borrowing.
+ki lin	# Finnish reading, late borrowing.
+
+
+[Numbers]:
+零		# Zero, Jpn. "rei"
+leng	# Middle Chinese reading.
+leng 	# North Finnic reading.
+leng	# Finnish reading, early borrowing.
+leng	# Finnish reading, late borrowing.
+
+一二三四五六七八九十		# 1-10
+'jit nyijH sam/samH sijH nguX ljuwk tshit peat kjuwX dzyip	# Middle Chinese reading.
+jit nii sam sii nu liuk cit pät kiu kip 	# North Finnic reading.
+jit nii sam sii nu liuk sit pät kiu kip	# Finnish reading, early borrowing.
+jit nii sam sii nu liuk tsit pät kiu kip	# Finnish reading, late borrowing.
+
+百		# 100, Jpn. "hyaku"
+paek	# Middle Chinese reading.
+päk 	# North Finnic reading.
+päk	# Finnish reading, early borrowing.
+päk	# Finnish reading, late borrowing.
+
+千		# 1 000, Jpn. "sen"
+tshen	# Middle Chinese reading.
+cen 	# North Finnic reading.
+sen	# Finnish reading, early borrowing.
+tsen	# Finnish reading, late borrowing.
+
+万		# 10 000, Jpn. "man"
+mjwonH/mok	# Middle Chinese reading.
+mon/mok 	# North Finnic reading.
+mon/mok	# Finnish reading, early borrowing.
+muon/mok	# Finnish reading, late borrowing.
+
+億		# 100 000, Jpn. "oku"
+'ik	# Middle Chinese reading.
+ik 	# North Finnic reading.
+ik	# Finnish reading, early borrowing.
+ik	# Finnish reading, late borrowing.
+
+
+[Anime]:
+鬼滅		# Kimetsu (no Yaiba)
+kjw+jX mjiet	# Middle Chinese reading.
+küi met 	# North Finnic reading.
+kyi met	# Finnish reading, early borrowing.
+kyy miet	# Finnish reading, late borrowing.
+
+拳願阿修羅		# Kengan Ashura
+gjwen ngjwonH 'a sjuw la	# Middle Chinese reading.
+ken non aa siu la 	# North Finnic reading.
+ken non aa siu la	# Finnish reading, early borrowing.
+kuen nuon a siu la	# Finnish reading, late borrowing.
+
+進撃巨人		# Shingeki no Kyoujin, Attack on Titan
+tsinH kek gjoX nyin	# Middle Chinese reading.
+cin kek ko nin 	# North Finnic reading.
+sin kek ko nin	# Finnish reading, early borrowing.
+tsin kek kio nin	# Finnish reading, late borrowing.
+
+雷槍		# Thunder Spear, from Attack on Titan
+lwoj tshjang/tsrhaeng	# Middle Chinese reading.
+loi cang/cäng 	# North Finnic reading.
+loi sang/säng	# Finnish reading, early borrowing.
+luo tsiang/tsäng	# Finnish reading, late borrowing.
+
+呪術廻戦		# Jujutsu Kaisen
+tsyuwH zywit hwoj tsyenH	# Middle Chinese reading.
+juu suit voi ken 	# North Finnic reading.
+juu suit voi ken	# Finnish reading, early borrowing.
+kiu suit huo kien	# Finnish reading, late borrowing.
+
+一歩		# (Hajime no) Ippo
+'jit buH	# Middle Chinese reading.
+jit pu 	# North Finnic reading.
+jit pu	# Finnish reading, early borrowing.
+jit pu	# Finnish reading, late borrowing.
+
+
+[Movies]:
+修羅雪姫		# Shurayuki-hime, "Lady Snowblood"
+sjuw la sjwet ki	# Middle Chinese reading.
+siu la set ki 	# North Finnic reading.
+siu la set ki	# Finnish reading, early borrowing.
+siu la suet ki	# Finnish reading, late borrowing.
+
+人狼		# Jin-Roh: The Wolf Brigade, Kor. Illang
+nyin lang	# Middle Chinese reading.
+nin lang 	# North Finnic reading.
+nin lang	# Finnish reading, early borrowing.
+nin lang	# Finnish reading, late borrowing.
+
+
+[Random terms]:
+聖域
+syengH hjwik	# Middle Chinese reading.
+seng vik 	# North Finnic reading.
+seng vik	# Finnish reading, early borrowing.
+sieng huik	# Finnish reading, late borrowing.
+
+獅子		# (Stone) lion, "foo dog"
+srij tsiX	# Middle Chinese reading.
+sii ci 	# North Finnic reading.
+sii si	# Finnish reading, early borrowing.
+sii tsi	# Finnish reading, late borrowing.
+
+戦闘員		# Simplified 戦
+tsyenH tuwH hjwen/hjun	# Middle Chinese reading.
+ken tuu ven/jun 	# North Finnic reading.
+ken tuu ven/jun	# Finnish reading, early borrowing.
+kien tuu juen/hiun	# Finnish reading, late borrowing.
+
+戰闘員
+tsyenH tuwH hjwen/hjun	# Middle Chinese reading.
+ken tuu ven/jun 	# North Finnic reading.
+ken tuu ven/jun	# Finnish reading, early borrowing.
+kien tuu juen/hiun	# Finnish reading, late borrowing.
+
+警察
+kjaengX tsrheat	# Middle Chinese reading.
+käng cät 	# North Finnic reading.
+käng sät	# Finnish reading, early borrowing.
+kiäng tsät	# Finnish reading, late borrowing.
+
+刃		# yaiba, säilä
+nyinH	# Middle Chinese reading.
+nin 	# North Finnic reading.
+nin	# Finnish reading, early borrowing.
+nin	# Finnish reading, late borrowing.
+
+貧弱		# DIO:  Hinjaku!
+bin nyak	# Middle Chinese reading.
+pin nak 	# North Finnic reading.
+pin nak	# Finnish reading, early borrowing.
+pin niak	# Finnish reading, late borrowing.
+
+遅水		# Slow Water, a hypothetical name
+drij sywijX	# Middle Chinese reading.
+tii sui 	# North Finnic reading.
+tii sui	# Finnish reading, early borrowing.
+tii sui	# Finnish reading, late borrowing.
+
+沢何		# Suo-mi(tä), "Suomi"
+draek ha	# Middle Chinese reading.
+täk ha 	# North Finnic reading.
+täk ha	# Finnish reading, early borrowing.
+täk ha	# Finnish reading, late borrowing.
+
+人種差別		# Racism
+nyin tsyowngX/tsyowngH tsrhae/tsrhea/tsrheaj/tsrhje/tsha bjet/pjet	# Middle Chinese reading.
+nin joung cä/cäi/ce/ca pet 	# North Finnic reading.
+nin joung sä/säi/se/sa pet	# Finnish reading, early borrowing.
+nin kiong tsä/tsäi/tsie/tsa piet	# Finnish reading, late borrowing.
+
+欲望守護天使		# Yokubō no Shugotenshi, The Guardians of Desire
+yowk mjang/mjangH syuwX/syuwH huH then/xen sriX/sriH	# Middle Chinese reading.
+jouk mang siu hu ten/ken si 	# North Finnic reading.
+jouk mang siu hu ten/ken si	# Finnish reading, early borrowing.
+jouk miang siu hu ten/ken si	# Finnish reading, late borrowing.
+
+遊俠		# youxia, "wandering vigilante
+yuw hep	# Middle Chinese reading.
+juu hep 	# North Finnic reading.
+juu hep	# Finnish reading, early borrowing.
+juu hep	# Finnish reading, late borrowing.
+
+豪巨		# overpowering and gigantic
+haw gjoX	# Middle Chinese reading.
+hau ko 	# North Finnic reading.
+hau ko	# Finnish reading, early borrowing.
+hau kio	# Finnish reading, late borrowing.
+
+陰陽道		# Onmyoudou, "the Way of Yin and Yang"
+'im yang dawH/dawX	# Middle Chinese reading.
+im jang tau 	# North Finnic reading.
+im jang tau	# Finnish reading, early borrowing.
+im jang tau	# Finnish reading, late borrowing.
+
+陰陽師		# Onymyoushi, a master of Onmyoudou
+'im yang srij	# Middle Chinese reading.
+im jang sii 	# North Finnic reading.
+im jang sii	# Finnish reading, early borrowing.
+im jang sii	# Finnish reading, late borrowing.
+

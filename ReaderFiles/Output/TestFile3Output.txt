@@ -1,0 +1,18 @@
+苹果		# Apple
+beng kwaX	# Middle Chinese reading.
+peng ka 	# North Finnic reading.
+peng ka	# Finnish reading, early borrowing.
+peng kua	# Finnish reading, late borrowing.
+
+草莓		# Strawberry
+tshawX mwoj/mwojH	# Middle Chinese reading.
+cau moi 	# North Finnic reading.
+sau moi	# Finnish reading, early borrowing.
+tsau muo	# Finnish reading, late borrowing.
+
+蛋糕		# Cake
+danX kawH	# Middle Chinese reading.
+tan kau 	# North Finnic reading.
+tan kau	# Finnish reading, early borrowing.
+tan kau	# Finnish reading, late borrowing.
+

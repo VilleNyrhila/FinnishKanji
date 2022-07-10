@@ -1,0 +1,109 @@
+[Heart Sutra, Japanese Text]:
+仏説摩訶般若波羅蜜多心経
+bjut sywejH/sywet ma/mwaH xa bwan/pwan/pjwen nyak pa la mjit ta sim keng	# Middle Chinese reading.
+piut sei/set/jet ma ka pan/pen nak pa la mit ta sim keng 	# North Finnic reading.
+piut sei/set/jet ma ka pan/pen nak pa la mit ta sim keng	# Finnish reading, early borrowing.
+piut sue/suet/juet ma/mua ka puan/puen niak pa la miit ta sim keng	# Finnish reading, late borrowing.
+
+観自在菩薩行深般若波羅蜜多時
+kwan/kwanH dzijH dzojX bu/bojX/bjuwX/bok sjet hang/haeng/haengH syim/syimH bwan/pwan/pjwen nyak pa la mjit ta dzyi	# Middle Chinese reading.
+kan cii coi pu/poi/piu/pok set hang/häng sim pan/pen nak pa la mit ta ki 	# North Finnic reading.
+kan sii soi pu/poi/piu/pok set hang/häng sim pan/pen nak pa la mit ta ki	# Finnish reading, early borrowing.
+kuan tsii tsoi pu/poi/piu/pok siet hang/häng sim puan/puen niak pa la miit ta ki	# Finnish reading, late borrowing.
+
+照見五蘊皆空度一切苦厄舎利子色不異空
+tsyewH kenH/henH nguX 'junX/'junH keaj khuwng/khuwngX duH/dak 'jit tshet khuX 'eak syaeX/syaeH lijH tsiX srik pjuw yiH khuwng/khuwngX	# Middle Chinese reading.
+keu ken/hen nu jun käi kuung tu/tak jit cet ku äk sä lii ci sik piu ji kuung 	# North Finnic reading.
+keu ken/hen nu jun käi kuung tu/tak jit set ku äk sä lii si sik piu ji kuung	# Finnish reading, early borrowing.
+kie ken/hen nu jun käi kuung tu/tak jit tset ku äk siä lii tsi sik piu ji kuung	# Finnish reading, late borrowing.
+
+空不異色色即是空空即是色
+khuwng/khuwngX pjuw yiH srik srik tsik dzyeX khuwng/khuwngX khuwng/khuwngX tsik dzyeX srik	# Middle Chinese reading.
+kuung piu ji sik sik cik ke kuung kuung cik ke sik 	# North Finnic reading.
+kuung piu ji sik sik sik ke kuung kuung sik ke sik	# Finnish reading, early borrowing.
+kuung piu ji sik sik tsik kie kuung kuung tsik kie sik	# Finnish reading, late borrowing.
+
+受想行識亦復如是舎利子是諸法空相
+dzyuwX sjangX hang/haeng/haengH syik/tsyiH yek bjuwH/bjuwk nyo dzyeX syaeX/syaeH lijH tsiX dzyeX tsyo pjop khuwng/khuwngX sjang/sjangH	# Middle Chinese reading.
+juu sang hang/häng sik/ki jek piu/piuk no ke sä lii ci ke jo pop kuung sang 	# North Finnic reading.
+juu sang hang/häng sik/ki jek piu/piuk no ke sä lii si ke jo pop kuung sang	# Finnish reading, early borrowing.
+kiu siang hang/häng sik/ki jek piu/piuk nio kie siä lii tsi kie kio piop kuung siang	# Finnish reading, late borrowing.
+
+不生不滅不垢不浄不増不減是故空中無色
+pjuw sraeng/srjaeng pjuw mjiet pjuw kuwX pjuw dzjengH pjuw tsong pjuw heamX/keamX dzyeX kuH khuwng/khuwngX trjuwng/trjuwngH mju srik	# Middle Chinese reading.
+piu säng piu met piu kuu piu ceng piu cong piu häm/käm ke ku kuung tiung miu sik 	# North Finnic reading.
+piu säng piu met piu kuu piu seng piu song piu häm/käm ke ku kuung tiung miu sik	# Finnish reading, early borrowing.
+piu säng/siäng piu miet piu kuu piu tsieng piu tsong piu häm/käm kie ku kuung tiung miu sik	# Finnish reading, late borrowing.
+
+無受想行識無眼耳鼻舌身意無色声香味触法
+mju dzyuwX sjangX hang/haeng/haengH syik/tsyiH mju ngonX/ngeanX nyiX bjijH zyet syin 'iH mju srik syeng xjang mj+jH tsyhjowk pjop	# Middle Chinese reading.
+miu juu sang hang/häng sik/ki miu non/nän nii pii set sin ii miu sik seng kang müi jouk pop 	# North Finnic reading.
+miu juu sang hang/häng sik/ki miu non/nän nii pii set sin ii miu sik seng kang myi jouk pop	# Finnish reading, early borrowing.
+miu kiu siang hang/häng sik/ki miu non/nän ni pii siet sin i miu sik sieng kiang miy kiok piop	# Finnish reading, late borrowing.
+
+無眼界乃至無意識界無無明亦無無明尽
+mju ngonX/ngeanX keajH nojX tsyijH mju 'iH syik/tsyiH keajH mju mju mjaeng yek mju mju mjaeng tsinX/dzinX	# Middle Chinese reading.
+miu non/nän käi noi kii miu ii sik/ki käi miu miu mäng jek miu miu mäng cin 	# North Finnic reading.
+miu non/nän käi noi kii miu ii sik/ki käi miu miu mäng jek miu miu mäng sin	# Finnish reading, early borrowing.
+miu non/nän käi noi kii miu i sik/ki käi miu miu miäng jek miu miu miäng tsin	# Finnish reading, late borrowing.
+
+乃至無老死亦無老死尽無苦集滅道
+nojX tsyijH mju lawX sijX yek mju lawX sijX tsinX/dzinX mju khuX dzip mjiet dawH/dawX	# Middle Chinese reading.
+noi kii miu lau sii jek miu lau sii cin miu ku cip met tau 	# North Finnic reading.
+noi kii miu lau sii jek miu lau sii sin miu ku sip met tau	# Finnish reading, early borrowing.
+noi kii miu lau sii jek miu lau sii tsin miu ku tsip miet tau	# Finnish reading, late borrowing.
+
+無智亦無得以無所得故菩提薩埵
+mju trjeH yek mju tok yiX mju srjoX/xuX tok kuH bu/bojX/bjuwX/bok dej sjet twaX	# Middle Chinese reading.
+miu te jek miu tok ji miu so/ku tok ku pu/poi/piu/pok tei set ta 	# North Finnic reading.
+miu te jek miu tok ji miu so/ku tok ku pu/poi/piu/pok tei set ta	# Finnish reading, early borrowing.
+miu tie jek miu tok ji miu sio/ku tok ku pu/poi/piu/pok tei siet tua	# Finnish reading, late borrowing.
+
+依般若波羅蜜多故心無罣礙無罣礙故
+'j+j bwan/pwan/pjwen nyak pa la mjit ta kuH sim mju kwejH/keaH/hweaH ngojH mju kwejH/keaH/hweaH ngojH kuH	# Middle Chinese reading.
+jüi pan/pen nak pa la mit ta ku sim miu kei/kä/vä noi miu kei/kä/vä noi ku 	# North Finnic reading.
+jyi pan/pen nak pa la mit ta ku sim miu kei/kä/vä noi miu kei/kä/vä noi ku	# Finnish reading, early borrowing.
+jyi puan/puen niak pa la miit ta ku sim miu kue/kä/hyä noi miu kue/kä/hyä noi ku	# Finnish reading, late borrowing.
+
+無有恐怖遠離一切顛倒夢想究竟涅槃
+mju hjuwX khjowngX phuH hjwonX lje/ljeH 'jit tshet ten tawX/tawH mjuwngH sjangX kjuwH kjaengH net bwan	# Middle Chinese reading.
+miu juu koung pu von le jit cet ten tau miung sang kiu käng net pan 	# North Finnic reading.
+miu juu koung pu von le jit set ten tau miung sang kiu käng net pan	# Finnish reading, early borrowing.
+miu hiu kiong pu juon lie jit tset ten tau miung siang kiu kiäng net puan	# Finnish reading, late borrowing.
+
+三世諸仏依般若波羅蜜多故
+sam/samH syejH tsyo bjut 'j+j bwan/pwan/pjwen nyak pa la mjit ta kuH	# Middle Chinese reading.
+sam sei jo piut jüi pan/pen nak pa la mit ta ku 	# North Finnic reading.
+sam sei jo piut jyi pan/pen nak pa la mit ta ku	# Finnish reading, early borrowing.
+sam sie kio piut jyi puan/puen niak pa la miit ta ku	# Finnish reading, late borrowing.
+
+得阿耨多羅三藐三菩提故知般若波羅蜜多
+tok 'a nuwH ta la sam/samH mjewX/maewk sam/samH bu/bojX/bjuwX/bok dej kuH trje bwan/pwan/pjwen nyak pa la mjit ta	# Middle Chinese reading.
+tok aa nuu ta la sam meu/mäük sam pu/poi/piu/pok tei ku te pan/pen nak pa la mit ta 	# North Finnic reading.
+tok aa nuu ta la sam meu/mäyk sam pu/poi/piu/pok tei ku te pan/pen nak pa la mit ta	# Finnish reading, early borrowing.
+tok a nuu ta la sam mie/mäyk sam pu/poi/piu/pok tei ku tie puan/puen niak pa la miit ta	# Finnish reading, late borrowing.
+
+是大神呪是大明呪是無上呪是無等等呪
+dzyeX daH/dajH zyin tsyuwH dzyeX daH/dajH mjaeng tsyuwH dzyeX mju dzyangX/dzyangH tsyuwH dzyeX mju tongX tongX tsyuwH	# Middle Chinese reading.
+ke ta/tai sin juu ke ta/tai mäng juu ke miu kang juu ke miu tong tong juu 	# North Finnic reading.
+ke ta/tai sin juu ke ta/tai mäng juu ke miu kang juu ke miu tong tong juu	# Finnish reading, early borrowing.
+kie ta/tai sin kiu kie ta/tai miäng kiu kie miu kiang kiu kie miu tong tong kiu	# Finnish reading, late borrowing.
+
+能除一切苦真実不虚故説般若波羅蜜多呪
+noj/nong drjo/drjoH 'jit tshet khuX tsyin zyit pjuw khjo kuH sywejH/sywet bwan/pwan/pjwen nyak pa la mjit ta tsyuwH	# Middle Chinese reading.
+noi/nong to jit cet ku kin sit piu ko ku sei/set/jet pan/pen nak pa la mit ta juu 	# North Finnic reading.
+noi/nong to jit set ku kin sit piu ko ku sei/set/jet pan/pen nak pa la mit ta juu	# Finnish reading, early borrowing.
+noi/nong tio jit tset ku kin sit piu kio ku sue/suet/juet puan/puen niak pa la miit ta kiu	# Finnish reading, late borrowing.
+
+即説呪日羯諦羯諦波羅羯諦波羅僧羯諦
+tsik sywejH/sywet tsyuwH nyit kjet tejH kjet tejH pa la kjet tejH pa la song kjet tejH	# Middle Chinese reading.
+cik sei/set/jet juu nit ket tei ket tei pa la ket tei pa la song ket tei 	# North Finnic reading.
+sik sei/set/jet juu nit ket tei ket tei pa la ket tei pa la song ket tei	# Finnish reading, early borrowing.
+tsik sue/suet/juet kiu nit kiet tei kiet tei pa la kiet tei pa la song kiet tei	# Finnish reading, late borrowing.
+
+菩提薩婆訶般若心経
+bu/bojX/bjuwX/bok dej sjet ba xa bwan/pwan/pjwen nyak sim keng	# Middle Chinese reading.
+pu/poi/piu/pok tei set pa ka pan/pen nak sim keng 	# North Finnic reading.
+pu/poi/piu/pok tei set pa ka pan/pen nak sim keng	# Finnish reading, early borrowing.
+pu/poi/piu/pok tei siet pa ka puan/puen niak sim keng	# Finnish reading, late borrowing.
+

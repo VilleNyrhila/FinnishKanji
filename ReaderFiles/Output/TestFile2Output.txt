@@ -1,0 +1,199 @@
+[Pekan sanat ja lauseet]:
+駝鹿		# hirvi
+da luwk	# Middle Chinese reading.
+ta luuk 	# North Finnic reading.
+ta luuk	# Finnish reading, early borrowing.
+ta luuk	# Finnish reading, late borrowing.
+
+矢		# nuoli
+syijX	# Middle Chinese reading.
+sii 	# North Finnic reading.
+sii	# Finnish reading, early borrowing.
+sii	# Finnish reading, late borrowing.
+
+馬克		# rajamaa
+maeX khok	# Middle Chinese reading.
+mä kok 	# North Finnic reading.
+mä kok	# Finnish reading, early borrowing.
+mä kok	# Finnish reading, late borrowing.
+
+領土		# Myös rajamaa
+ljengX thuX	# Middle Chinese reading.
+leng tu 	# North Finnic reading.
+leng tu	# Finnish reading, early borrowing.
+lieng tu	# Finnish reading, late borrowing.
+
+橇		# reki, ehkä kävisi myös ahkiosta
+khjew	# Middle Chinese reading.
+keu 	# North Finnic reading.
+keu	# Finnish reading, early borrowing.
+kie	# Finnish reading, late borrowing.
+
+膿瘍		# paise, jnp. "nouyou", mandarin "Nóngyáng"
+nowng yang	# Middle Chinese reading.
+noung jang 	# North Finnic reading.
+noung jang	# Finnish reading, early borrowing.
+noung jang	# Finnish reading, late borrowing.
+
+病気		# sairaus
+bjaengH khj+jH/xj+jH	# Middle Chinese reading.
+päng küi 	# North Finnic reading.
+päng kyi	# Finnish reading, early borrowing.
+piäng kiy	# Finnish reading, late borrowing.
+
+医者		# lääkäri
+'ejH tsyaeX	# Middle Chinese reading.
+ei kä 	# North Finnic reading.
+ei kä	# Finnish reading, early borrowing.
+ei kiä	# Finnish reading, late borrowing.
+
+水		# vesi
+sywijX	# Middle Chinese reading.
+sui 	# North Finnic reading.
+sui	# Finnish reading, early borrowing.
+sui	# Finnish reading, late borrowing.
+
+湖		# järvi
+hu	# Middle Chinese reading.
+hu 	# North Finnic reading.
+hu	# Finnish reading, early borrowing.
+hu	# Finnish reading, late borrowing.
+
+皇帝		# keisari
+hwang tejH	# Middle Chinese reading.
+vang tei 	# North Finnic reading.
+vang tei	# Finnish reading, early borrowing.
+huang tei	# Finnish reading, late borrowing.
+
+雪		# lumi
+sjwet	# Middle Chinese reading.
+set 	# North Finnic reading.
+set	# Finnish reading, early borrowing.
+suet	# Finnish reading, late borrowing.
+
+冬		# talvi
+towng	# Middle Chinese reading.
+toung 	# North Finnic reading.
+toung	# Finnish reading, early borrowing.
+toung	# Finnish reading, late borrowing.
+
+礼拝所		# palvontapaikka
+lejX peajH srjoX/xuX	# Middle Chinese reading.
+lei päi so/ku 	# North Finnic reading.
+lei päi so/ku	# Finnish reading, early borrowing.
+lei päi sio/ku	# Finnish reading, late borrowing.
+
+供犠林		# uhrilehto
+kjowng xje lim	# Middle Chinese reading.
+koung ke lim 	# North Finnic reading.
+koung ke lim	# Finnish reading, early borrowing.
+kiong kie lim	# Finnish reading, late borrowing.
+
+康特勒琴		# Kantele
+khang/thang dok lok gim	# Middle Chinese reading.
+kang/tang tok lok kim 	# North Finnic reading.
+kang/tang tok lok kim	# Finnish reading, early borrowing.
+kang/tang tok lok kim	# Finnish reading, late borrowing.
+
+歌		# laulu
+ka	# Middle Chinese reading.
+ka 	# North Finnic reading.
+ka	# Finnish reading, early borrowing.
+ka	# Finnish reading, late borrowing.
+
+詩		# runo
+syi	# Middle Chinese reading.
+sii 	# North Finnic reading.
+sii	# Finnish reading, early borrowing.
+si	# Finnish reading, late borrowing.
+
+營火		# nuotio
+yweng xwaX	# Middle Chinese reading.
+jeng ka 	# North Finnic reading.
+jeng ka	# Finnish reading, early borrowing.
+jueng kua	# Finnish reading, late borrowing.
+
+煙		# savu
+'en	# Middle Chinese reading.
+en 	# North Finnic reading.
+en	# Finnish reading, early borrowing.
+en	# Finnish reading, late borrowing.
+
+肉		# liha, Mandarin "ròu"
+nyuwk	# Middle Chinese reading.
+niuk 	# North Finnic reading.
+niuk	# Finnish reading, early borrowing.
+niuk	# Finnish reading, late borrowing.
+
+熊		# karhu
+hjuwng	# Middle Chinese reading.
+juung 	# North Finnic reading.
+juung	# Finnish reading, early borrowing.
+hiung	# Finnish reading, late borrowing.
+
+包		# jurtta, "kota"
+paew	# Middle Chinese reading.
+päü 	# North Finnic reading.
+päy	# Finnish reading, early borrowing.
+päy	# Finnish reading, late borrowing.
+
+香水		# kousui
+xjang sywijX	# Middle Chinese reading.
+kang sui 	# North Finnic reading.
+kang sui	# Finnish reading, early borrowing.
+kiang sui	# Finnish reading, late borrowing.
+
+瑛人		# eijin
+'jaeng nyin	# Middle Chinese reading.
+jäng nin 	# North Finnic reading.
+jäng nin	# Finnish reading, early borrowing.
+jäng nin	# Finnish reading, late borrowing.
+
+
+[Korea]:
+三國史記		# Samguk Sagi, "History of the Three Kingdoms"
+sam/samH kwok sriX kiH	# Middle Chinese reading.
+sam kok si ki 	# North Finnic reading.
+sam kok si ki	# Finnish reading, early borrowing.
+sam kuok si ki	# Finnish reading, late borrowing.
+
+
+[Japan]:
+倭国大乱		# wakoku tairan, "Civil War of Wa" or "Great Rebellion of Wa"
+'je/'wa/'waX kwok daH/dajH lwanH	# Middle Chinese reading.
+je/va kok ta/tai lan 	# North Finnic reading.
+je/va kok ta/tai lan	# Finnish reading, early borrowing.
+je/va kuok ta/tai luan	# Finnish reading, late borrowing.
+
+
+[Choice dynasties]:
+魏		# Wei (386–535)
+ngjw+j/ngjw+jH	# Middle Chinese reading.
+nüi 	# North Finnic reading.
+nyi	# Finnish reading, early borrowing.
+nyy	# Finnish reading, late borrowing.
+
+隋		# Sui (581–618)
+xjwieH/dwaX/zjwe/sjweH/thwaX	# Middle Chinese reading.
+ke/ta/se 	# North Finnic reading.
+ke/ta/se	# Finnish reading, early borrowing.
+ke/tua/sue	# Finnish reading, late borrowing.
+
+唐		# Tang (618–690, 705–907)
+thang/dang	# Middle Chinese reading.
+tang 	# North Finnic reading.
+tang	# Finnish reading, early borrowing.
+tang	# Finnish reading, late borrowing.
+
+魏音		# Wei sound
+ngjw+j/ngjw+jH 'im	# Middle Chinese reading.
+nüi im 	# North Finnic reading.
+nyi im	# Finnish reading, early borrowing.
+nyy im	# Finnish reading, late borrowing.
+
+唐音		# Tang sound
+thang/dang 'im	# Middle Chinese reading.
+tang im 	# North Finnic reading.
+tang im	# Finnish reading, early borrowing.
+tang im	# Finnish reading, late borrowing.
+

@@ -1,0 +1,317 @@
+[Thunderbolt Fantasy]:
+東離劍遊紀		# Sandāboruto Fantajī: Tōriken Yūki, lit. Thunderbolt Fantasy: Sword Travels in the East
+tuwng lje/ljeH kjaemH yuw kiX	# Middle Chinese reading.
+tuung le käm juu ki 	# North Finnic reading.
+tuung le käm juu ki	# Finnish reading, early borrowing.
+tuung lie kiäm juu ki	# Finnish reading, late borrowing.
+
+雷鳴
+lwoj mjaeng	# Middle Chinese reading.
+loi mäng 	# North Finnic reading.
+loi mäng	# Finnish reading, early borrowing.
+luo miäng	# Finnish reading, late borrowing.
+
+殤不患		# Shou Fu Kan
+syang pjuw hwaenH	# Middle Chinese reading.
+sang piu vän 	# North Finnic reading.
+sang piu vän	# Finnish reading, early borrowing.
+siang piu hyän	# Finnish reading, late borrowing.
+
+刃無鋒		# Jin Muhō, Edgeless Blade
+nyinH mju phjowng	# Middle Chinese reading.
+nin miu poung 	# North Finnic reading.
+nin miu poung	# Finnish reading, early borrowing.
+nin miu piong	# Finnish reading, late borrowing.
+
+凜雪鴉		# Rin Setsu A
+limX sjwet 'ae	# Middle Chinese reading.
+lim set ää 	# North Finnic reading.
+lim set ää	# Finnish reading, early borrowing.
+lim suet ä	# Finnish reading, late borrowing.
+
+掠風竊塵		# Ryō Fū Setsujin, Thief of the Wind Dust
+ljangH/ljak pjuwng/pjuwngH tshet drin	# Middle Chinese reading.
+lang/lak piung cet tin 	# North Finnic reading.
+lang/lak piung set tin	# Finnish reading, early borrowing.
+liang/liak piung tset tin	# Finnish reading, late borrowing.
+
+
+[Thunderbolt Fantasy, Season 1]:
+丹翡
+tan pju	# Middle Chinese reading.
+tan piu 	# North Finnic reading.
+tan piu	# Finnish reading, early borrowing.
+tan piu	# Finnish reading, late borrowing.
+
+丹衡
+tan haeng	# Middle Chinese reading.
+tan häng 	# North Finnic reading.
+tan häng	# Finnish reading, early borrowing.
+tan häng	# Finnish reading, late borrowing.
+
+狩雲霄
+syuwH hjun sjew	# Middle Chinese reading.
+siu jun seu 	# North Finnic reading.
+siu jun seu	# Finnish reading, early borrowing.
+siu hiun sie	# Finnish reading, late borrowing.
+
+鋭眼穿楊		# Ei Gan Sen Yō, Keen-eyed Sharpshooter
+ywejH ngonX/ngeanX tsyhjwen yang	# Middle Chinese reading.
+jei non/nän ken jang 	# North Finnic reading.
+jei non/nän ken jang	# Finnish reading, early borrowing.
+jue non/nän juen jang	# Finnish reading, late borrowing.
+
+捲殘雲		# Ken San Un, To Furl Scattered Clouds
+gjunH/kjwenX dzan hjun	# Middle Chinese reading.
+kiun/ken can jun 	# North Finnic reading.
+kiun/ken san jun	# Finnish reading, early borrowing.
+kiun/kuen tsan hiun	# Finnish reading, late borrowing.
+
+寒赫
+han xaek	# Middle Chinese reading.
+han käk 	# North Finnic reading.
+han käk	# Finnish reading, early borrowing.
+han käk	# Finnish reading, late borrowing.
+
+刑亥
+heng hojX	# Middle Chinese reading.
+heng hoi 	# North Finnic reading.
+heng hoi	# Finnish reading, early borrowing.
+heng hoi	# Finnish reading, late borrowing.
+
+泣宵
+khip sjew	# Middle Chinese reading.
+kip seu 	# North Finnic reading.
+kip seu	# Finnish reading, early borrowing.
+kip sie	# Finnish reading, late borrowing.
+
+殺無生		# Setsu Mu Shō
+sreat/sreajH mju sraeng/srjaeng	# Middle Chinese reading.
+sät/säi miu säng 	# North Finnic reading.
+sät/säi miu säng	# Finnish reading, early borrowing.
+sät/säi miu säng/siäng	# Finnish reading, late borrowing.
+
+鳴鳳決殺		# Mei Hō Kett Satsu, Screaming Phoenix Execution
+mjaeng buwngH kwet sreat/sreajH	# Middle Chinese reading.
+mäng puung ket sät/säi 	# North Finnic reading.
+mäng puung ket sät/säi	# Finnish reading, early borrowing.
+miäng puung kuet sät/säi	# Finnish reading, late borrowing.
+
+廉耆
+ljem gij	# Middle Chinese reading.
+lem kii 	# North Finnic reading.
+lem kii	# Finnish reading, early borrowing.
+liem kii	# Finnish reading, late borrowing.
+
+蔑天骸		# Betsu Ten Gai, Skeleton Who Scorns the Heavens
+met then/xen heaj	# Middle Chinese reading.
+met ten/ken häi 	# North Finnic reading.
+met ten/ken häi	# Finnish reading, early borrowing.
+met ten/ken häi	# Finnish reading, late borrowing.
+
+森羅枯骨		# Shinra Kokotsu, Mass Array of Dry Bones
+srim la khu kwot	# Middle Chinese reading.
+sim la ku kot 	# North Finnic reading.
+sim la ku kot	# Finnish reading, early borrowing.
+sim la ku kuot	# Finnish reading, late borrowing.
+
+殘凶
+dzan xjowng	# Middle Chinese reading.
+can koung 	# North Finnic reading.
+san koung	# Finnish reading, early borrowing.
+tsan kiong	# Finnish reading, late borrowing.
+
+獵魅
+ljep mijH	# Middle Chinese reading.
+lep mii 	# North Finnic reading.
+lep mii	# Finnish reading, early borrowing.
+liep mii	# Finnish reading, late borrowing.
+
+凋命
+tew mjaengH	# Middle Chinese reading.
+teu mäng 	# North Finnic reading.
+teu mäng	# Finnish reading, early borrowing.
+teu miäng	# Finnish reading, late borrowing.
+
+
+[Thunderbolt Fantasy, Season 2]:
+魔剣目録		# Maken Mokuroku, Sorcerous Sword Index
+ma kjaemH mjuwk ljowk	# Middle Chinese reading.
+ma käm miuk louk 	# North Finnic reading.
+ma käm miuk louk	# Finnish reading, early borrowing.
+ma kiäm miuk liok	# Finnish reading, late borrowing.
+
+浪巫謠		# Rōfu Yō, Wandering Shaman Bard
+lang mju yew	# Middle Chinese reading.
+lang miu jeu 	# North Finnic reading.
+lang miu jeu	# Finnish reading, early borrowing.
+lang miu jeu	# Finnish reading, late borrowing.
+
+弦歌斷邪		# Genka Danja, Song That Dooms Evil
+hen ka dwanX/twanX/twanH zjae/zjo/yae	# Middle Chinese reading.
+hen ka tan sä/so/jä 	# North Finnic reading.
+hen ka tan sä/so/jä	# Finnish reading, early borrowing.
+hen ka tuan siä/sio/jä	# Finnish reading, late borrowing.
+
+聆牙		# Ryouga, Listening Fang
+leang ngae	# Middle Chinese reading.
+läng nä 	# North Finnic reading.
+läng nä	# Finnish reading, early borrowing.
+läng nä	# Finnish reading, late borrowing.
+
+嘯狂狷
+sewH gjwang kwen/kjwienH	# Middle Chinese reading.
+seu kang ken 	# North Finnic reading.
+seu kang ken	# Finnish reading, early borrowing.
+seu kuang kuen/ken	# Finnish reading, late borrowing.
+
+追命靈狐
+trwij mjaengH leng hu	# Middle Chinese reading.
+tui mäng leng hu 	# North Finnic reading.
+tui mäng leng hu	# Finnish reading, early borrowing.
+tui miäng leng hu	# Finnish reading, late borrowing.
+
+蠍瓔珞
+xjet 'jeng lak	# Middle Chinese reading.
+ket jeng lak 	# North Finnic reading.
+ket jeng lak	# Finnish reading, early borrowing.
+kiet jeng lak	# Finnish reading, late borrowing.
+
+蝕心毒姫		# Old form character 姫
+zyik sim dowk ki	# Middle Chinese reading.
+sik sim touk ki 	# North Finnic reading.
+sik sim touk ki	# Finnish reading, early borrowing.
+sik sim touk ki	# Finnish reading, late borrowing.
+
+蝕心毒姬
+zyik sim dowk ki	# Middle Chinese reading.
+sik sim touk ki 	# North Finnic reading.
+sik sim touk ki	# Finnish reading, early borrowing.
+sik sim touk ki	# Finnish reading, late borrowing.
+
+禍世螟蝗
+hwaX syejH meng hwang	# Middle Chinese reading.
+va sei meng vang 	# North Finnic reading.
+va sei meng vang	# Finnish reading, early borrowing.
+hua sie meng huang	# Finnish reading, late borrowing.
+
+婁震戒		# Ro Shinkai, Shockwave, "Mad Monk"
+lju tsyinH keajH	# Middle Chinese reading.
+liu kin käi 	# North Finnic reading.
+liu kin käi	# Finnish reading, early borrowing.
+liu kin käi	# Finnish reading, late borrowing.
+
+諦空		# Tei Kuu, Absolute Emptiness
+tejH khuwng/khuwngX	# Middle Chinese reading.
+tei kuung 	# North Finnic reading.
+tei kuung	# Finnish reading, early borrowing.
+tei kuung	# Finnish reading, late borrowing.
+
+七殺天凌		# Nanasatsu Tenryou, Seven Blasphemous Deaths
+tshit sreat/sreajH then/xen ling	# Middle Chinese reading.
+cit sät/säi ten/ken ling 	# North Finnic reading.
+sit sät/säi ten/ken ling	# Finnish reading, early borrowing.
+tsit sät/säi ten/ken ling	# Finnish reading, late borrowing.
+
+歿王
+mwot hjwang/hjwangH	# Middle Chinese reading.
+mot vang 	# North Finnic reading.
+mot vang	# Finnish reading, early borrowing.
+muot juang	# Finnish reading, late borrowing.
+
+
+[Bewitching Melody of The West]:
+睦天命		# Mutsu Tenmei, Destiny
+mjuwk then/xen mjaengH	# Middle Chinese reading.
+miuk ten/ken mäng 	# North Finnic reading.
+miuk ten/ken mäng	# Finnish reading, early borrowing.
+miuk ten/ken miäng	# Finnish reading, late borrowing.
+
+咒旬瘖		# Jū Shūn In, Mantra
+tsyuwH zwin 'im	# Middle Chinese reading.
+juu suin im 	# North Finnic reading.
+juu suin im	# Finnish reading, early borrowing.
+kiu suin im	# Finnish reading, late borrowing.
+
+嘲風		# Chou Fu, Derision
+traew pjuwng/pjuwngH	# Middle Chinese reading.
+täü piung 	# North Finnic reading.
+täy piung	# Finnish reading, early borrowing.
+täy piung	# Finnish reading, late borrowing.
+
+天工詭匠		# Tenkokishou, Heavenly Crafter
+then/xen kuwng kjweX dzjangH	# Middle Chinese reading.
+ten/ken kuung ke cang 	# North Finnic reading.
+ten/ken kuung ke sang	# Finnish reading, early borrowing.
+ten/ken kuung kue tsiang	# Finnish reading, late borrowing.
+
+
+[Thunderbolt Fantasy, Season 3]:
+萬軍破		# Ban Gun Ha, Myriad Army Defeats
+mjonH kjun phaH	# Middle Chinese reading.
+mon kiun pa 	# North Finnic reading.
+mon kiun pa	# Finnish reading, early borrowing.
+mion kiun pa	# Finnish reading, late borrowing.
+
+百撃成義		# Hyakugeki Seigi, Paragon of a Hundred Battles
+paek kek dzyeng ngjeH	# Middle Chinese reading.
+päk kek keng ne 	# North Finnic reading.
+päk kek keng ne	# Finnish reading, early borrowing.
+päk kek kieng nie	# Finnish reading, late borrowing.
+
+異飄渺		# I Hyou Byou, Beyond Indistinct
+yiH bjew/phjew mjiewX	# Middle Chinese reading.
+ji peu meu 	# North Finnic reading.
+ji peu meu	# Finnish reading, early borrowing.
+ji pie mie	# Finnish reading, late borrowing.
+
+水月刀螂		# Suigetsu Tōrō, Crescent-Bladed Mantis
+sywijX ngjwot taw ljang/langH	# Middle Chinese reading.
+sui not tau lang 	# North Finnic reading.
+sui not tau lang	# Finnish reading, early borrowing.
+sui nuot tau liang/lang	# Finnish reading, late borrowing.
+
+鬼奪天工		# Ki Datsu Ten Kou, Ghost Seizing Heavenly Crafter
+kjw+jX dwat then/xen kuwng	# Middle Chinese reading.
+küi tat ten/ken kuung 	# North Finnic reading.
+kyi tat ten/ken kuung	# Finnish reading, early borrowing.
+kyy tuat ten/ken kuung	# Finnish reading, late borrowing.
+
+照君臨		# Shou Kun Rin, Shining Reign
+tsyewH kjun lim	# Middle Chinese reading.
+keu kiun lim 	# North Finnic reading.
+keu kiun lim	# Finnish reading, early borrowing.
+kie kiun lim	# Finnish reading, late borrowing.
+
+阿爾貝盧法		# Ajiberufa
+'a nejX/nyeX pajH lu pjop	# Middle Chinese reading.
+aa nei/ne pai lu pop 	# North Finnic reading.
+aa nei/ne pai lu pop	# Finnish reading, early borrowing.
+a nei/nie pai lu piop	# Finnish reading, late borrowing.
+
+白蓮		# Byakuren, White Lotus
+baek len	# Middle Chinese reading.
+päk len 	# North Finnic reading.
+päk len	# Finnish reading, early borrowing.
+päk len	# Finnish reading, late borrowing.
+
+
+[Others]:
+鐵笛仙		# Tekkisen, Iron Flute Immortal
+thet dek sjen	# Middle Chinese reading.
+tet tek sen 	# North Finnic reading.
+tet tek sen	# Finnish reading, early borrowing.
+tet tek sien	# Finnish reading, late borrowing.
+
+孌娘子		# Renjoshi, Lady Beautiful
+ljwenX nrjang tsiX	# Middle Chinese reading.
+len nang ci 	# North Finnic reading.
+len nang si	# Finnish reading, early borrowing.
+luen niang tsi	# Finnish reading, late borrowing.
+
+伯陽侯		# Haku You Kou, Elder Sun Lord
+paek yang huw	# Middle Chinese reading.
+päk jang huu 	# North Finnic reading.
+päk jang huu	# Finnish reading, early borrowing.
+päk jang huu	# Finnish reading, late borrowing.
+

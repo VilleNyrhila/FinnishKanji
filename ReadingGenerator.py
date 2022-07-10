@@ -51,23 +51,6 @@ def save_unresolved_character(zi: str):
         with open("error/unresolved_characters.txt", 'a', encoding='utf-8') as my_file:
             my_file.write(f"{zi}\n")
 
-def get_from_shinjitai(zi: str):
-    proper_zi = shinjitai_map[zi]
-    if len(proper_zi) > 1:
-        proper_zi = proper_zi[0]
-    return proper_zi
-
-def get_from_simplified_map(zi: str):
-    for item in simples_map[zi]:
-        if item in finnic_guangyun:
-            return item # <-- proper_zi
-    save_unresolved_character(zi)
-    # raise ValueError(f"{zi} not found.")
-
-def get_manual_map(zi: str):
-    proper_zi = manual_map[zi]
-    return proper_zi
-
 def get_finnish_zi_readings(zi: str):
     readings: str = ""
     done_readings: list = []
@@ -118,6 +101,21 @@ def get_mc_entry_readings(proper_zi: str):
     return readings
 
 def generate_reading(line: str) -> str:
+    def get_from_shinjitai(zi_: str):
+        proper_zi = shinjitai_map[zi_]
+        if len(proper_zi) > 1:
+            proper_zi = proper_zi[0]
+        return proper_zi
+
+    def get_from_simplified_map(zi_: str):
+        for item in simples_map[zi_]:
+            if item in finnic_guangyun:
+                return item  # <-- proper_zi
+        return item
+
+    def get_manual_map(zi_: str):
+        proper_zi = manual_map[zi_]
+        return proper_zi
     zi_line: str = ""
     finnish_line: str = ""
     north_finnic_line: str = ""
@@ -135,10 +133,12 @@ def generate_reading(line: str) -> str:
                 proper_zi = get_from_shinjitai(zi)
             elif proper_zi in simples_map:
                 proper_zi = get_from_simplified_map(zi)
-            elif proper_zi in manual_map:
-                proper_zi = get_manual_map(zi)
-            else:
-                save_unresolved_character(zi)
+            if proper_zi not in finnic_guangyun:
+                # If STILL not found in the data, look for it in the manual additions.
+                if proper_zi in manual_map:
+                    proper_zi = get_manual_map(proper_zi)
+                else:
+                    save_unresolved_character(zi)
         if proper_zi not in finnic_guangyun:
             reading_fi = proper_zi
         else:
@@ -154,8 +154,6 @@ def generate_reading(line: str) -> str:
                 derived_finnish = get_finnish_zi_readings(proper_zi)
             if INCLUDE_LATE_LOAN:
                 finnish_reading = get_late_loan_readings(proper_zi)
-        if reading_fi == '?':
-            save_unresolved_character(zi)   # No reading could not be found. Save this one for manual
         zi_line += zi
 
         north_finnic_line += f"{north_finnic_reading} "

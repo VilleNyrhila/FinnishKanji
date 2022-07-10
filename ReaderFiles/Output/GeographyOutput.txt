@@ -172,10 +172,10 @@ piuk kon	# Finnish reading, early borrowing.
 piuk kion	# Finnish reading, late borrowing.
 
 陕西		# Shaanxi
-sej	# Middle Chinese reading.
- sei 	# North Finnic reading.
-sei	# Finnish reading, early borrowing.
-sei	# Finnish reading, late borrowing.
+srean sej	# Middle Chinese reading.
+sän sei 	# North Finnic reading.
+sän sei	# Finnish reading, early borrowing.
+sän sei	# Finnish reading, late borrowing.
 
 贵州		# Guizhou
 kjw+jH tsyuw	# Middle Chinese reading.

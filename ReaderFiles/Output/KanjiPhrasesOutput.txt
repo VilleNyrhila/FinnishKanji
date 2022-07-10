@@ -132,10 +132,10 @@ häyk häy/käy	# Finnish reading, early borrowing.
 häyk häy/käy	# Finnish reading, late borrowing.
 
 様子		# yousu, situation, condition
-tsiX	# Middle Chinese reading.
- ci 	# North Finnic reading.
-si	# Finnish reading, early borrowing.
-tsi	# Finnish reading, late borrowing.
+yangH tsiX	# Middle Chinese reading.
+jang ci 	# North Finnic reading.
+jang si	# Finnish reading, early borrowing.
+jang tsi	# Finnish reading, late borrowing.
 
 承知		# shouchi, knowledge; awareness, acceptance; consent
 dzying trje	# Middle Chinese reading.

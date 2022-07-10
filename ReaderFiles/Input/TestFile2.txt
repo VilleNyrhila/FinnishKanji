@@ -1,4 +1,4 @@
-; Pekan sanat ja lauseet
+; Valitut lauseet
 駝鹿  # hirvi
 矢   # nuoli
 馬克  # rajamaa

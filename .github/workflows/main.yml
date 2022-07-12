@@ -1,0 +1,65 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Greet the user and start the job.
+        run: echo Starting main job, compiling readings and output of test file runs.
+    
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8' # install Python
+      
+      #- name: install python packages
+      #  run: |
+      #    python -m pip install --upgrade pip
+      #    pip install -r requirements.txt
+      
+      - name: Compile readings
+        run: python main.py
+      
+      - name: Midway note
+        run: echo Compiled readings of characters. Proceeding to generate examples from test files.
+
+      - name: Generate readings from test files.
+        run: python ReadingGenerator.py
+
+      # Runs a single command using the runners shell
+      - name: Tell user that jobs are done.
+        run: echo Jobs done!
+
+      ## Runs a set of commands using the runners shell
+      #- name: Run a multi-line script
+      #  run: |
+      #    echo Add other actions to build,
+      #    echo test, and deploy your project.
+      
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Automatically generated readings and examples." -a

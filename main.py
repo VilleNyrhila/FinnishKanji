@@ -3,6 +3,8 @@ import json
 import re
 import time
 
+from utils.fileUtils import read_a_data_file
+
 PALATALS_AFFRICATES = ("tsy", "tsyh", "dzy", )
 # Conf
 BAXTER_SUPERSEDE: bool = True
@@ -23,36 +25,33 @@ def read_data_files():
         finnic_initials, finnic_finals, finnish_initials
     yaml_counter: int = 0
     json_counter: int = 0
-
-    def read_a_data_file(target_variable, file_name: str):
-        nonlocal yaml_counter, json_counter
-        start = time.perf_counter()
-        with open(file_name, 'r', encoding='utf-8') as my_file:
-            print(f"\tReading '{my_file.name}'.")
-            if ".yaml" in my_file.name:
-                target_variable = yaml.safe_load(my_file)
-                yaml_counter += 1
-            elif ".json" in my_file.name:
-                target_variable = json.load(my_file)
-                json_counter += 1
-            end = time.perf_counter()
-            print(f"\tRead '{my_file.name}' in {end - start:0.4f} seconds. Got {len(target_variable)} items.")
-        return target_variable
     print("Reading source data files.")
     read_yaml_start = time.perf_counter()
-    guangyun = read_a_data_file(guangyun, 'data/MiddleChinese.yaml')
-    baxter = read_a_data_file(baxter, 'data/BaxterSagartData.yaml')
-    initial_map = read_a_data_file(initial_map, 'data/maps/InitialMapPlus.yaml')
-    final_map = read_a_data_file(final_map, 'data/maps/FinalMapPlus.yaml')
-    main_vowel_map = read_a_data_file(main_vowel_map, "data/maps/MainVowelMap.yaml")
-    coda_map = read_a_data_file(coda_map, "data/maps/CodaMap.yaml")
-    definitions = read_a_data_file(definitions,
-                                   "DefinitionsCollection/Chinese/CompleteRuns/DefinitionsFinnishFullPlus.yaml")
+    guangyun, yaml_counter, json_counter = read_a_data_file(guangyun, 'data/MiddleChinese.yaml',
+                                                            yaml_counter, json_counter)
+    baxter, yaml_counter, json_counter = read_a_data_file(baxter, 'data/BaxterSagartData.yaml',
+                                                          yaml_counter, json_counter)
+    initial_map, yaml_counter, json_counter = read_a_data_file(initial_map, 'data/maps/InitialMapPlus.yaml',
+                                                               yaml_counter, json_counter)
+    final_map, yaml_counter, json_counter = read_a_data_file(final_map, 'data/maps/FinalMapPlus.yaml',
+                                                             yaml_counter, json_counter)
+    main_vowel_map, yaml_counter, json_counter = read_a_data_file(main_vowel_map, "data/maps/MainVowelMap.yaml",
+                                                                  yaml_counter, json_counter)
+    coda_map, yaml_counter, json_counter = read_a_data_file(coda_map, "data/maps/CodaMap.yaml",
+                                                            yaml_counter, json_counter)
+    definitions, yaml_counter, json_counter = read_a_data_file(definitions,
+                                   "DefinitionsCollection/Chinese/CompleteRuns/DefinitionsFinnishFullPlus.yaml",
+                                                               yaml_counter, json_counter)
     read_yaml_stop = time.perf_counter()
     read_json_start = time.perf_counter()
-    finnic_initials = read_a_data_file(finnic_initials, "data/maps/MapFinnicInitials.yaml")
-    finnish_initials = read_a_data_file(finnic_initials, "data/maps/MapFinnishInitials.yaml")
-    finnic_finals = read_a_data_file(finnic_finals, "data/maps/deprecated/MapFinnicFinals.json")
+    finnic_initials, yaml_counter, json_counter = read_a_data_file(finnic_initials, "data/maps/MapFinnicInitials.yaml",
+                                                                   yaml_counter, json_counter)
+    finnish_initials, yaml_counter, json_counter = read_a_data_file(finnic_initials,
+                                                                    "data/maps/MapFinnishInitials.yaml",
+                                                                    yaml_counter, json_counter)
+    finnic_finals, yaml_counter, json_counter = read_a_data_file(finnic_finals,
+                                                                 "data/maps/deprecated/MapFinnicFinals.json",
+                                                                 yaml_counter, json_counter)
     read_json_stop = time.perf_counter()
     print(f"Read {yaml_counter} YAML files in {read_yaml_stop - read_yaml_start:0.4f} seconds and "
           f"{json_counter} JSON files in {read_json_stop - read_json_start:0.4f} seconds.")
@@ -119,9 +118,6 @@ def construct_early_finnish_pronunciation(mc_initial: str, mc_final:str,
     fi_initial = finnish_initials[mc_initial]
     if mc_initial in ('y') and medial and medial[0] == 'j':
         medial = medial[1:]
-    # if mc_initial in PALATALS_AFFRICATES:
-    #     if medial and medial[0] == 'j':
-    #         medial = medial[1:]
     if not fi_initial:
         if medial:
             if medial == 'j':
@@ -220,19 +216,26 @@ def make_entry(initial_, final_, tone, source, fanqie = None, zi = None):
                 finnic_a = f"{main_vowel_fc_}ü{coda_fc[1:]}"
         return finnic_a, medial_, main_vowel_fc_, coda_
 
-    def make_mc_reading(initial_1: str, final_1: str):
+    def make_mc_reading(initial_1: str, final_1: str, tone_: str):
+        def append_tone_mark(body_text: str):
+            if tone_ == 'B':
+                body_text += 'X'
+            elif tone_ == 'C':
+                body_text += 'H'
+            return body_text
         output = f"{initial_1}{final_1}"
         if initial_1:
-            if initial_1[-1] == 'j' and final_1[0] == 'j' or \
-                    'y' in initial_1 and initial_1[-1] == 'y' and final_1[0] == 'j':
+            if ('y' in initial_1 or 'j' in initial_1) and final_[0] == 'j':
                 output = f"{initial_1}{final_1[1:]}"  # hjjwang -> hjwang, nyje -> nye
-        return output.strip()
+        output = output.strip()
+        output = append_tone_mark(output)
+        return output
     fc_final, medial, main_vowel_fc, coda = convert_vowel_core_and_medial(final_)
     north_finnic = construct_north_finnic_pronunciation(initial_, final_, fc_final, medial, main_vowel_fc, coda)
     entry: dict = {
         "Middle-Chinese": [
             {
-                "reading": make_mc_reading(initial_, final_),
+                "reading": make_mc_reading(initial_, final_, tone),
                 "initial": initial_,
                 "final": final_,
                 "tone": tone,

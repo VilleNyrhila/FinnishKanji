@@ -92,7 +92,7 @@ ne seng	# Finnish reading, early borrowing.
 nie seng	# Finnish reading, late borrowing.
 
 南斗五車星		# Nanto Goshasei, Five Chariot Stars of South Dipper
-nom tuwX/tsyuX nguX tsyhjae/kjo seng	# Middle Chinese reading.
+nom tuwX/tsyuX nguX tsyhae/kjo seng	# Middle Chinese reading.
 nom tuu/ju nu kä/ko seng 	# North Finnic reading.
 nom tuu/ju nu kä/ko seng	# Finnish reading, early borrowing.
 nom tuu/kiu nu kiä/kio seng	# Finnish reading, late borrowing.
@@ -104,25 +104,25 @@ na liu ken	# Finnish reading, early borrowing.
 na liu kuen	# Finnish reading, late borrowing.
 
 五車炎情拳
-nguX tsyhjae/kjo hjem dzjeng gjwen	# Middle Chinese reading.
+nguX tsyhae/kjo hjem dzjeng gjwen	# Middle Chinese reading.
 nu kä/ko jem ceng ken 	# North Finnic reading.
 nu kä/ko jem seng ken	# Finnish reading, early borrowing.
 nu kiä/kio hiem tsieng kuen	# Finnish reading, late borrowing.
 
 五車風裂拳
-nguX tsyhjae/kjo pjuwng/pjuwngH ljet gjwen	# Middle Chinese reading.
+nguX tsyhae/kjo pjuwng/pjuwngH ljet gjwen	# Middle Chinese reading.
 nu kä/ko piung let ken 	# North Finnic reading.
 nu kä/ko piung let ken	# Finnish reading, early borrowing.
 nu kiä/kio piung liet kuen	# Finnish reading, late borrowing.
 
 五車波砕拳
-nguX tsyhjae/kjo pa swojH gjwen	# Middle Chinese reading.
+nguX tsyhae/kjo pa swojH gjwen	# Middle Chinese reading.
 nu kä/ko pa soi ken 	# North Finnic reading.
 nu kä/ko pa soi ken	# Finnish reading, early borrowing.
 nu kiä/kio pa suo kuen	# Finnish reading, late borrowing.
 
 五車山峨斬
-nguX tsyhjae/kjo srean ngaX tsreamX	# Middle Chinese reading.
+nguX tsyhae/kjo srean ngaX tsreamX	# Middle Chinese reading.
 nu kä/ko sän na cäm 	# North Finnic reading.
 nu kä/ko sän na säm	# Finnish reading, early borrowing.
 nu kiä/kio sän na tsäm	# Finnish reading, late borrowing.
@@ -510,7 +510,7 @@ mäng tat pong väi/voi/käi ken	# Finnish reading, early borrowing.
 miäng tuat pong hyä/huo/kyä kuen	# Finnish reading, late borrowing.
 
 北斗翻車爆裂拳
-pok tuwX/tsyuX phjwon tsyhjae/kjo paewH ljet gjwen	# Middle Chinese reading.
+pok tuwX/tsyuX phjwon tsyhae/kjo paewH ljet gjwen	# Middle Chinese reading.
 pok tuu/ju pon kä/ko päü let ken 	# North Finnic reading.
 pok tuu/ju pon kä/ko päy let ken	# Finnish reading, early borrowing.
 pok tuu/kiu puon kiä/kio päy liet kuen	# Finnish reading, late borrowing.

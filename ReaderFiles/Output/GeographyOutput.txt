@@ -118,7 +118,7 @@ käyng su	# Finnish reading, early borrowing.
 käyng su	# Finnish reading, late borrowing.
 
 四川		# Sichuan
-sijH tsyhjwen	# Middle Chinese reading.
+sijH tsyhwen	# Middle Chinese reading.
 sii ken 	# North Finnic reading.
 sii ken	# Finnish reading, early borrowing.
 sii juen	# Finnish reading, late borrowing.

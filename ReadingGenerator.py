@@ -3,6 +3,9 @@ import json
 import configparser
 import os
 import time
+
+from utils.fileUtils import read_a_data_file
+
 CONFIG = configparser.ConfigParser(allow_no_value=True)
 CONFIG.read('reading.cfg')
 
@@ -21,28 +24,16 @@ def read_data_files():
     global finnic_guangyun, shinjitai_map, simples_map, manual_map
     yaml_counter: int = 0
     json_counter: int = 0
-
-    def read_a_data_file(target_variable, file_name: str):
-        nonlocal yaml_counter, json_counter
-        start = time.perf_counter()
-        with open(file_name, 'r', encoding='utf-8') as my_file:
-            print(f"\tReading '{my_file.name}'.")
-            if ".yaml" in my_file.name:
-                target_variable = yaml.safe_load(my_file)
-                yaml_counter += 1
-            elif ".json" in my_file.name:
-                target_variable = json.load(my_file)
-                json_counter += 1
-            end = time.perf_counter()
-            print(f"\tRead '{my_file.name}' in {end - start:0.4f} seconds. Got {len(target_variable)} items.")
-        return target_variable
-
     print("Reading source data files.")
     read_data_start = time.perf_counter()
-    finnic_guangyun = read_a_data_file(finnic_guangyun, "product/FinnicKanji.yaml")
-    shinjitai_map = read_a_data_file(shinjitai_map, "data/maps/ShinjitaiMap.yaml")
-    simples_map = read_a_data_file(simples_map, "data/maps/SimplifiedChineseMap.yaml")
-    manual_map = read_a_data_file(manual_map, "data/maps/ManualMap.yaml")
+    finnic_guangyun, yaml_counter, json_counter = read_a_data_file(finnic_guangyun, "product/FinnicKanji.yaml",
+                                                                   yaml_counter, json_counter)
+    shinjitai_map, yaml_counter, json_counter = read_a_data_file(shinjitai_map, "data/maps/ShinjitaiMap.yaml",
+                                                                 yaml_counter, json_counter)
+    simples_map, yaml_counter, json_counter = read_a_data_file(simples_map, "data/maps/SimplifiedChineseMap.yaml",
+                                                               yaml_counter, json_counter)
+    manual_map, yaml_counter, json_counter = read_a_data_file(manual_map, "data/maps/ManualMap.yaml",
+                                                              yaml_counter, json_counter)
     read_data_end = time.perf_counter()
     print(f"Read source files in {read_data_end - read_data_start:0.4f} seconds.")
 
@@ -90,11 +81,6 @@ def get_mc_entry_readings(proper_zi: str):
     readings: str = ""
     for item in finnic_guangyun[proper_zi]["pronunciations"]["Middle-Chinese"]:
         reading_ = item["reading"]
-        tone_ = item["tone"]
-        if tone_ == 'B':
-            reading_ += 'X'
-        elif tone_ == 'C':
-            reading_ += 'H'
         if reading_ not in readings:
             readings += f"{reading_}/"
     readings = readings[:-1]

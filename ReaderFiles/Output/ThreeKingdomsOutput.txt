@@ -118,13 +118,13 @@ pyi sang	# Finnish reading, early borrowing.
 piy tsiang	# Finnish reading, late borrowing.
 
 赤兔馬		# Red Hare, Lu Bu's famous horse
-tsyhjek thuH maeX	# Middle Chinese reading.
+tsyhek thuH maeX	# Middle Chinese reading.
 kek tu mä 	# North Finnic reading.
 kek tu mä	# Finnish reading, early borrowing.
 kiek tu mä	# Finnish reading, late borrowing.
 
 人中有呂布馬中有赤菟		# Among men, Lü Bu. Among horses, Red Hare.
-nyin trjuwng/trjuwngH hjuwX ljoX puH maeX trjuwng/trjuwngH hjuwX tsyhjek du/syuH	# Middle Chinese reading.
+nyin trjuwng/trjuwngH hjuwX ljoX puH maeX trjuwng/trjuwngH hjuwX tsyhek du/syuH	# Middle Chinese reading.
 nin tiung juu lo pu mä tiung juu kek tu/siu 	# North Finnic reading.
 nin tiung juu lo pu mä tiung juu kek tu/siu	# Finnish reading, early borrowing.
 nin tiung hiu lio pu mä tiung hiu kiek tu/su	# Finnish reading, late borrowing.

@@ -13,6 +13,8 @@
 香港  # Hong Kong
 臺灣  # Taiwan
 台灣  # Also Taiwan
+黄河  # The Yellow River
+長江  # Yangtze River
 ; Chinese provinces
 广东  # Guangdong
 山东  # Shangdong

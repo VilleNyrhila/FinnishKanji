@@ -79,6 +79,18 @@ ji vän 	# North Finnic reading.
 ji vän	# Finnish reading, early borrowing.
 ji vän	# Finnish reading, late borrowing.
 
+黄河		# The Yellow River
+hwang ha	# Middle Chinese reading.
+vang ha 	# North Finnic reading.
+vang ha	# Finnish reading, early borrowing.
+huang ha	# Finnish reading, late borrowing.
+
+長江		# Yangtze River
+drjang/trjangX kaewng	# Middle Chinese reading.
+tang käüng 	# North Finnic reading.
+tang käyng	# Finnish reading, early borrowing.
+tiang käyng	# Finnish reading, late borrowing.
+
 
 [Chinese provinces]:
 广东		# Guangdong

@@ -38,7 +38,7 @@ would be adjacent in terms of the time period to the Japanese on'yomi and Korean
 **Neither is this a translation machine.** 
 This project does not take text in Chinese or other language and output a translation into Finnish or other language.
 That sort of a program is fundamentally different to what is provided here. 
-No, what this project and disclosed program does is provide a hypothetical _"traditional Finnish pronunciation"_ 
+No, what this project and enclosed program does is provide a hypothetical _"traditional Finnish pronunciation"_ 
 of Chinese characters in a way that is fundamentally equivalent to the very real traditional borrowed pronunciations 
 of Chinese characters in Japanese and Korean.
   

@@ -4,7 +4,9 @@ Or _"Sinographs for Finnish"_
 
 This is a project to construct a hypothetical but authoritative set of borrowed Finnish *pronunciations* for Chinese characters.
 This is intended as a Finnish counterpart to traditional Japanese on'yomi pronunciations of kanji, 
-the pronunciations of Korean hanja, or the Vietnamese Han Nom.
+the pronunciations of Korean hanja, or the Vietnamese Han Nom.  
+  
+The idea and essence of this project could be crystallized in the question: _"What if Finnish had kanji?"_
 
 The theory under which these borrowings are constructed is described in a PDF document in the folder docs/theory/, 
 in a file called _"Suomalaiset kanjit.pdf"_. The document is in Finnish. 
@@ -17,23 +19,48 @@ The products of the ReadingGenerator are output to **ReaderFiles/Output**, into 
 
 There are many sub-projects within this project, many of which are underdeveloped. 
 The principal functionality is the generation of Finnish readings for Chinese characters 
-and the application of those pronunciations to test files in ReaderFiles/Input/. 
-
-**Why was this made?**  
+and the application of those pronunciations to test files in ReaderFiles/Input/.  
+ 
+### Questions and clarifications
+#### Why was this made?  
 To break into personal anecdotes briefly, I've always been fascinated by the Chinese writing characters. 
 I've always admired their ability to capture complicated ideas into just a few syllables. 
 I wanted for the Finnish language to also have something like it.
 
-**What this is not?**   
-Strictly speaking, this project is not a dictionary. 
+#### What this is not?   
+Strictly speaking, **this project is not a dictionary.** 
 Although there are plans in place to include a dictionary of the meanings of Chinese characters into Finnish,
-this is not yet complete. This project is most importantly about constructing a set of borrowed _pronunciations_ of Chinese characters for Finnish 
-in a way that is plausible _within the frames of the historical phonetics_ of these two languages.  
-No claim is asserted here about any historical contact between Medieval Finns and China.
-It is difficult to conceive a set of circumstances, 
+this feature is not yet complete. 
+This project is most importantly about constructing a set of borrowed _pronunciations_ of Chinese characters for Finnish 
+in a way that is plausible _within the frames of the historical phonetics_ of these two languages and 
+would be adjacent in terms of the time period to the Japanese on'yomi and Korean pronunciations.  
+  
+**Neither is this a translation machine.** 
+This project does not take text in Chinese or other language and output a translation into Finnish or other language.
+That sort of a program is fundamentally different to what is provided here. 
+No, what this project and disclosed program does is provide a hypothetical _"traditional Finnish pronunciation"_ 
+of Chinese characters in a way that is fundamentally equivalent to the very real traditional borrowed pronunciations 
+of Chinese characters in Japanese and Korean.
+  
+No claim is asserted here about any actual historical contact having taken place between Iron Age Finns 
+and their contemporary China.
+It is difficult to conceive a set of circumstances,
 where Dark Age or Viking Age Finns might have come under a strong enough Chinese cultural influence 
 that they would've adopted the Chinese writing system like the Koreans and the Japanese did. 
-It would certainly have to be fantasy scenario.
+It would certainly have to be a fantasy scenario.
+
+#### What is the use of this?
+To be frank, I myself have no idea. This project was created out of a personal passion for the goal of this project. 
+I wanted it to exist, so I created it.  
+
+That said, it is not like some potential use for these could never exist. 
+Just because I or most people can't conceive of it, doesn't mean someone out there could not.
+That is to say, perhaps someone else out there might find these interesting or useful somehow.
+
+#### Can I use these Finnish pronunciations?
+I grant full permission without asking to anyone who wants to use my generated set of Finnish pronunciations
+for Chinese characters, whether for commercial or non-commercial uses. I ask not for any royalties.
+Please think kindly of me when you use them.
 
 ## Notes about licences
 The Baxter-Sagart data on the pronunciation of 9 000 characters is **licenced under CC BY 4.0**

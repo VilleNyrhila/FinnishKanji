@@ -1,5 +1,3 @@
-import yaml
-import json
 import configparser
 import os
 import time
@@ -56,7 +54,6 @@ def get_finnish_zi_readings(zi: str):
 def get_finnic_zi_readings(zi: str):
     readings: str = ""
     done_readings: list = []
-    # _ = finnic_guangyun[zi]
     for item in finnic_guangyun[zi]["pronunciations"]["early-loan"]:
         reading_ = item['Proto-Finnic']
         if reading_ not in done_readings:
@@ -68,7 +65,6 @@ def get_finnic_zi_readings(zi: str):
 def get_late_loan_readings(zi: str):
     readings: str = ""
     done_readings: list = []
-    # _ = finnic_guangyun[zi]
     for item in finnic_guangyun[zi]["pronunciations"]["late-loan"]:
         reading_ = item['Early-Finnish']
         if reading_ not in done_readings:
@@ -125,11 +121,7 @@ def generate_reading(line: str) -> str:
                     proper_zi = get_manual_map(proper_zi)
                 else:
                     save_unresolved_character(zi)
-        if proper_zi not in finnic_guangyun:
-            reading_fi = proper_zi
-        else:
-            reading_fi = get_finnic_zi_readings(proper_zi)
-
+        if proper_zi in finnic_guangyun:
             north_finnic_reading = get_finnic_zi_readings(proper_zi)
             middle_chinese_reading = ""
             derived_finnish = ""
@@ -143,7 +135,6 @@ def generate_reading(line: str) -> str:
         zi_line += zi
 
         north_finnic_line += f"{north_finnic_reading} "
-        # derived_finnic_line += f"{reading_fi} "
         mc_line += f"{middle_chinese_reading} "
         derived_finnic_line += f"{derived_finnish} "
 

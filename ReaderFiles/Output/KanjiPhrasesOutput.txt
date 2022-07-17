@@ -203,7 +203,7 @@ juu meng 	# North Finnic reading.
 juu meng	# Finnish reading, early borrowing.
 hiu mieng	# Finnish reading, late borrowing.
 
-殺気		# "killing intent, murderous air (about you)", jpn. "sakki"
+殺気		# "killing intent, murderous air (about somebody)", jpn. "sakki"
 sreat/sreajH khj+jH/xj+jH	# Middle Chinese reading.
 sät/säi küi 	# North Finnic reading.
 sät/säi kyi	# Finnish reading, early borrowing.
@@ -298,6 +298,12 @@ kjaemH dzriX	# Middle Chinese reading.
 käm ci 	# North Finnic reading.
 käm si	# Finnish reading, early borrowing.
 kiäm tsi	# Finnish reading, late borrowing.
+
+剣客		# kenkyaku; fencer, swordsman
+kjaemH khaek	# Middle Chinese reading.
+käm käk 	# North Finnic reading.
+käm käk	# Finnish reading, early borrowing.
+kiäm käk	# Finnish reading, late borrowing.
 
 生命		# life force, jpn. seimei
 sraeng/srjaeng mjaengH	# Middle Chinese reading.

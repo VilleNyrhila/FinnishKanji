@@ -33,7 +33,7 @@
 主人  # Owner, master, husband
 面子  # "face", Jpn. "menzu", Mandarin "mianzu"
 有名  # "famous", jpn. "yuumei"
-殺気  # "killing intent, murderous air (about you)", jpn. "sakki"
+殺気  # "killing intent, murderous air (about somebody)", jpn. "sakki"
 正座  # "seiza"
 復習  # review (of learned material); revision
 復讐  # vengeance
@@ -49,6 +49,7 @@
 階段  # stairs
 段階  # a step (on the stairs)
 剣士  # kenshi, miekkamies
+剣客  # kenkyaku; fencer, swordsman
 生命  # life force, jpn. seimei
 雷神  # Raijin
 雷電  # Raiden

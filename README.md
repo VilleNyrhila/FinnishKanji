@@ -21,6 +21,27 @@ There are many sub-projects within this project, many of which are underdevelope
 The principal functionality is the generation of Finnish readings for Chinese characters 
 and the application of those pronunciations to test files in ReaderFiles/Input/.  
  
+### Format for the ReadingGenerator input files
+The ReadingGenerator takes input files in a very simple plaintext format. 
+The format is admittedly rather ad hoc, but convenient enough.
+    
+The ReadingGenerator takes each individual line in an input file, 
+and outputs Middle Chinese, North Finnic, and Finnish readings for the 
+Chinese characters on that line to a corresponding line in the output file. 
+  
+'#' as the first character in a line designates the line as a comment 
+and will not be appended to the output file.
+However, if '#' comes after a character entry, 
+the comment will be appended to the corresponding line in the output file.  
+  
+';' as the first character of a line designates it as a header. 
+This is useful for delineating vocabulary and phrases by theme.
+
+Other than these, there are no special characters. 
+ReadingGenerator is intended only for demonstrating the aforementioned 
+readings of Chinese characters. 
+ 
+ 
 ### Questions and clarifications
 #### Why was this made?  
 To break into personal anecdotes briefly, I've always been fascinated by the Chinese writing characters. 

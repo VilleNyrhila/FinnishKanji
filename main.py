@@ -6,6 +6,7 @@ import time
 from utils.fileUtils import read_a_data_file
 
 PALATALS_AFFRICATES = ("tsy", "tsyh", "dzy", )
+ROUND_VOWELS = ('u', 'o', 'y', 'ü', 'ö')
 # Conf
 BAXTER_SUPERSEDE: bool = True
 
@@ -104,7 +105,7 @@ def construct_north_finnic_pronunciation(mc_initial: str, mc_final:str,
             if 'j' in medial:
                 if fc_final[0] in ('u', 'i'):
                     fc_final = "i" + fc_final
-    if mc_initial in PALATALS_AFFRICATES and fc_final[0] in ('u', 'o'):
+    if mc_initial in PALATALS_AFFRICATES and fc_final[0] in ROUND_VOWELS:
         fc_initial = 'j'  # Post-alveolar affricates were borrowed as 'j' when followed by rounded vowels.
     output = f"{fc_initial}{fc_final}"
     output = output.strip()
@@ -154,7 +155,7 @@ def construct_early_finnish_pronunciation(mc_initial: str, mc_final:str,
     if main_vowel_fc in ('ä', 'ü'):
         tmp_fi = tmp_fi.replace('ü', 'y')
         tmp_fi = tmp_fi.replace('u', 'y')
-    if mc_initial in PALATALS_AFFRICATES and tmp_fi[0] in ('u', 'o'):
+    if mc_initial in PALATALS_AFFRICATES and tmp_fi[0] in ROUND_VOWELS:
         fi_initial = 'j'  # Post-alveolar affricates were borrowed as 'j' when followed by rounded vowels.
     output = f"{fi_initial}{tmp_fi}"
     output = output.strip()

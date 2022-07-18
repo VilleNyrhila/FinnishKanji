@@ -305,6 +305,12 @@ käm käk 	# North Finnic reading.
 käm käk	# Finnish reading, early borrowing.
 kiäm käk	# Finnish reading, late borrowing.
 
+天誅		# Tenchuu, divine punishment, "Wrath of the Heavens"
+then/xen trju	# Middle Chinese reading.
+ten/ken tiu 	# North Finnic reading.
+ten/ken tiu	# Finnish reading, early borrowing.
+ten/ken tiu	# Finnish reading, late borrowing.
+
 生命		# life force, jpn. seimei
 sraeng/srjaeng mjaengH	# Middle Chinese reading.
 säng mäng 	# North Finnic reading.

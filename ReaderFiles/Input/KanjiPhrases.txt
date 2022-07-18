@@ -50,6 +50,7 @@
 段階  # a step (on the stairs)
 剣士  # kenshi, miekkamies
 剣客  # kenkyaku; fencer, swordsman
+天誅  # Tenchuu, divine punishment, "Wrath of the Heavens"
 生命  # life force, jpn. seimei
 雷神  # Raijin
 雷電  # Raiden

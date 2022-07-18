@@ -65,3 +65,9 @@ pon ten 	# North Finnic reading.
 pon ten	# Finnish reading, early borrowing.
 puon ten	# Finnish reading, late borrowing.
 
+竜宮城		# Ryuuguujou, a fabled castle at the bottom of the sea from the tale of Urashima Tarou.
+ljowng/maewng kjuwng dzyeng	# Middle Chinese reading.
+loung/mäüng kiung keng 	# North Finnic reading.
+loung/mäyng kiung keng	# Finnish reading, early borrowing.
+liong/mäyng kiung kieng	# Finnish reading, late borrowing.
+

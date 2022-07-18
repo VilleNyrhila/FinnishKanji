@@ -12,3 +12,4 @@
 音読  # On-yo(mi)
 訓読  # Kun-yo(mi)
 本田    # Honda
+竜宮城 # Ryuuguujou, a fabled castle at the bottom of the sea from the tale of Urashima Tarou.

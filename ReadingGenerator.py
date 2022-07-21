@@ -183,8 +183,9 @@ if __name__ == '__main__':
     if CONFIG.getboolean("READ OPTIONS", "allFiles"):
         for root, dirs, files in os.walk("ReaderFiles/Input"):
             for source_file_name in files:
-                compose_to_file(source_file_name)
-                counter += 1
+                if source_file_name not in (".gitignore"):
+                    compose_to_file(source_file_name)
+                    counter += 1
     else:
         for source_file_name, _ in CONFIG.items('SOURCE FILES'):
             if source_file_name not in CONFIG['DEFAULT']:

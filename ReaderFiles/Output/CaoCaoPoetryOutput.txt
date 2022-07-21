@@ -51,5 +51,5 @@ päk kuot lu hiu jä  tsen li miu kei miäng	# Finnish reading, late borrowing.
 sraeng/srjaeng mjin paek ywijH 'jit  nemH tsyi dwanX/twanX/twanH nyin drjang	# Middle Chinese reading.
 säng min päk jui jit  nem ki tan nin tang 	# North Finnic reading.
 säng min päk jui jit  nem ki tan nin tang	# Finnish reading, early borrowing.
-säng/siäng miin päk jui jit  nem ki tuan nin tiang	# Finnish reading, late borrowing.
+säng/siäng min päk jui jit  nem ki tuan nin tiang	# Finnish reading, late borrowing.
 

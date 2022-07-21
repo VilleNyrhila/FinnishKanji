@@ -353,7 +353,7 @@ tsom/tsim/sam/sim kiang	# Finnish reading, late borrowing.
 pjit sying/syingH	# Middle Chinese reading.
 pit sing 	# North Finnic reading.
 pit sing	# Finnish reading, early borrowing.
-piit sing	# Finnish reading, late borrowing.
+pit sing	# Finnish reading, late borrowing.
 
 至上最強		# Strongest in history
 tsyijH dzyangX/dzyangH tswajH gjang	# Middle Chinese reading.

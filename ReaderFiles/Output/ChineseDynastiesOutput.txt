@@ -399,7 +399,7 @@ tang tai tsoung	# Finnish reading, late borrowing.
 liX syejH mjin	# Middle Chinese reading.
 li sei min 	# North Finnic reading.
 li sei min	# Finnish reading, early borrowing.
-li sie miin	# Finnish reading, late borrowing.
+li sie min	# Finnish reading, late borrowing.
 
 武則天		# Wu Zetian, the only female emperor.
 mjuX tsok then/xen	# Middle Chinese reading.
@@ -495,7 +495,7 @@ kiu on loi	# Finnish reading, late borrowing.
 kaewng draek mjin	# Middle Chinese reading.
 käüng täk min 	# North Finnic reading.
 käyng täk min	# Finnish reading, early borrowing.
-käyng täk miin	# Finnish reading, late borrowing.
+käyng täk min	# Finnish reading, late borrowing.
 
 胡锦涛		# Hu Jintao
 hu kimX daw	# Middle Chinese reading.

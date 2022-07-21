@@ -133,12 +133,13 @@ def construct_early_finnish_pronunciation(mc_initial: str, mc_final:str,
         if coda[0] in ('w', 'j'):
             coda_vowel = coda[0]
     if medial:
-        if medial in ('w'):
+        if medial in ('w') and main_vowel_fc not in ('u', 'y', 'ü'):
             tmp_fi = f"u{tmp_fi}"
-        elif medial in ('j', 'ji'):
+        elif medial in ('j', 'ji') and main_vowel_fc != 'i':
             tmp_fi = f"i{tmp_fi}"
         elif medial == 'jw':
             if mc_initial in ('h', "hj"):
+                # 王 hjwang　-> juang
                 fi_initial = 'j'
                 tmp_fi = f"u{tmp_fi}"
             else:

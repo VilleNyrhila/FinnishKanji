@@ -3,6 +3,7 @@
 孔夫子  # Also Confucius
 儒家  # Confucianism
 儒教  # Also Confucianism
+華夏  # Huaxia, a term for Chinese and ancestrally related peoples
 # The Five Constants
 仁   # Benevolence (ren)
 義   # Righteousness (yi)

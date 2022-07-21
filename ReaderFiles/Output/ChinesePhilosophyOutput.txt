@@ -23,6 +23,12 @@ niu käü 	# North Finnic reading.
 niu käy	# Finnish reading, early borrowing.
 niu käy	# Finnish reading, late borrowing.
 
+華夏		# Huaxia, a term for Chinese and ancestrally related peoples
+xwae/hwae/hwaeH haeX/haeH	# Middle Chinese reading.
+kä/vä hä 	# North Finnic reading.
+kä/vä hä	# Finnish reading, early borrowing.
+kyä/hyä hä	# Finnish reading, late borrowing.
+
 仁		# Benevolence (ren)
 nyin	# Middle Chinese reading.
 nin 	# North Finnic reading.

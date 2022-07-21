@@ -51,7 +51,7 @@ a siu la	# Finnish reading, late borrowing.
 pa la mjit ta	# Middle Chinese reading.
 pa la mit ta 	# North Finnic reading.
 pa la mit ta	# Finnish reading, early borrowing.
-pa la miit ta	# Finnish reading, late borrowing.
+pa la mit ta	# Finnish reading, late borrowing.
 
 地獄		# Hell
 dijH ngjowk	# Middle Chinese reading.
@@ -87,7 +87,7 @@ song	# Finnish reading, late borrowing.
 pjijX/pjijH khjuw	# Middle Chinese reading.
 pii kiu 	# North Finnic reading.
 pii kiu	# Finnish reading, early borrowing.
-pii kiu	# Finnish reading, late borrowing.
+pi kiu	# Finnish reading, late borrowing.
 
 如意金箍棒		# Ruyi Jingu Bang, the staff of Sun Wukong
 nyo 'iH kim ku baewngX	# Middle Chinese reading.

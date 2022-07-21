@@ -45,7 +45,7 @@ mii kuok	# Finnish reading, late borrowing.
 'jaeng kjit lijH	# Middle Chinese reading.
 jäng kit lii 	# North Finnic reading.
 jäng kit lii	# Finnish reading, early borrowing.
-jäng kiit lii	# Finnish reading, late borrowing.
+jäng kit lii	# Finnish reading, late borrowing.
 
 
 [Chinese places]:
@@ -235,7 +235,7 @@ kiang koi	# Finnish reading, late borrowing.
 kjit lim	# Middle Chinese reading.
 kit lim 	# North Finnic reading.
 kit lim	# Finnish reading, early borrowing.
-kiit lim	# Finnish reading, late borrowing.
+kit lim	# Finnish reading, late borrowing.
 
 内蒙古自		# Inner Mongolia
 nop/nwojH muwng kuX dzijH	# Middle Chinese reading.

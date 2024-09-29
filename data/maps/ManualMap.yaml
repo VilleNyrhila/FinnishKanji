@@ -1,6 +1,8 @@
 # Manually added in homophonous characters.
 # Source for homophony added in a comment on the same line, when avaiable
 # For example: kSemanticVariant, which means the information was given in the characters entry in the Unihan database.
+。: .  # A mere dot.
+
 姫: 姬
 竜: 龍
 亀: 龜
@@ -118,3 +120,8 @@
 臟: 増  # Same as 臓.
 叙: 敘  # kTraditionalVariant
 敍: 敘  # kSemanticVariant
+启: 啓  # kSemanticVariant
+毘: 毗  # kSemanticVariant
+兗: 兖  # kSimplifiedVariant
+啟: 啓  # kSemanticVariant
+瓚: 賛  # Chosen as phonetic radicals are mostly the same and contemporary pronunciations match. Designated variant was unhelpful.

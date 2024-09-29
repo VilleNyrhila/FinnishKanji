@@ -25,7 +25,7 @@ nom tuu/ju päk lu ken 	# North Finnic reading.
 nom tuu/ju päk lu ken	# Finnish reading, early borrowing.
 nom tuu/kiu päk lu kuen	# Finnish reading, late borrowing.
 
-仁星
+仁星		# Star of Benevolence, Jinsei
 nyin seng	# Middle Chinese reading.
 nin seng 	# North Finnic reading.
 nin seng	# Finnish reading, early borrowing.
@@ -37,7 +37,7 @@ nom tuu/ju puung vang ken 	# North Finnic reading.
 nom tuu/ju puung vang ken	# Finnish reading, early borrowing.
 nom tuu/kiu puung huang kuen	# Finnish reading, late borrowing.
 
-将星
+将星		#  Star of Leadership, Shōsei
 tsjang/tsjangH seng	# Middle Chinese reading.
 cang seng 	# North Finnic reading.
 sang seng	# Finnish reading, early borrowing.
@@ -49,7 +49,7 @@ nom tuu/ju huung häük/hak ken 	# North Finnic reading.
 nom tuu/ju huung häyk/hak ken	# Finnish reading, early borrowing.
 nom tuu/kiu huung häyk/hak kuen	# Finnish reading, late borrowing.
 
-妖星
+妖星		# Star of Enchantment, Yōsei
 'jew seng	# Middle Chinese reading.
 jeu seng 	# North Finnic reading.
 jeu seng	# Finnish reading, early borrowing.
@@ -61,7 +61,7 @@ nom tuu/ju ku ciu ken 	# North Finnic reading.
 nom tuu/ju ku siu ken	# Finnish reading, early borrowing.
 nom tuu/kiu ku tsiu kuen	# Finnish reading, late borrowing.
 
-殉星
+殉星		# Star of Martyrdom, Junsei
 zwinH seng	# Middle Chinese reading.
 suin seng 	# North Finnic reading.
 suin seng	# Finnish reading, early borrowing.
@@ -73,7 +73,7 @@ nom tuu/ju liuk seng ken cai huu cang 	# North Finnic reading.
 nom tuu/ju liuk seng ken sai huu sang	# Finnish reading, early borrowing.
 nom tuu/kiu liuk sieng kuen tsua huu tsiang	# Finnish reading, late borrowing.
 
-慈母星
+慈母星		# Merciful Mother Star, Jibosei
 dzi muwX seng	# Middle Chinese reading.
 ci muu seng 	# North Finnic reading.
 si muu seng	# Finnish reading, early borrowing.
@@ -85,7 +85,7 @@ nom tuu/ju sui teu ken 	# North Finnic reading.
 nom tuu/ju sui teu ken	# Finnish reading, early borrowing.
 nom tuu/kiu sui teu kuen	# Finnish reading, late borrowing.
 
-義星
+義星		# Star of Justice, Gisei
 ngjeH seng	# Middle Chinese reading.
 ne seng 	# North Finnic reading.
 ne seng	# Finnish reading, early borrowing.
@@ -103,25 +103,25 @@ na liu ken 	# North Finnic reading.
 na liu ken	# Finnish reading, early borrowing.
 na liu kuen	# Finnish reading, late borrowing.
 
-五車炎情拳
+五車炎情拳		# Gosha Enjō Ken, Five Chariots Passionate Flame Fist
 nguX tsyhae/kjo hjem dzjeng gjwen	# Middle Chinese reading.
 nu kä/ko jem ceng ken 	# North Finnic reading.
 nu kä/ko jem seng ken	# Finnish reading, early borrowing.
 nu kiä/kio hiem tsieng kuen	# Finnish reading, late borrowing.
 
-五車風裂拳
+五車風裂拳		# Gosha Fūretsu Ken, Five Chariots Wind Split Fist
 nguX tsyhae/kjo pjuwng/pjuwngH ljet gjwen	# Middle Chinese reading.
 nu kä/ko piung let ken 	# North Finnic reading.
 nu kä/ko piung let ken	# Finnish reading, early borrowing.
 nu kiä/kio piung liet kuen	# Finnish reading, late borrowing.
 
-五車波砕拳
+五車波砕拳		# Gosha Hasui Ken, Five Chariots Wave Crush Fist
 nguX tsyhae/kjo pa swojH gjwen	# Middle Chinese reading.
 nu kä/ko pa soi ken 	# North Finnic reading.
 nu kä/ko pa soi ken	# Finnish reading, early borrowing.
 nu kiä/kio pa suo kuen	# Finnish reading, late borrowing.
 
-五車山峨斬
+五車山峨斬		# Gosha Sanga Zan, Five Chariots Mountain Slash
 nguX tsyhae/kjo srean ngaX tsreamX	# Middle Chinese reading.
 nu kä/ko sän na cäm 	# North Finnic reading.
 nu kä/ko sän na säm	# Finnish reading, early borrowing.
@@ -146,6 +146,44 @@ daH/dajH gik seng	# Middle Chinese reading.
 ta/tai kik seng 	# North Finnic reading.
 ta/tai kik seng	# Finnish reading, early borrowing.
 ta/tai kik seng	# Finnish reading, late borrowing.
+
+
+[Miscellaneous]:
+北斗練気闘座		# Hokuto Renkitōza
+pok tuwX/tsyuX lenH khj+jH/xj+jH tuwH dzwaH	# Middle Chinese reading.
+pok tuu/ju len küi tuu ca 	# North Finnic reading.
+pok tuu/ju len kyi tuu sa	# Finnish reading, early borrowing.
+pok tuu/kiu len kiy tuu tsua	# Finnish reading, late borrowing.
+
+死兆星		# Shichōsei, the Death Omen Star, Alcor
+sijX drjewX seng	# Middle Chinese reading.
+sii teu seng 	# North Finnic reading.
+sii teu seng	# Finnish reading, early borrowing.
+sii tie seng	# Finnish reading, late borrowing.
+
+世紀末救世主		# Seikimatsu kyuuseishu, the End of Century Savior
+syejH kiX mat kjuwH syejH tsyuX	# Middle Chinese reading.
+sei ki mat kiu sei ju 	# North Finnic reading.
+sei ki mat kiu sei ju	# Finnish reading, early borrowing.
+sie ki mat kiu sie kiu	# Finnish reading, late borrowing.
+
+世紀末覇者		# Seikimatus kyuuseishu, the End of Century Conqueror
+syejH kiX mat paeH/phaek tsyaeX	# Middle Chinese reading.
+sei ki mat pä/päk kä 	# North Finnic reading.
+sei ki mat pä/päk kä	# Finnish reading, early borrowing.
+sie ki mat pä/päk kiä	# Finnish reading, late borrowing.
+
+継承者		# inheritor
+kejH dzying tsyaeX	# Middle Chinese reading.
+kei king kä 	# North Finnic reading.
+kei king kä	# Finnish reading, early borrowing.
+kei king kiä	# Finnish reading, late borrowing.
+
+一子相伝		# Isshi Sōden, Sole Succession
+'jit tsiX sjang/sjangH drjwen/drjwenH/trjwenH	# Middle Chinese reading.
+jit ci sang ten 	# North Finnic reading.
+jit si sang ten	# Finnish reading, early borrowing.
+jit tsi siang tuen	# Finnish reading, late borrowing.
 
 
 [Hokuto Shinken Moves]:

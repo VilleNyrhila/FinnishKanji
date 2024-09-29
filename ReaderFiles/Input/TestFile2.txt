@@ -1,4 +1,4 @@
-; Valitut lauseet
+; Valitut fraasit
 駝鹿  # hirvi
 矢   # nuoli
 馬克  # rajamaa

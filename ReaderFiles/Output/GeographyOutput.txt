@@ -377,3 +377,11 @@ ping/piung king 	# North Finnic reading.
 ping/piung king	# Finnish reading, early borrowing.
 ping/piung king	# Finnish reading, late borrowing.
 
+
+[Singapore]:
+李光耀		# Lee Kuan Yew
+liX kwang yewH	# Middle Chinese reading.
+li kang jeu 	# North Finnic reading.
+li kang jeu	# Finnish reading, early borrowing.
+li kuang jeu	# Finnish reading, late borrowing.
+

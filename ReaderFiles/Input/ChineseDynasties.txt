@@ -71,6 +71,18 @@
 唐太宗 # Tang Taizong
 李世民 # Li Shimin, Taizong before becoming emperor.
 武則天 # Wu Zetian, the only female emperor.
+; Yuan dynasty
+元朝  # Yuan Dynasty
+成吉思汗    # Chingis Khan
+法天啟運聖武皇帝    # Chingis Khan posthumous name
+太祖 # Chingis Khan temple name
+孛兒只斤鐵木真 # Chingis Khan given name, Borjigin Temujin
+英文皇帝    # Ögedei Khan posthumous name
+太宗  # Ögedei's temple name
+桓肅皇帝    # Möngke's posthumous name
+憲宗  # Möngke's temple name
+聖德神功文武皇帝    # Kublai's posthumous name
+世祖  # Kublai's temple name
 ; Ancient Shu Kingdom
 三星堆 # Sanxingdui (bronze age Chinese culture), ancient Shu kingdom
 蜀國  # the Shu state
@@ -122,3 +134,4 @@
 花木蘭 # Hua Mulan
 其兒多加利足尼 # Inariyama sword, front side "sönö kö Takari sokonay"
 泰伯  # Taibo, founder of the Wu kingdom and supposed ancestor of the Japanese
+羌   # the Qiang, an ancient people neighboring China and frequently ruled by the Chinese.

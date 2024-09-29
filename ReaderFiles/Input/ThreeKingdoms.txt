@@ -1,7 +1,22 @@
 ; Three Kingdoms
+三國志 # "Records of the Three Kingdoms", the authoritative history of the Three Kingdoms.
+陳壽承祚    # Chen Shou, styled Chengzuo, the author of the Records.
+三國演義    # Romance of the Three Kingdoms, the massively influential retelling of the story.
+羅本貫中    # Luo Ben Guangzhong, the author of the Romance.
 ; Dynasty Warriors
 三國無双   # Simplified character '双'
 三國無雙
+; Kingdoms
+曹魏  # Cao Wei
+蜀漢  # Shu Han
+孫吳  # Sun Wu
+東吳  # Eastern Wu, other name of Sun Wu
+司馬晉 # Sima Jin, the kingdom which emerged from Wei and eventually unified China.
+; Places
+洛阳市 # Luoyang, capital of the Han Dynasty
+虎牢关 # Hu Lao Pass, lit. "Tiger Cage Pass"
+長安  # Chang'an, the second capital of Dong Zhuo
+赤壁  # Chi Bi, aka the Red Cliff
 ; Wei
 曹操孟德    # Cao Cao Mengde
 曹丕子桓    # Cao Pi Zihuan
@@ -18,10 +33,70 @@
 江東之虎    # Tiger of Jiangdong
 孫策伯符    # Sun Ce Bofu
 孫權仲謀    # Sun Quan Zhongmou
-; Other
+; Jin
+司馬昭子上   # Sima Zhao Zishang, first king of Jin.
+司馬炎安世   # Sima Yan Anshi, first emperor of Jin. Unified China.
+晉武帝 # Emperor Wu of Jin, Sima Yan's imperial name
+; The Story of Lu Bu
+丁原建陽  # Ding Yuan Jianyang, Lu Bu's first master
 董卓仲穎  # Dong Zhuo Zhongying
 呂布奉先    # Lu Bu Fengxiang / Ryofu Housen
 飛将  # "The Flying General", Lu Bu's moniker
 赤兔馬     # Red Hare, Lu Bu's famous horse
 人中有呂布馬中有赤菟  # Among men, Lü Bu. Among horses, Red Hare.
+貂蟬  # Diao Chan
+王允子师  # Wang Yun Zishi
+李傕稚然    # Li Jue Zhiran
+郭汜  # Guo Si
+; Yellow Turbans
+黃巾之亂    # Yellow Turban Conflict
+張角  # Zhang Jue/Jiao, the founder of the Yellow Turbans.
+大賢良師    # Great Teacher, Zhang Jiao's title.
+天公將軍    # General of Heaven, also Zhang Jiao's title.
+張寶  # Zhang Bao, Zhang Jiao's brother and second in command.
+地公將軍    # General of Earth, Zhang Bao's title
+張梁  # Zhang Liang, Zhang Jiao's third in command.
+人公將軍    # General of the People, Zhang Liang's title.
+蒼天已死，黃天當立。歲在甲子，天下大吉。    # Yellow Turbans' slogan
+黄老  # Huang-Lao, a deity worshipped by the Yellow Turbans.
+於夫羅 # Yufuluo, personal name of a Xiongnu leader who supported the Yellow Turbans.
+持至尸逐侯   # Yufuluo's other name.
+; Han Emperors
+漢靈帝 # Emperor Ling of Han. Corrupt emperor, the Yellow Turban rebellion began during his reign.
+劉宏  # Liu Hong, Emperor Ling's personal name.
+漢少帝 # Emperor Shao of Han, deposed by Dong Zhuo
+劉辯  # Liu Bian, emperor Shao's personal name
+漢獻帝 # Emperor Xian of Han, put in by Dong Zhuo. Last emperor of the Han Dynasty, bar for the Shu Han.
+劉協伯和    # Liu Xie, styled Bohe, Emperor Xian's personal name. Dethroned by Cao Pi.
+; Provinces
+豫州  # Yuzhou
+冀州  # Jizhou
+兖州  # Yanzhou
+青州  # Qingzhou
+徐州  # Xuzhou
+荊州  # Jingzhou
+揚州  # Yangzhou
+益州  # Yizhou
+涼州  # Liangzhou
+并州  # Bingzhou
+幽州  # Youzhou
+朔方  # Shuofang
+交趾  # Jiaozhi
+; Other warlords
+公孫瓚伯珪   # Gongsun Zan Bogui
+陶謙恭祖  # Tao Qian Gongzu
+劉璋季玉    # Liu Zhang Jiyu
+劉表景升    # Liu Biao Jingsheng
+士燮威彥    # Shi Xie Weiyan
+袁譚顯思    # Yuan Tan Xiansi, Inspector of Qing Province (southern parts, contested)
+田楷  # Tian Kai, Inspector of Qing Province (northern parts briefly, contested)
+高幹元才    # Gao Gan Yuancai
+韓遂文約    # Han Sui Wenyue
+馬騰壽成    # Ma Teng Shoucheng
+; Other
 袁紹本初  # Yuan Shao Benchu
+袁术公路  # Yuan Shu Gonglu
+華雄 # Hua Xiong, the ferocious warrior slaing by Guan Yu at Guangdong
+何進遂高  # He Jin Suigao, the general who confronted the eunuch faction
+關刀  # Guandao, the name for weapons of the type which Guan Yu used.
+偃月刀 # Yanyuedao, the other name for a guandao

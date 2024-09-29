@@ -1,11 +1,12 @@
 ; Buddhist terms and phrases
-仏教  # Buddhism
-顕教  #Kengyō; exoteric Buddhism; public Buddhist teachings
-密教  # esoteric Buddhism; Tantric Buddhism; Vajrayana; secret Buddhist teachings; Mikkyō
-浄土宗 # Pure Land sect (of Buddhism); Jodo (sect)
-浄土真宗    #  "The True Essence of the Pure Land Teaching"
-一向一揆    # Ikkō-ikki, "Ikkō-shū Uprising"
+釋迦牟尼    # Sakyamuni
+釈迦  # Shaka, "Shakyamuni"
+仏陀  # Buddha
 菩薩  # Boddhisattva
+羅漢  # Arhat
+阿羅漢 # Arhat, alternative form
+転輪聖王    # Chakravartin, "The one who spins the wheel", emperor
+仏教  # Buddhism
 阿修羅 # Asura
 波羅蜜多    # Paramita
 地獄  # Hell
@@ -14,6 +15,23 @@
 僧侶  # also monk in Chinese
 僧   # monk in Japanese
 比丘  # also monk in Japanese
+閻魔  # Yama, the judge of souls
+護法善神 # Dharmapala
+; Sects and movements
+顕教  #Kengyō; exoteric Buddhism; public Buddhist teachings
+密教  # esoteric Buddhism; Tantric Buddhism; Vajrayana; secret Buddhist teachings; Mikkyō
+浄土宗 # Pure Land sect (of Buddhism); Jodo (sect)
+浄土真宗    #  "The True Essence of the Pure Land Teaching"
+一向一揆    # Ikkō-ikki, "Ikkō-shū Uprising"
+; The Four Heavenly Kings
+四大天王    # The Four Heavenly Kings
+多聞天 # Tamonten
+毘沙門天    # Bishamonten
+増長天 # Zōchō-ten
+持国天 # Jikoku-ten
+広目天 # Kōmoku-ten
+; Journey to the West
+西遊記 # Saiyuuki, "The Journey to the West"
 如意金箍棒   # Ruyi Jingu Bang, the staff of Sun Wukong
 定海神针    # Ding Hai Shen Zhen, other name of Sun Wukong's staff
 ; Zen

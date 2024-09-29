@@ -161,35 +161,17 @@ man ciu/couk 	# North Finnic reading.
 man siu/souk	# Finnish reading, early borrowing.
 man tsiu/tsiok	# Finnish reading, late borrowing.
 
+我慢		# gaman, patience, temperance, moderation
+ngaX maenH	# Middle Chinese reading.
+na män 	# North Finnic reading.
+na män	# Finnish reading, early borrowing.
+na män	# Finnish reading, late borrowing.
+
 情報		# jouhou, information
 dzjeng pawH	# Middle Chinese reading.
 ceng pau 	# North Finnic reading.
 seng pau	# Finnish reading, early borrowing.
 tsieng pau	# Finnish reading, late borrowing.
-
-家族		# kazoku, family
-kae dzuwk	# Middle Chinese reading.
-kä cuuk 	# North Finnic reading.
-kä suuk	# Finnish reading, early borrowing.
-kä tsuuk	# Finnish reading, late borrowing.
-
-一族		# Ichizoku, clan
-'jit dzuwk	# Middle Chinese reading.
-jit cuuk 	# North Finnic reading.
-jit suuk	# Finnish reading, early borrowing.
-jit tsuuk	# Finnish reading, late borrowing.
-
-氏族		# shizoku, also clan?
-dzyeX dzuwk	# Middle Chinese reading.
-ke cuuk 	# North Finnic reading.
-ke suuk	# Finnish reading, early borrowing.
-kie tsuuk	# Finnish reading, late borrowing.
-
-主人		# Owner, master, husband
-tsyuX nyin	# Middle Chinese reading.
-ju nin 	# North Finnic reading.
-ju nin	# Finnish reading, early borrowing.
-kiu nin	# Finnish reading, late borrowing.
 
 面子		# "face", Jpn. "menzu", Mandarin "mianzu"
 mjienH tsiX	# Middle Chinese reading.
@@ -340,6 +322,38 @@ nyimH mjuH hwan kjowngX/lewX/kjwot	# Middle Chinese reading.
 nim miu van koung/leu/kot 	# North Finnic reading.
 nim miu van koung/leu/kot	# Finnish reading, early borrowing.
 nim miu huan kiong/leu/kuot	# Finnish reading, late borrowing.
+
+発音		# hatsuon, pronunciation
+pjot 'im	# Middle Chinese reading.
+pot im 	# North Finnic reading.
+pot im	# Finnish reading, early borrowing.
+piot im	# Finnish reading, late borrowing.
+
+
+[Family vocabulary]:
+家族		# kazoku, family
+kae dzuwk	# Middle Chinese reading.
+kä cuuk 	# North Finnic reading.
+kä suuk	# Finnish reading, early borrowing.
+kä tsuuk	# Finnish reading, late borrowing.
+
+一族		# Ichizoku, clan
+'jit dzuwk	# Middle Chinese reading.
+jit cuuk 	# North Finnic reading.
+jit suuk	# Finnish reading, early borrowing.
+jit tsuuk	# Finnish reading, late borrowing.
+
+氏族		# shizoku, also clan?
+dzyeX dzuwk	# Middle Chinese reading.
+ke cuuk 	# North Finnic reading.
+ke suuk	# Finnish reading, early borrowing.
+kie tsuuk	# Finnish reading, late borrowing.
+
+主人		# Owner, master, husband
+tsyuX nyin	# Middle Chinese reading.
+ju nin 	# North Finnic reading.
+ju nin	# Finnish reading, early borrowing.
+kiu nin	# Finnish reading, late borrowing.
 
 
 [One Punch Man]:

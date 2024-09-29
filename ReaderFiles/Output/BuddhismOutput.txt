@@ -1,45 +1,51 @@
 [Buddhist terms and phrases]:
-仏教		# Buddhism
-bjut kaew/kaewH	# Middle Chinese reading.
-piut käü 	# North Finnic reading.
-piut käy	# Finnish reading, early borrowing.
-piut käy	# Finnish reading, late borrowing.
+釋迦牟尼		# Sakyamuni
+syek kae mjuw nejX/nejH/nrij	# Middle Chinese reading.
+sek kä miu nei/nii 	# North Finnic reading.
+sek kä miu nei/nii	# Finnish reading, early borrowing.
+siek kä miu nei/nii	# Finnish reading, late borrowing.
 
-顕教		#Kengyō; exoteric Buddhism; public Buddhist teachings
-xenX kaew/kaewH	# Middle Chinese reading.
-ken käü 	# North Finnic reading.
-ken käy	# Finnish reading, early borrowing.
-ken käy	# Finnish reading, late borrowing.
+釈迦		# Shaka, "Shakyamuni"
+syek kae	# Middle Chinese reading.
+sek kä 	# North Finnic reading.
+sek kä	# Finnish reading, early borrowing.
+siek kä	# Finnish reading, late borrowing.
 
-密教		# esoteric Buddhism; Tantric Buddhism; Vajrayana; secret Buddhist teachings; Mikkyō
-mit kaew/kaewH	# Middle Chinese reading.
-mit käü 	# North Finnic reading.
-mit käy	# Finnish reading, early borrowing.
-mit käy	# Finnish reading, late borrowing.
-
-浄土宗		# Pure Land sect (of Buddhism); Jodo (sect)
-dzjengH thuX tsowng	# Middle Chinese reading.
-ceng tu coung 	# North Finnic reading.
-seng tu soung	# Finnish reading, early borrowing.
-tsieng tu tsoung	# Finnish reading, late borrowing.
-
-浄土真宗		#  "The True Essence of the Pure Land Teaching"
-dzjengH thuX tsyin tsowng	# Middle Chinese reading.
-ceng tu kin coung 	# North Finnic reading.
-seng tu kin soung	# Finnish reading, early borrowing.
-tsieng tu kin tsoung	# Finnish reading, late borrowing.
-
-一向一揆		# Ikkō-ikki, "Ikkō-shū Uprising"
-'jit xjangH 'jit gjwijX	# Middle Chinese reading.
-jit kang jit kui 	# North Finnic reading.
-jit kang jit kui	# Finnish reading, early borrowing.
-jit kiang jit kui	# Finnish reading, late borrowing.
+仏陀		# Buddha
+bjut da	# Middle Chinese reading.
+piut ta 	# North Finnic reading.
+piut ta	# Finnish reading, early borrowing.
+piut ta	# Finnish reading, late borrowing.
 
 菩薩		# Boddhisattva
 bu/bojX/bjuwX/bok sjet	# Middle Chinese reading.
 pu/poi/piu/pok set 	# North Finnic reading.
 pu/poi/piu/pok set	# Finnish reading, early borrowing.
 pu/poi/piu/pok siet	# Finnish reading, late borrowing.
+
+羅漢		# Arhat
+la xanH	# Middle Chinese reading.
+la kan 	# North Finnic reading.
+la kan	# Finnish reading, early borrowing.
+la kan	# Finnish reading, late borrowing.
+
+阿羅漢		# Arhat, alternative form
+'a la xanH	# Middle Chinese reading.
+aa la kan 	# North Finnic reading.
+aa la kan	# Finnish reading, early borrowing.
+a la kan	# Finnish reading, late borrowing.
+
+転輪聖王		# Chakravartin, "The one who spins the wheel", emperor
+trjwenX lwin syengH hjwang/hjwangH	# Middle Chinese reading.
+ten luin seng vang 	# North Finnic reading.
+ten luin seng vang	# Finnish reading, early borrowing.
+tuen luin sieng juang	# Finnish reading, late borrowing.
+
+仏教		# Buddhism
+bjut kaew/kaewH	# Middle Chinese reading.
+piut käü 	# North Finnic reading.
+piut käy	# Finnish reading, early borrowing.
+piut käy	# Finnish reading, late borrowing.
 
 阿修羅		# Asura
 'a sjuw la	# Middle Chinese reading.
@@ -88,6 +94,96 @@ pjijX/pjijH khjuw	# Middle Chinese reading.
 pii kiu 	# North Finnic reading.
 pii kiu	# Finnish reading, early borrowing.
 pi kiu	# Finnish reading, late borrowing.
+
+閻魔		# Yama, the judge of souls
+yem ma	# Middle Chinese reading.
+jem ma 	# North Finnic reading.
+jem ma	# Finnish reading, early borrowing.
+jem ma	# Finnish reading, late borrowing.
+
+護法善神		# Dharmapala
+huH pjop dzyenX zyin	# Middle Chinese reading.
+hu pop ken sin 	# North Finnic reading.
+hu pop ken sin	# Finnish reading, early borrowing.
+hu piop kien sin	# Finnish reading, late borrowing.
+
+
+[Sects and movements]:
+顕教		#Kengyō; exoteric Buddhism; public Buddhist teachings
+xenX kaew/kaewH	# Middle Chinese reading.
+ken käü 	# North Finnic reading.
+ken käy	# Finnish reading, early borrowing.
+ken käy	# Finnish reading, late borrowing.
+
+密教		# esoteric Buddhism; Tantric Buddhism; Vajrayana; secret Buddhist teachings; Mikkyō
+mit kaew/kaewH	# Middle Chinese reading.
+mit käü 	# North Finnic reading.
+mit käy	# Finnish reading, early borrowing.
+mit käy	# Finnish reading, late borrowing.
+
+浄土宗		# Pure Land sect (of Buddhism); Jodo (sect)
+dzjengH thuX tsowng	# Middle Chinese reading.
+ceng tu coung 	# North Finnic reading.
+seng tu soung	# Finnish reading, early borrowing.
+tsieng tu tsoung	# Finnish reading, late borrowing.
+
+浄土真宗		#  "The True Essence of the Pure Land Teaching"
+dzjengH thuX tsyin tsowng	# Middle Chinese reading.
+ceng tu kin coung 	# North Finnic reading.
+seng tu kin soung	# Finnish reading, early borrowing.
+tsieng tu kin tsoung	# Finnish reading, late borrowing.
+
+一向一揆		# Ikkō-ikki, "Ikkō-shū Uprising"
+'jit xjangH 'jit gjwijX	# Middle Chinese reading.
+jit kang jit kui 	# North Finnic reading.
+jit kang jit kui	# Finnish reading, early borrowing.
+jit kiang jit kui	# Finnish reading, late borrowing.
+
+
+[The Four Heavenly Kings]:
+四大天王		# The Four Heavenly Kings
+sijH daH/dajH then/xen hjwang/hjwangH	# Middle Chinese reading.
+sii ta/tai ten/ken vang 	# North Finnic reading.
+sii ta/tai ten/ken vang	# Finnish reading, early borrowing.
+sii ta/tai ten/ken juang	# Finnish reading, late borrowing.
+
+多聞天		# Tamonten
+ta mjun then/xen	# Middle Chinese reading.
+ta miun ten/ken 	# North Finnic reading.
+ta miun ten/ken	# Finnish reading, early borrowing.
+ta miun ten/ken	# Finnish reading, late borrowing.
+
+毘沙門天		# Bishamonten
+bjij srae mwon then/xen	# Middle Chinese reading.
+pii sä mon ten/ken 	# North Finnic reading.
+pii sä mon ten/ken	# Finnish reading, early borrowing.
+pi sä muon ten/ken	# Finnish reading, late borrowing.
+
+増長天		# Zōchō-ten
+tsong drjang/trjangX then/xen	# Middle Chinese reading.
+cong tang ten/ken 	# North Finnic reading.
+song tang ten/ken	# Finnish reading, early borrowing.
+tsong tiang ten/ken	# Finnish reading, late borrowing.
+
+持国天		# Jikoku-ten
+dri kwok then/xen	# Middle Chinese reading.
+ti kok ten/ken 	# North Finnic reading.
+ti kok ten/ken	# Finnish reading, early borrowing.
+ti kuok ten/ken	# Finnish reading, late borrowing.
+
+広目天		# Kōmoku-ten
+kwangX/kwangH mjuwk then/xen	# Middle Chinese reading.
+kang miuk ten/ken 	# North Finnic reading.
+kang miuk ten/ken	# Finnish reading, early borrowing.
+kuang miuk ten/ken	# Finnish reading, late borrowing.
+
+
+[Journey to the West]:
+西遊記		# Saiyuuki, "The Journey to the West"
+sej yuw kiH	# Middle Chinese reading.
+sei juu ki 	# North Finnic reading.
+sei juu ki	# Finnish reading, early borrowing.
+sei juu ki	# Finnish reading, late borrowing.
 
 如意金箍棒		# Ruyi Jingu Bang, the staff of Sun Wukong
 nyo 'iH kim ku baewngX	# Middle Chinese reading.

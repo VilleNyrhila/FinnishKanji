@@ -1,4 +1,4 @@
-[Valitut lauseet]:
+[Valitut fraasit]:
 駝鹿		# hirvi
 da luwk	# Middle Chinese reading.
 ta luuk 	# North Finnic reading.

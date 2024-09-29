@@ -29,6 +29,12 @@ kä/vä hä 	# North Finnic reading.
 kä/vä hä	# Finnish reading, early borrowing.
 kyä/hyä hä	# Finnish reading, late borrowing.
 
+君子		# junzi, gentleman, "person of high stature" or "Son of the Vassal, or Monarch"
+kjun tsiX	# Middle Chinese reading.
+kiun ci 	# North Finnic reading.
+kiun si	# Finnish reading, early borrowing.
+kiun tsi	# Finnish reading, late borrowing.
+
 仁		# Benevolence (ren)
 nyin	# Middle Chinese reading.
 nin 	# North Finnic reading.

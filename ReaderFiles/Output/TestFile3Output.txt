@@ -16,3 +16,97 @@ tan kau 	# North Finnic reading.
 tan kau	# Finnish reading, early borrowing.
 tan kau	# Finnish reading, late borrowing.
 
+头发		# hair
+duw pjot	# Middle Chinese reading.
+tuu pot 	# North Finnic reading.
+tuu pot	# Finnish reading, early borrowing.
+tuu piot	# Finnish reading, late borrowing.
+
+
+[Books]:
+水滸傳		# Water Margin, jpn. Suikoden
+sywijX xuX drjwen/drjwenH/trjwenH	# Middle Chinese reading.
+sui ku ten 	# North Finnic reading.
+sui ku ten	# Finnish reading, early borrowing.
+sui ku tuen	# Finnish reading, late borrowing.
+
+金瓶梅		# Chin Ping Mei
+kim beng mwoj	# Middle Chinese reading.
+kim peng moi 	# North Finnic reading.
+kim peng moi	# Finnish reading, early borrowing.
+kim peng muo	# Finnish reading, late borrowing.
+
+三国演义		# Sanguo Yanyi
+sam/samH kwok yenX ngjeH	# Middle Chinese reading.
+sam kok jen ne 	# North Finnic reading.
+sam kok jen ne	# Finnish reading, early borrowing.
+sam kuok jen nie	# Finnish reading, late borrowing.
+
+西遊記		# Journey to the West, jpn. Saiyuuki
+sej yuw kiH	# Middle Chinese reading.
+sei juu ki 	# North Finnic reading.
+sei juu ki	# Finnish reading, early borrowing.
+sei juu ki	# Finnish reading, late borrowing.
+
+紅樓夢		# Honglou Meng, Dream of the Red Chamber
+huwng luw mjuwngH	# Middle Chinese reading.
+huung luu miung 	# North Finnic reading.
+huung luu miung	# Finnish reading, early borrowing.
+huung luu miung	# Finnish reading, late borrowing.
+
+
+[Units of Measure]:
+兩		# Tael or tahil, a traditional unit of weight. Circa 50 grams.
+ljangX	# Middle Chinese reading.
+lang 	# North Finnic reading.
+lang	# Finnish reading, early borrowing.
+liang	# Finnish reading, late borrowing.
+
+錢		# Mace, equal to 10 candareens and is 1⁄10 of a tael or approximately 3.78 grams
+dzjen	# Middle Chinese reading.
+cen 	# North Finnic reading.
+sen	# Finnish reading, early borrowing.
+tsien	# Finnish reading, late borrowing.
+
+分		# Candareen, equal to 10 cash and is 1⁄10 of a mace. It is approximately 378 milligrams
+pjun/bjunH	# Middle Chinese reading.
+piun 	# North Finnic reading.
+piun	# Finnish reading, early borrowing.
+piun	# Finnish reading, late borrowing.
+
+釐		# Cash, equal to 1⁄10 candareen or 1⁄16000 catty, namely 37.79936375 milligrams
+li	# Middle Chinese reading.
+li 	# North Finnic reading.
+li	# Finnish reading, early borrowing.
+li	# Finnish reading, late borrowing.
+
+斤		# Catty, equal to 16 taels
+kj+n	# Middle Chinese reading.
+kün 	# North Finnic reading.
+kyn	# Finnish reading, early borrowing.
+kiyn	# Finnish reading, late borrowing.
+
+擔		# Picul, equal to 100 catties
+tam/tamH	# Middle Chinese reading.
+tam 	# North Finnic reading.
+tam	# Finnish reading, early borrowing.
+tam	# Finnish reading, late borrowing.
+
+里		# lǐ, aka a Chinese mile. Standardized to 500 m.
+liX	# Middle Chinese reading.
+li 	# North Finnic reading.
+li	# Finnish reading, early borrowing.
+li	# Finnish reading, late borrowing.
+
+尺		# chi, aka a Chinese foot. Standardized to 0,33 m. Equal to 10 cun.
+tsyhek	# Middle Chinese reading.
+kek 	# North Finnic reading.
+kek	# Finnish reading, early borrowing.
+kiek	# Finnish reading, late borrowing.
+
+寸		# cun, aka a Chinese inch. Standardized to 3,3 cm. In Japan, it is standardized to 3.03 cm.
+tshwonH	# Middle Chinese reading.
+con 	# North Finnic reading.
+son	# Finnish reading, early borrowing.
+tsuon	# Finnish reading, late borrowing.
+

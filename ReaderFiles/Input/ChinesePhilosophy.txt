@@ -4,6 +4,7 @@
 儒家  # Confucianism
 儒教  # Also Confucianism
 華夏  # Huaxia, a term for Chinese and ancestrally related peoples
+君子  # junzi, gentleman, "person of high stature" or "Son of the Vassal, or Monarch"
 # The Five Constants
 仁   # Benevolence (ren)
 義   # Righteousness (yi)

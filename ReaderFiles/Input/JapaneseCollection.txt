@@ -4,6 +4,9 @@
 武士道 # Bushido
 忍者  # Ninja
 将軍  # Shogun
+征夷大将軍   # Seii Taishogun, "the great general who subdues the barbarians"
+幕府  # bakufu, shogunate government
+下克上 # gekokujou,  "the low overcomes the high"
 大名  # Daimyo
 ; Video games
 任天堂 # Nintendo
@@ -13,3 +16,5 @@
 訓読  # Kun-yo(mi)
 本田    # Honda
 竜宮城 # Ryuuguujou, a fabled castle at the bottom of the sea from the tale of Urashima Tarou.
+漫画  # manga
+

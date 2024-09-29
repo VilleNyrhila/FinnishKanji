@@ -1,3 +1,20 @@
 苹果  # Apple
 草莓  # Strawberry
 蛋糕  # Cake
+头发  # hair
+; Books
+水滸傳 # Water Margin, jpn. Suikoden
+金瓶梅 # Chin Ping Mei
+三国演义    # Sanguo Yanyi
+西遊記 # Journey to the West, jpn. Saiyuuki
+紅樓夢 # Honglou Meng, Dream of the Red Chamber
+; Units of Measure
+兩   # Tael or tahil, a traditional unit of weight. Circa 50 grams.
+錢   # Mace, equal to 10 candareens and is 1⁄10 of a tael or approximately 3.78 grams
+分   # Candareen, equal to 10 cash and is 1⁄10 of a mace. It is approximately 378 milligrams
+釐   # Cash, equal to 1⁄10 candareen or 1⁄16000 catty, namely 37.79936375 milligrams
+斤   # Catty, equal to 16 taels
+擔   # Picul, equal to 100 catties
+里   # lǐ, aka a Chinese mile. Standardized to 500 m.
+尺   # chi, aka a Chinese foot. Standardized to 0,33 m. Equal to 10 cun.
+寸   # cun, aka a Chinese inch. Standardized to 3,3 cm. In Japan, it is standardized to 3.03 cm.

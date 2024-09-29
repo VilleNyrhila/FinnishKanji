@@ -5,13 +5,22 @@
 李小龍 # Lee Jun-fan, Bruce Lee
 ; Karate
 空手  # Karate, Empty Hand, "Tyhjäkäsi"
-和道流 # Wadoryu (karate)
+和道流 # Wadoryu
 極真  # Kyokushin
 松濤館 # Shoutoukan
+; Weapons
+刀   # sabre
+剣   # thrusting sword
+盾   # shield
+棒   # staff
+槍   # spear
+弓   # bow
+斬馬刀 # Zanbatou, "horse-cutting sabre"
+胴太貫 # Doutanuki, "torso-thick-penetrate", a type of sword from Lone Wolf and Cub
 ; Japanese
 武道  # Budou
 武術  # Bujutsu
-道場  # Dojo
+道場  # "dojo", jpn. doujou, kor. dojang
 剣術  # Kenjutsu
 劍術  # Kenjutsu, archaic sword letter.
 劍道  # Kendo

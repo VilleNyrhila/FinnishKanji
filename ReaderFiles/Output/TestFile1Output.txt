@@ -110,6 +110,14 @@ met nu	# Finnish reading, early borrowing.
 miet nu	# Finnish reading, late borrowing.
 
 
+[Castlevania]:
+悪魔城		# Akumajou, "Demon Castle"
+'ak/'uH ma dzyeng	# Middle Chinese reading.
+ak/uu ma keng 	# North Finnic reading.
+ak/uu ma keng	# Finnish reading, early borrowing.
+ak/u ma kieng	# Finnish reading, late borrowing.
+
+
 [Mythology]:
 四象		# The Four Symbols
 sijH zjangX	# Middle Chinese reading.

@@ -18,6 +18,8 @@
 笑止  # Shoushi!
 滅殺  # Messatsu
 滅怒  # Evil Ryu vs Asura
+; Castlevania
+悪魔城 # Akumajou, "Demon Castle"
 ; Mythology
 四象  # The Four Symbols
 四神  # The Four Gods

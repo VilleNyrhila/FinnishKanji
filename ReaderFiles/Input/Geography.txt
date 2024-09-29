@@ -66,3 +66,5 @@
 柴棍  # Saigon, aka Ho Chi Minh City
 胡志明 # Ho Chi Minh
 馮興  # Phung Hung, national hero of Vietnam
+; Singapore
+李光耀 # Lee Kuan Yew

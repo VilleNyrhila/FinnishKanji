@@ -26,11 +26,8 @@
 納得  # consent
 了解  # Ryoukai
 満足  # manzoku, satisfaction
+我慢  # gaman, patience, temperance, moderation
 情報  # jouhou, information
-家族  # kazoku, family
-一族  # Ichizoku, clan
-氏族  # shizoku, also clan?
-主人  # Owner, master, husband
 面子  # "face", Jpn. "menzu", Mandarin "mianzu"
 有名  # "famous", jpn. "yuumei"
 殺気  # "killing intent, murderous air (about somebody)", jpn. "sakki"
@@ -56,6 +53,12 @@
 雷電  # Raiden
 雷公  # Raikou
 任務完了    # nimmu kanryou, mission accomplished
+発音  # hatsuon, pronunciation
+; Family vocabulary
+家族  # kazoku, family
+一族  # Ichizoku, clan
+氏族  # shizoku, also clan?
+主人  # Owner, master, husband
 ; One Punch Man
 参上  # sanjou, "present"
 必勝  # certain victory

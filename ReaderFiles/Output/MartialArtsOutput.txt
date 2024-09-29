@@ -31,7 +31,7 @@ kuung siu 	# North Finnic reading.
 kuung siu	# Finnish reading, early borrowing.
 kuung siu	# Finnish reading, late borrowing.
 
-和道流		# Wadoryu (karate)
+和道流		# Wadoryu
 hwa/hwaH dawH/dawX ljuw	# Middle Chinese reading.
 va tau liu 	# North Finnic reading.
 va tau liu	# Finnish reading, early borrowing.
@@ -50,6 +50,56 @@ soung tau kan	# Finnish reading, early borrowing.
 siong tau kuan	# Finnish reading, late borrowing.
 
 
+[Weapons]:
+刀		# sabre
+taw	# Middle Chinese reading.
+tau 	# North Finnic reading.
+tau	# Finnish reading, early borrowing.
+tau	# Finnish reading, late borrowing.
+
+剣		# thrusting sword
+kjaemH	# Middle Chinese reading.
+käm 	# North Finnic reading.
+käm	# Finnish reading, early borrowing.
+kiäm	# Finnish reading, late borrowing.
+
+盾		# shield
+dwonX	# Middle Chinese reading.
+ton 	# North Finnic reading.
+ton	# Finnish reading, early borrowing.
+tuon	# Finnish reading, late borrowing.
+
+棒		# staff
+baewngX	# Middle Chinese reading.
+päüng 	# North Finnic reading.
+päyng	# Finnish reading, early borrowing.
+päyng	# Finnish reading, late borrowing.
+
+槍		# spear
+tshjang/tsrhaeng	# Middle Chinese reading.
+cang/cäng 	# North Finnic reading.
+sang/säng	# Finnish reading, early borrowing.
+tsiang/tsäng	# Finnish reading, late borrowing.
+
+弓		# bow
+kjuwng	# Middle Chinese reading.
+kiung 	# North Finnic reading.
+kiung	# Finnish reading, early borrowing.
+kiung	# Finnish reading, late borrowing.
+
+斬馬刀		# Zanbatou, "horse-cutting sabre"
+tsreamX maeX taw	# Middle Chinese reading.
+cäm mä tau 	# North Finnic reading.
+säm mä tau	# Finnish reading, early borrowing.
+tsäm mä tau	# Finnish reading, late borrowing.
+
+胴太貫		# Doutanuki, "torso-thick-penetrate", a type of sword from Lone Wolf and Cub
+duwngH thajH kwan/kwanH	# Middle Chinese reading.
+tuung tai kan 	# North Finnic reading.
+tuung tai kan	# Finnish reading, early borrowing.
+tuung tai kuan	# Finnish reading, late borrowing.
+
+
 [Japanese]:
 武道		# Budou
 mjuX dawH/dawX	# Middle Chinese reading.
@@ -63,7 +113,7 @@ miu suit 	# North Finnic reading.
 miu suit	# Finnish reading, early borrowing.
 miu suit	# Finnish reading, late borrowing.
 
-道場		# Dojo
+道場		# "dojo", jpn. doujou, kor. dojang
 dawH/dawX drjang	# Middle Chinese reading.
 tau tang 	# North Finnic reading.
 tau tang	# Finnish reading, early borrowing.

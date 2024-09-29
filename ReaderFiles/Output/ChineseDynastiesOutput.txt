@@ -408,6 +408,74 @@ miu sok ten/ken	# Finnish reading, early borrowing.
 miu tsok ten/ken	# Finnish reading, late borrowing.
 
 
+[Yuan dynasty]:
+元朝		# Yuan Dynasty
+ngjwon drjew/trjew	# Middle Chinese reading.
+non teu 	# North Finnic reading.
+non teu	# Finnish reading, early borrowing.
+nuon tie	# Finnish reading, late borrowing.
+
+成吉思汗		# Chingis Khan
+dzyeng kjit si hanH	# Middle Chinese reading.
+keng kit si han 	# North Finnic reading.
+keng kit si han	# Finnish reading, early borrowing.
+kieng kit si han	# Finnish reading, late borrowing.
+
+法天啟運聖武皇帝		# Chingis Khan posthumous name
+pjop then/xen khejX hjunH syengH mjuX hwang tejH	# Middle Chinese reading.
+pop ten/ken kei jun seng miu vang tei 	# North Finnic reading.
+pop ten/ken kei jun seng miu vang tei	# Finnish reading, early borrowing.
+piop ten/ken kei hiun sieng miu huang tei	# Finnish reading, late borrowing.
+
+太祖		# Chingis Khan temple name
+thajH tsuX	# Middle Chinese reading.
+tai cu 	# North Finnic reading.
+tai su	# Finnish reading, early borrowing.
+tai tsu	# Finnish reading, late borrowing.
+
+孛兒只斤鐵木真		# Chingis Khan given name, Borjigin Temujin
+bwojH/bwot nye tsye/tsyeX kj+n thet muwk tsyin	# Middle Chinese reading.
+poi/pot ne ke kün tet muuk kin 	# North Finnic reading.
+poi/pot ne ke kyn tet muuk kin	# Finnish reading, early borrowing.
+puo/puot nie kie kiyn tet muuk kin	# Finnish reading, late borrowing.
+
+英文皇帝		# Ögedei Khan posthumous name
+'jaeng mjun hwang tejH	# Middle Chinese reading.
+jäng miun vang tei 	# North Finnic reading.
+jäng miun vang tei	# Finnish reading, early borrowing.
+jäng miun huang tei	# Finnish reading, late borrowing.
+
+太宗		# Ögedei's temple name
+thajH tsowng	# Middle Chinese reading.
+tai coung 	# North Finnic reading.
+tai soung	# Finnish reading, early borrowing.
+tai tsoung	# Finnish reading, late borrowing.
+
+桓肅皇帝		# Möngke's posthumous name
+hwan sjuwk hwang tejH	# Middle Chinese reading.
+van siuk vang tei 	# North Finnic reading.
+van siuk vang tei	# Finnish reading, early borrowing.
+huan siuk huang tei	# Finnish reading, late borrowing.
+
+憲宗		# Möngke's temple name
+xjonH tsowng	# Middle Chinese reading.
+kon coung 	# North Finnic reading.
+kon soung	# Finnish reading, early borrowing.
+kion tsoung	# Finnish reading, late borrowing.
+
+聖德神功文武皇帝		# Kublai's posthumous name
+syengH tok zyin kuwng mjun mjuX hwang tejH	# Middle Chinese reading.
+seng tok sin kuung miun miu vang tei 	# North Finnic reading.
+seng tok sin kuung miun miu vang tei	# Finnish reading, early borrowing.
+sieng tok sin kuung miun miu huang tei	# Finnish reading, late borrowing.
+
+世祖		# Kublai's temple name
+syejH tsuX	# Middle Chinese reading.
+sei cu 	# North Finnic reading.
+sei su	# Finnish reading, early borrowing.
+sie tsu	# Finnish reading, late borrowing.
+
+
 [Ancient Shu Kingdom]:
 三星堆		# Sanxingdui (bronze age Chinese culture), ancient Shu kingdom
 sam/samH seng twoj	# Middle Chinese reading.
@@ -688,4 +756,10 @@ thajH paek	# Middle Chinese reading.
 tai päk 	# North Finnic reading.
 tai päk	# Finnish reading, early borrowing.
 tai päk	# Finnish reading, late borrowing.
+
+羌		# the Qiang, an ancient people neighboring China and frequently ruled by the Chinese.
+khjang	# Middle Chinese reading.
+kang 	# North Finnic reading.
+kang	# Finnish reading, early borrowing.
+kiang	# Finnish reading, late borrowing.
 

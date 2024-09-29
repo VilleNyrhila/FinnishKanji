@@ -25,6 +25,24 @@ cang kiun 	# North Finnic reading.
 sang kiun	# Finnish reading, early borrowing.
 tsiang kiun	# Finnish reading, late borrowing.
 
+征夷大将軍		# Seii Taishogun, "the great general who subdues the barbarians"
+tsyeng yij daH/dajH tsjang/tsjangH kjun	# Middle Chinese reading.
+keng jii ta/tai cang kiun 	# North Finnic reading.
+keng jii ta/tai sang kiun	# Finnish reading, early borrowing.
+kieng jii ta/tai tsiang kiun	# Finnish reading, late borrowing.
+
+幕府		# bakufu, shogunate government
+mak pjuX	# Middle Chinese reading.
+mak piu 	# North Finnic reading.
+mak piu	# Finnish reading, early borrowing.
+mak piu	# Finnish reading, late borrowing.
+
+下克上		# gekokujou,  "the low overcomes the high"
+haeX/haeH khok dzyangX/dzyangH	# Middle Chinese reading.
+hä kok kang 	# North Finnic reading.
+hä kok kang	# Finnish reading, early borrowing.
+hä kok kiang	# Finnish reading, late borrowing.
+
 大名		# Daimyo
 daH/dajH mjieng	# Middle Chinese reading.
 ta/tai meng 	# North Finnic reading.
@@ -70,4 +88,10 @@ ljowng/maewng kjuwng dzyeng	# Middle Chinese reading.
 loung/mäüng kiung keng 	# North Finnic reading.
 loung/mäyng kiung keng	# Finnish reading, early borrowing.
 liong/mäyng kiung kieng	# Finnish reading, late borrowing.
+
+漫画		# manga
+manH hweaH/hweak	# Middle Chinese reading.
+man vä/väk 	# North Finnic reading.
+man vä/väk	# Finnish reading, early borrowing.
+man hyä/hyäk	# Finnish reading, late borrowing.
 

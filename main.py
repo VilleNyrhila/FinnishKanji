@@ -1,11 +1,9 @@
 import yaml
-import json
-import re
 import time
 
 from utils.fileUtils import read_a_data_file
 
-PALATALS_AFFRICATES = ("tsy", "tsyh", "dzy", )
+PALATALS_AFFRICATES = ("tsy", "tsyh", "dzy",)
 ROUND_VOWELS = ('u', 'o', 'y', 'ü', 'ö')
 # Conf
 BAXTER_SUPERSEDE: bool = True
@@ -21,8 +19,9 @@ finnic_initials = {}
 finnish_initials = {}
 finnic_finals = {}
 
+
 def read_data_files():
-    global guangyun, baxter, initial_map, final_map, main_vowel_map, coda_map, definitions,\
+    global guangyun, baxter, initial_map, final_map, main_vowel_map, coda_map, definitions, \
         finnic_initials, finnic_finals, finnish_initials
     yaml_counter: int = 0
     json_counter: int = 0
@@ -41,7 +40,7 @@ def read_data_files():
     coda_map, yaml_counter, json_counter = read_a_data_file(coda_map, "data/maps/CodaMap.yaml",
                                                             yaml_counter, json_counter)
     definitions, yaml_counter, json_counter = read_a_data_file(definitions,
-                                   "DefinitionsCollection/Chinese/CompleteRuns/DefinitionsFinnishFullPlus.yaml",
+                                                               "DefinitionsCollection/Chinese/CompleteRuns/DefinitionsFinnishFullPlus.yaml",
                                                                yaml_counter, json_counter)
     read_yaml_stop = time.perf_counter()
     read_json_start = time.perf_counter()
@@ -58,20 +57,52 @@ def read_data_files():
           f"{json_counter} JSON files in {read_json_stop - read_json_start:0.4f} seconds.")
 
 
-
-def construct_north_finnic_pronunciation(mc_initial: str, mc_final:str,
+def construct_north_finnic_pronunciation(mc_initial: str, mc_final: str,
                                          fc_final: str, medial: str, main_vowel_fc: str, coda: str):
     """Construct a loaned pronunciation from Early Middle Chinese to North Finnic."""
+    coda_vowel = ""
+    if coda and coda[0] in ('j', 'w'):
+        coda_vowel = coda[0]
+
+    def form_vowel_nucleus():
+        nonlocal coda_vowel
+        if coda_vowel:
+            if coda_vowel == 'w':
+                coda_vowel = 'u'
+            elif coda_vowel == 'j':
+                coda_vowel = 'i'
+            return f"{main_vowel_fc}{coda_vowel}".strip()
+        if medial and main_vowel_fc in ('i', 'u', 'ü'):
+            if 'w' in medial:
+                return f"u{main_vowel_fc}".strip()
+            if 'j' in medial:
+                return f"i{main_vowel_fc}".strip()
+        return main_vowel_fc
+
+    def form_finnic_ending():
+        output = form_vowel_nucleus()
+        if not coda_vowel:
+            output += coda
+        else:
+            output += coda[1:]
+        return output.strip()
+
+    def combine():
+        fc_initial_ = finnic_initials[mc_initial]
+        ending = form_finnic_ending()
+        if mc_initial in PALATALS_AFFRICATES and fc_final[0] in ROUND_VOWELS:
+            fc_initial_ = 'j'  # Post-alveolar affricates were borrowed as 'j' when followed by rounded vowels.
+
     fc_initial = finnic_initials[mc_initial]
     # Potential medials include: '', 'j', 'w', 'jw', 'ji', 'jwi'
     if 'y' in mc_initial:
         # Palatalization in the initial.
         if mc_initial == 'y' or mc_initial in PALATALS_AFFRICATES:
             if medial and medial[0] == 'j':
-                medial = medial[1:] # Remove palatalization from final, if it's already found in the initial.
+                medial = medial[1:]  # Remove palatalization from final, if it's already found in the initial.
         elif 'j' not in medial:
             # Palatalization in the initial, but not in the medial.
-            medial = 'j' + medial   # Move the palatalization around.
+            medial = 'j' + medial  # Move the palatalization around.
     if not fc_initial or fc_initial == "h" and medial:
         if "w" in medial:
             fc_initial = 'v'
@@ -79,7 +110,7 @@ def construct_north_finnic_pronunciation(mc_initial: str, mc_final:str,
             fc_initial = 'j'  # 'Y' in "Zhang Fei Yide"
         if not fc_initial and not coda:
             if medial == "jw":
-                fc_final = "iu" # Unique case.
+                fc_final = "iu"  # Unique case.
     else:
         # Non-empty initial.
         if len(fc_final) > 1:
@@ -100,7 +131,7 @@ def construct_north_finnic_pronunciation(mc_initial: str, mc_final:str,
             elif fc_final[:2] == "ii":
                 if 'w' in medial:
                     fc_final = "ui" + fc_final[2:]
-        if not coda :
+        if not coda:
             # Empty coda.
             if 'j' in medial:
                 if fc_final[0] in ('u', 'i'):
@@ -113,8 +144,9 @@ def construct_north_finnic_pronunciation(mc_initial: str, mc_final:str,
         output *= 2
     return output
 
-def construct_early_finnish_pronunciation(mc_initial: str, mc_final:str,
-                                         fi_final: str, medial: str, main_vowel_fc: str, coda: str):
+
+def construct_early_finnish_pronunciation(mc_initial: str, mc_final: str,
+                                          fi_final: str, medial: str, main_vowel_fc: str, coda: str):
     """Construct a loaned pronunciation from Late Middle Chinese to Early Finnish."""
     fi_initial = finnish_initials[mc_initial]
     if mc_initial in ('y') and medial and medial[0] == 'j':
@@ -162,6 +194,7 @@ def construct_early_finnish_pronunciation(mc_initial: str, mc_final:str,
     output = output.strip()
     return output
 
+
 def insert_definitions(output_dictionary_):
     def get_definition(zi_: str):
         if zi_ in definitions:
@@ -170,18 +203,20 @@ def insert_definitions(output_dictionary_):
                 entries[i] = entries[i].strip()
             return entries
         return None
+
     for zi in output_dictionary_:
         definition_ = get_definition(zi)
         if definition_:
             output_dictionary_[zi]["Unihan-Fi"] = definition_
     return output_dictionary_
 
-def make_entry(initial_, final_, tone, source, fanqie = None, zi = None):
+
+def make_entry(initial_, final_, tone, source, fanqie=None, zi=None):
     def derive_finnish_reading(finnic_reading_: str) -> str:
         """Apply known regular sound changes and notation differences."""
         output: str = finnic_reading_
         output = output.replace('c', 's')
-        output = output.replace('ü', 'y')   # A difference in notation.
+        output = output.replace('ü', 'y')  # A difference in notation.
         return output
 
     def convert_vowel_core_and_medial(final_: str):
@@ -192,8 +227,10 @@ def make_entry(initial_, final_, tone, source, fanqie = None, zi = None):
             coda_: str = ""
             tmp_: str = final_2
             # First, get the coda.
-            if tmp_[-3:] in ("wng"): coda_ = tmp_[-3:]
-            elif tmp_[-2:] in ("ng", "wk"): coda_ = tmp_[-2:]
+            if tmp_[-3:] in ("wng"):
+                coda_ = tmp_[-3:]
+            elif tmp_[-2:] in ("ng", "wk"):
+                coda_ = tmp_[-2:]
             elif tmp_[-1] in ('k', 'w', 'm', 'p', 'j', 'n', 't', 'i'):
                 coda_ = tmp_[-1]
                 if coda_ == 'i':
@@ -201,12 +238,15 @@ def make_entry(initial_, final_, tone, source, fanqie = None, zi = None):
                     if len(final_2) == 1: coda_ = ''
             if coda_: tmp_ = tmp_[:-len(coda_)]
             # Next, take the main vowel.
-            if tmp_[-2:] in ("ea", "ae"): main_vowel_ = tmp_[-2:]
-            else: main_vowel_ = tmp_[-1]
+            if tmp_[-2:] in ("ea", "ae"):
+                main_vowel_ = tmp_[-2:]
+            else:
+                main_vowel_ = tmp_[-1]
             tmp_ = tmp_[:-len(main_vowel_)]
             medial_ = tmp_  # Last, take the medial, if any.
             if medial_ not in ('', 'j', 'w', 'jw', 'ji', 'jwi'): raise ValueError(f"Medial was '{medial_}'!")
             return medial_, main_vowel_, coda_
+
         if final_ == "rea":
             return "e", "", "ä", ''
         medial_, main_vowel_, coda_ = split_final(final_)
@@ -225,6 +265,7 @@ def make_entry(initial_, final_, tone, source, fanqie = None, zi = None):
             elif tone_ == 'C':
                 body_text += 'H'
             return body_text
+
         output = f"{initial_1}{final_1}"
         if initial_1:
             if ('y' in initial_1 or 'j' in initial_1) and final_[0] == 'j':
@@ -232,6 +273,7 @@ def make_entry(initial_, final_, tone, source, fanqie = None, zi = None):
         output = output.strip()
         output = append_tone_mark(output)
         return output
+
     fc_final, medial, main_vowel_fc, coda = convert_vowel_core_and_medial(final_)
     north_finnic = construct_north_finnic_pronunciation(initial_, final_, fc_final, medial, main_vowel_fc, coda)
     entry: dict = {
@@ -260,6 +302,7 @@ def make_entry(initial_, final_, tone, source, fanqie = None, zi = None):
     if fanqie: entry["fanqie"] = [fanqie]
     return entry
 
+
 def append_entry(zi: str, entry: dict, output_dictionary: dict):
     def insert_language(section_: str, language: str):
         pronunciations: dict = output_dictionary[zi]["pronunciations"]
@@ -279,6 +322,7 @@ def append_entry(zi: str, entry: dict, output_dictionary: dict):
     insert_language("early-loan", "Proto-Finnic")
     insert_language("late-loan", "Early-Finnish")
 
+
 def scrape_guangyun(output_dictionary: dict):
     def compose_guangyun_entry(zi_: str, fanqie_: str):
         # Most initials have only one value.
@@ -295,10 +339,12 @@ def scrape_guangyun(output_dictionary: dict):
             output_dictionary_[zi_] = {"pronunciations": entry_}
         else:
             append_entry(zi_, entry_, output_dictionary_)
+
     for zi in guangyun:
         for fanqie in guangyun[zi]["fanqie"]:
             entry = compose_guangyun_entry(zi, fanqie)
             append_guangyun_entry(zi, entry, output_dictionary)
+
 
 def scrape_baxter(output_dictionary: dict, baxter_counter: int = 0):
     def compose_baxter_entry(zi_: str, entry_b_: dict):
@@ -321,6 +367,7 @@ def scrape_baxter(output_dictionary: dict, baxter_counter: int = 0):
         else:
             for zi_, baxter_entry in enumerate(entries_):
                 append_entry(zi_, baxter_entry, output_dictionary_)
+
     for zi in baxter:
         baxter_counter += 1 if zi not in output_dictionary else 0
         entries: list = {}
@@ -339,6 +386,7 @@ def scrape_baxter(output_dictionary: dict, baxter_counter: int = 0):
                     entries[zi].append(entry)
         append_baxter_entries(zi, entries, output_dictionary)
     return baxter_counter
+
 
 if __name__ == '__main__':
     read_data_files()
@@ -360,4 +408,3 @@ if __name__ == '__main__':
         mc_yaml = yaml.dump(output_dictionary, f, sort_keys=False, default_flow_style=False, allow_unicode=True)
         write_file_time_end = time.perf_counter()
         print(f"Compiled to file '{f.name}' in {write_file_time_end - write_file_time_start:0.4f} seconds. ")
-

@@ -4,27 +4,34 @@
 元斗皇拳
 ; Nanto Seiken Schools, etc.
 南斗白鷺拳   # Nanto Hakurō Ken, Shu
-仁星
+仁星  # Star of Benevolence, Jinsei
 南斗鳳凰拳   # Nanto Hōō Ken, Souther
-将星
+将星  #  Star of Leadership, Shōsei
 南斗紅鶴拳   # Nanto Kōkaku Ken, Yuda
-妖星
+妖星  # Star of Enchantment, Yōsei
 南斗孤鷲拳   # Nanto Koshū Ken, Shin
-殉星
+殉星  # Star of Martyrdom, Junsei
 南斗六聖拳最後将    # Nanto Saigo (no) Shō
-慈母星
+慈母星 # Merciful Mother Star, Jibosei
 南斗水鳥拳   # Nanto Suichō Ken, Rei
-義星
+義星  # Star of Justice, Gisei
 南斗五車星   # Nanto Goshasei, Five Chariot Stars of South Dipper
 我流拳 # Self-Taught Fist
-五車炎情拳
-五車風裂拳
-五車波砕拳
-五車山峨斬
+五車炎情拳   # Gosha Enjō Ken, Five Chariots Passionate Flame Fist
+五車風裂拳   # Gosha Fūretsu Ken, Five Chariots Wind Split Fist
+五車波砕拳   # Gosha Hasui Ken, Five Chariots Wave Crush Fist
+五車山峨斬   # Gosha Sanga Zan, Five Chariots Mountain Slash
 ; Gento Kouken
 天帝
 天帝星
 大極星
+; Miscellaneous
+北斗練気闘座  # Hokuto Renkitōza
+死兆星 # Shichōsei, the Death Omen Star, Alcor
+世紀末救世主 # Seikimatsu kyuuseishu, the End of Century Savior
+世紀末覇者   # Seikimatus kyuuseishu, the End of Century Conqueror
+継承者 # inheritor
+一子相伝 # Isshi Sōden, Sole Succession
 ; Hokuto Shinken Moves
 # Source: https://www.liquisearch.com/hokuto_shinken/techniques
 五指烈弾
